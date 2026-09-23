@@ -1,4 +1,4 @@
-# Progress — Indigo: A Global Commodity Autopsy
+# Progress — Indigo: The Blue That Dyed the World
 
 **Repository:** `fritzhand/history-of-indigo`
 **Branch:** `claude/ecstatic-ptolemy-93k4oh`

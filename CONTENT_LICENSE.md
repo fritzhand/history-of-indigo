@@ -20,7 +20,7 @@ inherited from the Tampa and Iran War templates. This file covers the
 - Values marked `estimate: true` or `DERIVED` are conversions, indices,
   remainders or editorial reconstructions; the `note` names the inputs. Do not
   cite them as primary figures.
-- Suggested attribution: *Indigo: A Global Commodity Autopsy*
+- Suggested attribution: *Indigo: The Blue That Dyed the World*
   (`fritzhand/history-of-indigo`), compiled from the sources cited per point.
 
 ## Media policy

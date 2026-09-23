@@ -1,4 +1,4 @@
-# Indigo: A Global Commodity Autopsy
+# Indigo: The Blue That Dyed the World
 
 An open-data, scrollytelling data-journalism site on **six thousand years of indigo** — from indigo-dyed cotton at Huaca Prieta, Peru (about 6,200–6,000 years old) to the denim mill. It is a domain fork of [`fritzhand/history-of-tampa`](https://github.com/fritzhand/history-of-tampa) (*Downtown Tampa: A Civic Development Autopsy*), itself a fork of [`fritzhand/iranwar`](https://github.com/fritzhand/iranwar): same architecture, same citation standard, a different subject and a planet-sized study area.
 

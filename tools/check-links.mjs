@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * check-links.mjs — source-link audit for the Indigo commodity autopsy.
+ * check-links.mjs — source-link audit for the indigo study.
  *
  * Extracts every http(s) URL from js/data.js and index.html (or the files you
  * pass), requests each one, and prints the HTTP status grouped by outcome.

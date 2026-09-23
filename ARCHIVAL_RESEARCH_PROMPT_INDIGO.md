@@ -1,4 +1,4 @@
-# Archival Research Brief — Indigo: A Global Commodity Autopsy
+# Archival Research Brief — Indigo: The Blue That Dyed the World
 
 The next evidence pass. Every item below is a named gap on the live site: a
 figure marked PENDING or DERIVED where a primary record should exist, a

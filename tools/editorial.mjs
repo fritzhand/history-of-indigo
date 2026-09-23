@@ -38,7 +38,7 @@ export default function editorial(H) {
   ];
 
   const meta = {
-    title: 'Indigo: A Global Commodity Autopsy',
+    title: 'Indigo: The Blue That Dyed the World',
     subtitle: 'Six thousand years of the world\'s blue, from a Peruvian midden to the denim mill',
     asOfYear: 2025,
     center: [22, 30],

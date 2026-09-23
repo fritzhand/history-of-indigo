@@ -26,7 +26,7 @@ console.log(JSON.stringify({ n, inst: inst.size }));
 c = json.loads(subprocess.check_output(['node', '-e', count_js, str(root / 'js/data.js')]))
 n, inst = f"{c['n']:,}", c['inst']
 html = (root / 'index.html').read_text()
-desc = (f"A data-journalism autopsy of indigo: six thousand years of the world's blue, from a Peruvian "
+desc = (f"A data-journalism history of indigo: six thousand years of the world's blue, from a Peruvian "
         f"midden to the denim mill — {n} cited data points across {inst} institutions.")
 html = re.sub(r'(<meta property="og:description" content=")[^"]*(")', lambda m: m.group(1) + desc + m.group(2), html)
 html = re.sub(r'(<meta name="twitter:description" content=")[^"]*(")', lambda m: m.group(1) + desc + m.group(2), html)

@@ -1,5 +1,5 @@
 /**
- * app.js — Indigo: A Global Commodity Autopsy
+ * app.js — Indigo: The Blue That Dyed the World
  *
  * A domain fork of the Downtown Tampa engine: same editorial furniture
  * (sticky era legend, scrollytelling map, year scrubber, sankeys, cited
