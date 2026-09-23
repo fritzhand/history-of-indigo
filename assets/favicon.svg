@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Open Material Archive — Indigo">
+  <title>Open Material Archive — Indigo</title>
+  <!-- A cloth dipped five times, each band a shade deeper — indigo darkens by
+       repetition, not by a stronger bath — and the green leaf it came from. -->
+  <rect width="32" height="32" rx="6" fill="#0E1016"/>
+  <rect x="11" y="4"    width="17" height="4.8" rx=".8" fill="#C9D6F2"/>
+  <rect x="11" y="9.2"  width="17" height="4.8" rx=".8" fill="#9DB2E6"/>
+  <rect x="11" y="14.4" width="17" height="4.8" rx=".8" fill="#6F8AD2"/>
+  <rect x="11" y="19.6" width="17" height="4.8" rx=".8" fill="#4760B0"/>
+  <rect x="11" y="24.8" width="17" height="3.4" rx=".8" fill="#2C3F86"/>
+  <path d="M3.2 25.5 C 2.6 17, 6.6 11.2, 13.4 9.2 C 13.6 16.8, 9.8 23.4, 3.2 25.5 Z" fill="#86C08F"/>
+  <path d="M3.8 24.6 C 6.6 19.6, 9.2 15.4, 12.6 10.4" stroke="#0E1016" stroke-width=".8" fill="none" stroke-linecap="round"/>
+</svg>
