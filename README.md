@@ -59,9 +59,21 @@ NODE_USE_ENV_PROXY=1 node tools/check-links.mjs    # every source URL, grouped b
 node tools/media-roll.mjs                          # regenerate the CONTENT_LICENSE media table
 node tools/check-meta.mjs                          # Open Graph / Twitter / JSON-LD
 node tools/render-card.mjs                         # rebuild assets/og-image.png from tools/og-card.html
+node collateral/instagram-2026-09/build-cards.mjs  # the Instagram launch set: four 4:5 cards, checked
 ```
 
-`render-card.mjs` needs `playwright` and `sharp` available to node.
+`render-card.mjs` and `build-cards.mjs` need `playwright` and `sharp` available to node.
+
+## Collateral
+
+Social sets live in `collateral/`, one folder per set: its builder, a README recording where
+every figure and image on the cards comes from, the post copy and the alt text. The cards are
+generated from the page and from `js/data.js`, so edit the builder and rebuild rather than touching
+a PNG.
+
+| Set | Cards |
+|---|---|
+| [`collateral/instagram-2026-09/`](./collateral/instagram-2026-09/) | Four 1080×1350 cards for the launch post: the landing page on a phone, *Many plants, one blue*, the four hero figures, and four famous stories that don't hold up |
 
 ## Historical arc (eras)
 

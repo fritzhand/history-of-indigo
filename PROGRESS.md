@@ -1,7 +1,7 @@
 # Progress — Indigo: The Blue That Dyed the World
 
 **Repository:** `fritzhand/history-of-indigo`
-**Branch:** `claude/ecstatic-ptolemy-93k4oh`
+**Branch:** `claude/indigo-instagram-collaterals-g7oezi`
 **Last updated:** 2026-09-23
 
 A domain fork of `fritzhand/history-of-tampa` (the Downtown Tampa study),
@@ -28,6 +28,7 @@ gaps are listed in `ARCHIVAL_RESEARCH_PROMPT_INDIGO.md`.
 | Picture archive | **done** | 50 images (17 public domain, 16 CC0, 15 CC BY-SA, 2 CC BY) from The Met, Cleveland, Wellcome and Wikimedia Commons; every license read on its record and quoted in `rightsEvidence`; thumbnails mirrored in `assets/media/` |
 | Source audit | **done** | Live tally in the page |
 | Share card & metadata | **done** | `tools/og-card.html` → `assets/og-image.png`; `tools/check-meta.mjs` passes |
+| Instagram launch set | **done** | `collateral/instagram-2026-09/`: four 4:5 cards built from a live capture of the page and from `js/data.js`, with post copy and alt text; the build refuses a card with fallback glyphs, sub-AA contrast, overflow or a figure that no longer matches its record |
 
 ## Citation status
 
@@ -79,3 +80,5 @@ points at `HEAD`.
 2. Replace PENDING citations with primary reads (the Babylonian tablet record,
    Tellem dating, Hallstatt shares).
 3. A LinkedIn carousel from the same palette, following the Tampa pipeline.
+4. Instagram set, before posting: settle the 68% water share on card 03 (the stored Levi's quote
+   carries only the 3,781 L total; see `collateral/instagram-2026-09/README.md`).
