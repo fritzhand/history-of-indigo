@@ -1,0 +1,2792 @@
+{
+  "meta": {
+    "slice": "Early-modern and colonial Atlantic era, 1498-1800",
+    "compiled": "2026-09-23",
+    "eraDefinitions": {
+      "searoutes": "1498-1649",
+      "plantation": "1650-1789",
+      "bengal": "1790+"
+    },
+    "counts": {
+      "events": 31,
+      "series": 7,
+      "seriesPoints": 77,
+      "quant": 22,
+      "notes": 19
+    }
+  },
+  "events": [
+    {
+      "id": "da-gama-reaches-calicut",
+      "displayDate": "20 May 1498",
+      "year": 1498,
+      "era": "searoutes",
+      "title": "Vasco da Gama reaches Calicut: Europe gets a direct sea route to Indian dyestuffs",
+      "place": "Calicut (Kozhikode), Malabar Coast, India",
+      "lat": 11.2588,
+      "lng": 75.7804,
+      "summary": "Vasco da Gama's fleet reached Calicut on 20 May 1498 and returned to Lisbon in 1499, opening a direct Portuguese sea route that bypassed Venetian and Levantine middlemen. No surviving invoice proves indigo was in the first cargoes, which were dominated by spices; but by 1516 Duarte Barbosa's price list for Calicut quoted 'good indigo', and later in the century Lodovico Guicciardini listed anil among the East Indian goods Antwerp received from Portugal.",
+      "significance": "Created the maritime channel through which Asian indigo could reach northern Europe in bulk, setting up the long contest with European woad.",
+      "sources": [
+        {
+          "institution": "Encyclopaedia Britannica",
+          "title": "Vasco da Gama",
+          "date": "2025",
+          "url": "https://www.britannica.com/biography/Vasco-da-Gama",
+          "quote": "Calicut was reached on May 20.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "I have no means, therefore, of proving that indigo was among the commodities first imported.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "has given a price-current of the merchandise at Calecut, in which the value of good indigo at that time is stated",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "toulouse-pastel-boom-and-bust",
+      "displayDate": "1555–1562 (boom peak); crisis from c. 1561",
+      "year": 1561,
+      "era": "searoutes",
+      "title": "Toulouse's 'Pays de Cocagne' woad fortune peaks, then breaks",
+      "place": "Toulouse (Hôtel d'Assézat), Lauragais woad triangle Albi–Toulouse–Carcassonne, France",
+      "lat": 43.6005,
+      "lng": 1.442,
+      "summary": "From the Middle Ages to the 16th century woad (pastel), sold as dried balls called cocagnes, made the Albi–Carcassonne–Toulouse triangle rich; a French heritage inventory cites exports of up to 200,000 bales of about 100 kg from Bordeaux in the 16th century. Pastel merchant Pierre d'Assézat built his Toulouse mansion between 1555 and 1562. The trade then entered crisis: the standard monograph (Caster) ends its study in 1561, and local accounts point to poor harvests (1560–61), the Wars of Religion from 1562, and growing competition from imported indigo. In the 17th century dyers began adding tropical indigo to woad vats.",
+      "significance": "The Languedoc woad economy was the largest European interest threatened by sea-borne indigo, and its lobbying shaped French dye law for a century.",
+      "sources": [
+        {
+          "institution": "Ministère de la Culture (France), Inventaire du patrimoine culturel immatériel",
+          "title": "Les savoir-faire liés à la teinture au pastel, en pays de Cocagne (fiche d'inventaire)",
+          "date": "2021",
+          "url": "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/les-savoir-faire-lies-a-la-teinture-au-pastel-en-pays-de-cocagne.pdf",
+          "quote": "Du Moyen-Âge au XVIe siècle, il a fait la richesse du triangle Albi-Carcassonne-Toulouse, dit alors Pays de Cocagne.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Ministère de la Culture (France), Inventaire du patrimoine culturel immatériel",
+          "title": "Les savoir-faire liés à la teinture au pastel, en pays de Cocagne (fiche d'inventaire), quoting Michel Garcia",
+          "date": "2021",
+          "url": "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/les-savoir-faire-lies-a-la-teinture-au-pastel-en-pays-de-cocagne.pdf",
+          "quote": "Au XVIe siècle, on exporte depuis Bordeaux jusqu’à 200 000 balles de coques ou cocagnes (de 100kg environ)",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Mairie de Toulouse (À Toulouse magazine)",
+          "title": "L'hôtel d'Assézat, joyau de la Renaissance",
+          "date": "2024-05",
+          "url": "https://documents.toulouse.fr/AToulouse/atoulouse_mai2024/version_accessible/patrimoine/l-hotel-d-assezat-joyau-de-la-renaissance.html",
+          "quote": "C'est Pierre d'Assézat, riche marchand et Capitoul ayant notamment fait fortune avec le pastel, qui fait construire entre 1555 et 1562, cet hôtel particulier.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Persée (Revue belge de philologie et d'histoire)",
+          "title": "Review by Jan Craeybeckx of Gilles Caster, Le commerce du pastel et de l'épicerie à Toulouse de 1450 environ à 1561 (1962)",
+          "date": "1965",
+          "url": "https://www.persee.fr/doc/rbph_0035-0818_1965_num_43_2_2579_t1_0674_0000_2",
+          "quote": "Caster (Gilles). Le commerce du pastel et de l'épicerie à Toulouse de 1450 environ à 1561",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Institut national universitaire Champollion (student heritage project blog)",
+          "title": "Le Pastel dans le Pays de Cocagne [2018]",
+          "date": "2018",
+          "url": "https://blogs.univ-jfc.fr/vphn/histoire-locale/le-pastel-dans-le-pays-de-cocagne-2018-2019/",
+          "quote": "Cette année 1560 est d'ailleurs le point de non-retour de ce déclin avec une production particulièrement médiocre",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "reichspolizeiordnung-teufelsfarb-1577",
+      "displayDate": "9 November 1577",
+      "year": 1577,
+      "era": "searoutes",
+      "title": "Imperial police ordinance bans the 'Teuffelsfarb' (devil's dye) — which was vitriol, not yet indigo",
+      "place": "Frankfurt am Main (Reichsdeputationstag), Holy Roman Empire",
+      "lat": 50.1106,
+      "lng": 8.6821,
+      "summary": "The Reichspolizeiordnung of 9 November 1577, drawn up at the Imperial Deputation Diet in Frankfurt, banned a 'newly invented, harmful, deceitful, corrosive' cloth dye 'called the Teuffelsfarb', explaining that dyers used vitriol and other cheap corrosive materials instead of woad. The text does not name indigo. Johann Beckmann (18th century) reports the ban was renewed in 1594 and 1603; only later legislation (Saxony 1650, the Empire 1654) extended the 'devil's dye' label to indigo.",
+      "significance": "Primary evidence that the famous 'devil's dye' ban began as a quality rule against vitriol dyeing; the equation with indigo is a later (17th-century) step often back-dated in popular histories.",
+      "sources": [
+        {
+          "institution": "Transcription of the original Early New High German text (ra.smixx.de); critical edition: M. Weber, Die Reichspolizeiordnungen von 1530, 1548 und 1577 (MPI)",
+          "title": "Die Reichspolizeiordnung vom 9. November 1577, Frühneuhochdeutscher Originaltext, Titel 21",
+          "date": "1577",
+          "url": "https://ra.smixx.de/media/files/Reichspolizeiordnung-1577.pdf",
+          "quote": "daß man zu solcher farben an statt deß Waidts / Vitriol / und andere fressende wolfailere materi brauchet",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Transcription of the original Early New High German text (ra.smixx.de)",
+          "title": "Die Reichspolizeiordnung vom 9. November 1577 (title page)",
+          "date": "1577",
+          "url": "https://ra.smixx.de/media/files/Reichspolizeiordnung-1577.pdf",
+          "quote": "auff Anno Domini M. D. LXXVII. zu Franckfort gehaltenem Reichs Deputation tag verfast und auffgericht.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "This prohibition was renewed in 1594 and 1603",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "elizabethan-dye-statute-1581",
+      "displayDate": "1581 (23 Eliz. I c. 9)",
+      "year": 1581,
+      "era": "searoutes",
+      "title": "England's Elizabethan dye act targets logwood, and names woad-and-indigo as a lawful ground",
+      "place": "Westminster (Parliament of England), London",
+      "lat": 51.4995,
+      "lng": -0.1248,
+      "summary": "The 1580/81 'act for the abolishing of certain deceitful stuff used in the dyeing of cloths' banned logwood ('blockwood'), not indigo; a 1597 bill outlawed the logwood trade and Charles II's parliament legalised logwood again from 1 February 1661. Beckmann notes that the 1581 statute is the first mention of indigo in English law, requiring woollens dyed black to be first grounded blue 'by woad, or woad and indigo together'. Later claims (e.g., Andrew Ure, cited by Beckmann's 1846 editors) that Elizabeth banned indigo appear to conflate it with the logwood ban.",
+      "significance": "Corrects a widely repeated claim: England's protective dye laws were aimed at logwood, while indigo was lawful as an adjunct to woad.",
+      "sources": [
+        {
+          "institution": "Itinerario (Cambridge University Press, open access)",
+          "title": "Cameron J. G. Dodge, 'From Piracy to Mechanization: The Atlantic Logwood Trade, 1550–1775', Itinerario 49 (2025), 43–63",
+          "date": "2025",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/45B0FCE2C9850515AB4F17B2FB459C45/S0165115324000238a.pdf/from_piracy_to_mechanization_the_atlantic_logwood_trade_15501775.pdf",
+          "quote": "In 1580, Parliament passed a “Bill against deceitful stuff used in dying of Cloths” that banned the use of logwood in textile dyeing.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "In England, where, I believe, woad was not at that time cultivated, the first mention of indigo in the laws occurs in the year 1581, under the reign of Elizabeth, not, however, on account of a blue but a black dye.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "guatemala-indigo-labor-law-1581",
+      "displayDate": "1549; 15 May 1581",
+      "year": 1581,
+      "era": "searoutes",
+      "title": "Crown tries to keep Indigenous workers out of indigo works — and turns to enslaved Africans",
+      "place": "Santiago de Guatemala (Antigua Guatemala), seat of the Audiencia",
+      "lat": 14.5586,
+      "lng": -90.7295,
+      "summary": "A 1549 order for the Audiencia of Guatemala barred hiring Indigenous people in textile and sugar mills, and repeated royal orders extended the ban to indigo obrajes, whose fermentation vats were notoriously deadly. A 1581 order (AGCA A1.23, leg. 1513, f. 565) stated the need to use enslaved people of African descent in indigo making because 'there are no black workers' and Indigenous people were being called in. Enforcement was weak: obraje owners continued to use Indigenous labour and paid fines and bribes.",
+      "significance": "Indigo labor law in Guatemala tied the dye directly to the Atlantic slave trade while Indigenous communities kept dying in the obrajes.",
+      "sources": [
+        {
+          "institution": "Análise Social (Instituto de Ciências Sociais, Universidade de Lisboa)",
+          "title": "Francisco Zamora Rodríguez, 'Central American Indigo. Globalization and socioeconomic effects (16th-17th centuries)', Análise Social 224 (2017), 584-607",
+          "date": "2017",
+          "url": "https://revistas.rcaap.pt/index.php/analisesocial/article/download/22446/16545/87092",
+          "quote": "in 1581 a new law was introduced stating the need to use slaves of African descent in the production of indigo",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Análise Social (Instituto de Ciências Sociais, Universidade de Lisboa)",
+          "title": "Francisco Zamora Rodríguez, 'Central American Indigo. Globalization and socioeconomic effects (16th-17th centuries)', Análise Social 224 (2017), 584-607",
+          "date": "2017",
+          "url": "https://revistas.rcaap.pt/index.php/analisesocial/article/download/22446/16545/87092",
+          "quote": "in 1549 there was a specific order for the protection of the indigenous born in Audiencia of Guatemala that prevented them from being hired to work in fabric manufacturing and sugarmills",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+          "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+          "date": "2016",
+          "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+          "quote": "Estos Autos habían sido antecedidos de un buen número de reales cédulas que, como era costumbre, eran acatadas pero no cumplidas.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "languedoc-indigo-ban-1598",
+      "displayDate": "1598 (and repeated); the '1609 death penalty' edict is unverified",
+      "year": 1598,
+      "era": "searoutes",
+      "title": "France forbids indigo at the request of the Estates of Languedoc",
+      "place": "Languedoc woad country (Toulouse), France",
+      "lat": 43.6047,
+      "lng": 1.4442,
+      "summary": "According to Johann Beckmann, 'in consequence of an urgent representation by the states of that province' (Languedoc), the use of indigo was forbidden in France in 1598, and the prohibition was repeated several times. Many popular and some institutional sources (including a BnF Gallica blog) state that Henri IV banned indigo on pain of death, usually dated 1609; no primary text of such an edict was located in this research, and Beckmann's detailed account does not mention it.",
+      "significance": "French woad protectionism was real, but the most dramatic version of it (a capital crime) remains undocumented.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "In consequence of an urgent representation by the states of that province, the use of indigo was forbidden in 1598; and this prohibition was afterwards repeated several times.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Bibliothèque nationale de France (Gallica blog)",
+          "title": "De l'indigotier à l'indigo",
+          "date": "n.d.",
+          "url": "https://gallica.bnf.fr/accueil/fr/html/de-lindigotier-a-lindigo",
+          "quote": "Henri IV interdit aux teinturiers d’utiliser l’indigo sous peine de mort.",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "central-america-xiquilite-obrajes-1600",
+      "displayDate": "1572–1600",
+      "year": 1600,
+      "era": "searoutes",
+      "title": "Xiquilite obrajes spread along Central America's Pacific slope",
+      "place": "Province of San Salvador, Audiencia de Guatemala (modern El Salvador)",
+      "lat": 13.6989,
+      "lng": -89.1914,
+      "summary": "Indigo from the native Indigofera suffruticosa (xiquilite/jiquilite) was being shipped from the jurisdiction of San Salvador to Spain via Puerto Caballos (Honduras) by 1572. A count for 1600 lists about 200 indigo works (obrajes) in El Salvador, 40 in Escuintepeque, 60 in Guazapán and 60 more in San Miguel, Tecpanatitlán, Choluteca and Nicaragua — roughly 360 in all. Beckmann, writing in the 18th century, states that the first American indigo to reach Europe came from 'Guatimala'.",
+      "significance": "Spanish Central America became the Atlantic world's first large-scale plantation indigo supplier, a century before the Caribbean and Carolina.",
+      "sources": [
+        {
+          "institution": "Museo Nacional de Arqueología y Etnología, Guatemala / Asociación Tikal (via Mesoweb)",
+          "title": "José Heriberto Erquicia Cruz, 'Obrajes industriales para beneficiar xiquilite en la intendencia de San Salvador del Reino de Guatemala', XXVI Simposio de Investigaciones Arqueológicas en Guatemala, 2012, pp. 375-384",
+          "date": "2013",
+          "url": "https://www.mesoweb.com/Simposio/pdf/26/Erquicia.2013.pdf",
+          "quote": "Escalante Arce (1992) muestra que, para 1572, se está comerciando añil de la jurisdicción de San Salvador hacia España vía Puerto Caballos, Honduras.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Análise Social (Instituto de Ciências Sociais, Universidade de Lisboa)",
+          "title": "Francisco Zamora Rodríguez, 'Central American Indigo. Globalization and socioeconomic effects (16th-17th centuries)', Análise Social 224 (2017), 584-607",
+          "date": "2017",
+          "url": "https://revistas.rcaap.pt/index.php/analisesocial/article/download/22446/16545/87092",
+          "quote": "200 in El Salvador, 40 in Escuintepeque, 60 in Guazapán, and 60 in San Miguel, Tecpanatitlán, la Cholulteca, and Nicaragua",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "the first indigo brought to Europe was procured from Guatimala",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "indigo-currency-guatemala-1624",
+      "displayDate": "30 April 1624",
+      "year": 1624,
+      "era": "searoutes",
+      "title": "Ten captive Angolans sold in Guatemala for 85 quintals of indigo",
+      "place": "Santiago de Guatemala (Antigua Guatemala)",
+      "lat": 14.5586,
+      "lng": -90.7295,
+      "summary": "In the first half of the 17th century añil served as a medium of exchange in the Kingdom of Guatemala: slaves, houses, dowries and even tithe farms were priced in quintals of indigo. On 30 April 1624 Captain Duarte Gómez de Chávez sold ten newly arrived enslaved Africans from Angola to Sancho de Carranza y Medinilla for 85 quintals of coastal indigo, about 8.5 quintals per person, payable at Christmas 1625 and 1626. In 1621 the tithe of San Miguel and Choluteca was sold for 45 quintals of indigo.",
+      "significance": "Shows indigo functioning as money in the same economy that imported enslaved Africans to make it.",
+      "sources": [
+        {
+          "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+          "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+          "date": "2016",
+          "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+          "quote": "El 30 de abril de 1624, el Capitán Duarte Gómez de Chávez vendió a Sancho de Carranza y Medinilla, 10 esclavos bozales de tierra angola, recién traídos a Santiago de Guatemala, nueve eran varones y una hembra, por el precio de 85 qq de tinta añil de la costa",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+          "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+          "date": "2016",
+          "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+          "quote": "En forma semejante al cacao que sirvió de medio de cambio durante la segunda mitad del siglo XVI, el añil lo fue durante la primera mitad del XVII",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "bayana-indigo-pelsaert-1626",
+      "displayDate": "1626",
+      "year": 1626,
+      "era": "searoutes",
+      "title": "Dutch and English companies fight over Bayana indigo near Agra",
+      "place": "Bayana, Agra region (Mughal India; modern Rajasthan)",
+      "lat": 26.9075,
+      "lng": 77.2902,
+      "summary": "In the early 17th century the Dutch (VOC) and English (EIC) East India companies bought indigo in two main Mughal markets: Sarkhej near Ahmedabad in Gujarat and Bayana near Agra, whose indigo was then prized as the best. In 1626 the VOC factor at Agra, Francisco Pelsaert, complained that Armenian merchants were 'running and racing about like hungry folk' in the indigo districts and driving up prices. Armenian buyers carried indigo overland to Persia, undercutting the Europeans' attempts at monopoly.",
+      "significance": "Indigo was one of the first Indian commodities the chartered companies sought to control, before calicoes overtook it.",
+      "sources": [
+        {
+          "institution": "Éditions de la Maison des sciences de l'homme / OpenEdition Books",
+          "title": "Shireen Moosvi, 'Armenians in Asian Trade, 16th and 17th Centuries', in Les Arméniens dans le commerce asiatique au début de l'ère moderne",
+          "date": "n.d.",
+          "url": "https://books.openedition.org/editionsmsh/11370?lang=en",
+          "quote": "In 1626, in his Remonstrantie, Francisco Pelsaert, the Dutch factor at Agra, complained of the Armenians 'running and racing about like hungry folk' in the indigo areas",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "World History Encyclopedia",
+          "title": "Mark Cartwright, 'Trade Goods of the East India Company'",
+          "date": "2022-09-29",
+          "url": "https://www.worldhistory.org/article/2078/trade-goods-of-the-east-india-company/",
+          "quote": "Acquired from long-standing plantations and dyers in places like Sarkhej and Bayana in northern India, the dye required lengthy and labour-intensive processing.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "voc-indigo-fleet-1631",
+      "displayDate": "1631",
+      "year": 1631,
+      "era": "searoutes",
+      "title": "Seven VOC ships land 333,545 lb of Gujarat and Bayana indigo",
+      "place": "Dutch Republic (VOC return fleet; Amsterdam used as reference point)",
+      "lat": 52.3728,
+      "lng": 4.8936,
+      "summary": "Beckmann lists the indigo aboard seven ships arriving in Holland from the East Indies in 1631: 13,539 lb of 'Sirches' (Sarkhej) indigo, 82,734 and 66,996 lb of 'Guzerat' indigo, 50,795 lb of 'Bajano' and 59,698 lb of 'Bejana' (Bayana) indigo, and 32,251 and 27,532 lb of 'Chirches' (Sarkhej) — 333,545 lb in total, valued at 500,000 dollars. In April 1633 three ships brought 4,092 'kartel' of indigo worth 2,046,000 rix-dollars. German writers of the time blamed the Dutch for bringing indigo into Germany.",
+      "significance": "One of the few itemized early-17th-century cargo records showing the scale of Asian indigo imports and the Sarkhej/Bayana supply split.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "These seven vessels, therefore, brought to Europe 333,545 pounds, which, at a low valuation, were worth five tons of gold, or 500,000 dollars.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "the fourth 50,795 pounds of Bajano indigo; the fifth 32,251 pounds of Chirches indigo; the sixth 59,698 pounds of Bejana indigo",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "quinones-autos-1636",
+      "displayDate": "26 June – 4 July 1636",
+      "year": 1636,
+      "era": "searoutes",
+      "title": "Guatemala's president bans Indigenous labor in indigo works — for one week",
+      "place": "Santiago de Guatemala (Antigua Guatemala)",
+      "lat": 14.5586,
+      "lng": -90.7295,
+      "summary": "On 26 June 1636 President Álvaro de Quiñones Osorio of the Audiencia of Guatemala issued Autos forbidding the use of Indigenous people in indigo obrajes, citing whole villages on the Pacific coast (including Tecoluca and Zacatecoluca in San Salvador) emptied by obraje labor, and took sworn testimony from clergy and officials. On 4 July 1636 the Real Acuerdo suspended the ban, arguing that royal revenues and convents financed by indigo would suffer. The year before, he had ordered non-Indians out of Indian towns and founded the villa of San Vicente de Austria (Lorenzana).",
+      "significance": "A rare, documented moment when colonial authorities weighed indigo profits against Indigenous lives — and chose profits.",
+      "sources": [
+        {
+          "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+          "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+          "date": "2016",
+          "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+          "quote": "El 26 de junio de 1636, el Presidente Álvaro de Quiñones Osorio, Caballero del Hábito de Santiago y Marqués de Lorenzana, emitió unos Autos prohibiendo que los indígenas fueran empleados en los obrajes añileros.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+          "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+          "date": "2016",
+          "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+          "quote": "el 4 de julio de 1636, la mayoría de miembros del Real Acuerdo de la Audiencia de Guatemala, cuerpo colegiado integrado por el Presidente y Oidores, suspendió y ordenó el sobreseimiento de la prohibición ordenada en los Autos",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "imperial-indigo-ban-1654",
+      "displayDate": "1650 (Saxony); 21 April 1654 (Empire)",
+      "year": 1654,
+      "era": "plantation",
+      "title": "Saxony and the Holy Roman Empire outlaw indigo as a 'devil's dye'",
+      "place": "Holy Roman Empire (imperial prohibition of Ferdinand III; Diet then sitting at Regensburg)",
+      "lat": 49.0134,
+      "lng": 12.1016,
+      "summary": "Beckmann records that the first prohibition aimed specifically at indigo was issued by Saxony in 1650, worded so that indigo fell under the old 'devil's dye' label. In 1652 Duke Ernest the Pious of Saxe-Gotha (a woad state) proposed to the Imperial Diet that indigo be banished from the Empire, and an imperial prohibition followed on 21 April 1654 against smuggled indigo. Nuremberg required its dyers to swear an annual oath not to use indigo, an oath Beckmann says they were still taking in his day.",
+      "significance": "The German indigo ban proper dates from 1650–54, not 1577 — a protectionist response to Dutch-imported indigo undermining Thuringian woad.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "the first prohibition against the former was issued by Saxony in the year 1650",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "This was followed by an imperial prohibition on the 21st of April 1654, in which every thing ordered in regard to the devil’s dyes is repeated",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "They made a law that their dyers should annually take an oath not to use indigo",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "colbert-dye-statutes-1669",
+      "displayDate": "August 1669; Instruction générale 1671; liberalised 1737",
+      "year": 1669,
+      "era": "plantation",
+      "title": "Colbert's dye regulations admit indigo into French 'grand et bon teint' dyeing",
+      "place": "Paris, France",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "summary": "Colbert's 1669 regulations split French dyers into 'fine' (grand et bon teint) and 'common' trades and, according to Beckmann, regulated the use of indigo alongside woad; the 1671 Instruction générale then standardised thirteen permitted shades of blue. In 1737 dyers were left free to use indigo alone or mixed with woad. By the mid-18th century French blue dyeing ran on imported Antillean indigo, chiefly from Saint-Domingue.",
+      "significance": "Marks France's shift from banning indigo to regulating it, as its own Caribbean colonies became major producers.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg (digitized text)",
+          "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+          "date": "1846",
+          "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+          "quote": "and in 1737 dyers were left at liberty to use indigo alone, or to employ a mixture of indigo and woad",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "ISTE OpenScience, Technologie et Innovation",
+          "title": "François Delamare, 'Teindre au bleu de Prusse, une aventure française', Technologie et Innovation 4:4 (2019)",
+          "date": "2019",
+          "url": "https://www.openscience.fr/IMG/pdf/iste_techinn19v4n4_4.pdf",
+          "quote": "Après deux siècles de lutte, en 1750, la défaite du pastel est consommée.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "jamaica-indigo-works-1670",
+      "displayDate": "23 September 1670",
+      "year": 1670,
+      "era": "plantation",
+      "title": "Jamaica counts 49 indigo works alongside 57 sugar works",
+      "place": "Jamaica (return compiled by the Receiver-General; Spanish Town was the capital)",
+      "lat": 17.9959,
+      "lng": -76.9551,
+      "summary": "A 1670 return of Jamaica's commodities, signed by Receiver-General Thomas Tothill, counted 57 sugar works producing 1,710 thousand weight of sugar, 47 cocoa walks, and '49 indigo works, producing 49,000 weight of indigo per annum' — about 1,000 lb per works. English Caribbean planters in Barbados, Antigua and Jamaica experimented with indigo before concentrating on sugar.",
+      "significance": "Snapshot of indigo's role as an early, low-capital plantation crop in the English Caribbean before sugar took over.",
+      "sources": [
+        {
+          "institution": "British History Online (Calendar of State Papers Colonial, America and West Indies, vol. 7)",
+          "title": "America and West Indies: September 1670, 16-30, item 271",
+          "date": "1670-09-23",
+          "url": "https://www.british-history.ac.uk/cal-state-papers/colonial/america-west-indies/vol7/pp94-110",
+          "quote": "49 indigo works, producing 49,000 weight of indigo per annum, and other walks and works daily adding.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "The early English settlers of Barbados, Antigua, and Jamaica had also experimented with indigo as well as tobacco, ginger, sugar cane, and cotton.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "labat-indigoterie-french-antilles",
+      "displayDate": "from 1694 (observed); published 1722",
+      "year": 1722,
+      "era": "plantation",
+      "title": "Père Labat describes and illustrates the French Caribbean indigoterie",
+      "place": "Macouba parish, Martinique (Labat's parish)",
+      "lat": 14.8717,
+      "lng": -61.1417,
+      "summary": "The Dominican Jean-Baptiste Labat, in the French Antilles from 1694, published his Nouveau voyage aux isles de l'Amérique in 1722; its engraving of indigo manufacture shows the three-vat works (trempoire or steeping vat, batterie or beating vat, and diablotin/reposoir) worked by enslaved Africans. Archaeology at L'Anse à la Barque in Guadeloupe shows indigo works built from the 17th century and abandoned in the 18th as Saint-Domingue overtook Guadeloupe; John Garrigus notes that Labat, visiting Saint-Domingue's south coast in 1701, treated indigo (like tobacco) as a crop that let planters accumulate capital for sugar works.",
+      "significance": "Documents the indigo 'stage' of French Caribbean plantation development that preceded sugar and coffee.",
+      "sources": [
+        {
+          "institution": "Slavery Images: A Visual Record of the African Slave Trade and Slave Life in the Early African Diaspora (slaveryimages.org)",
+          "title": "Indigo Manufacture, French West Indies, 18th cent. (Labat, Nouveau voyage aux isles de l'Amerique, Paris 1742, vol. 1, following p. 268)",
+          "date": "1742",
+          "url": "https://www.slaveryimages.org/database/image-result.php?objectid=306",
+          "quote": "Various phases of indigo cultivation and processing are shown in this engraving and details are given in the text.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Internet Archive (digitized book)",
+          "title": "J.-B. Labat, Nouveau voyage aux isles de l'Amérique, new ed. (Paris, 1742), t. 1, plate 'Indigoterie' facing p. 268 (legend, OCR)",
+          "date": "1742",
+          "url": "https://archive.org/details/nouveauvoyagea01laba",
+          "quote": "1. la Trempoire. 2. la Batterie. 3. le Diablotin ou reposoir. (legend read from garbled OCR)",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Colonial Williamsburg Foundation (Slavery and Remembrance)",
+          "title": "L'Anse à la Barque Indigo Plantation",
+          "date": "n.d.",
+          "url": "https://slaveryandremembrance.org/partners/partner/?id=P0075",
+          "quote": "There were two slaves per hectare on average on the indigo plantations.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "The Americas (Cambridge University Press)",
+          "title": "John Garrigus, 'Blue and Brown: Contraband Indigo and the Rise of a Free Colored Planter Class in French Saint-Domingue', The Americas 50:2 (1993), 233-263",
+          "date": "1993",
+          "url": "https://www.cambridge.org/core/journals/americas/article/abs/blue-and-brown-contraband-indigo-and-the-rise-of-a-free-colored-planter-class-in-french-saintdomingue/5B29E445B222DD542853025A8DCBCB3F",
+          "quote": "Even Père Labat, visiting the southern coast in 1701, lumped indigo with tobacco as a crop that helped planters acquire the wealth to build sugar works.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "PAYWALL"
+        }
+      ]
+    },
+    {
+      "id": "eliza-lucas-wappoo-1744",
+      "displayDate": "1739–1744",
+      "year": 1744,
+      "era": "plantation",
+      "title": "Eliza Lucas's indigo trials at Wappoo produce a marketable dye",
+      "place": "Wappoo plantation, Wappoo Creek, near Charleston, South Carolina (approximate)",
+      "lat": 32.764,
+      "lng": -79.989,
+      "summary": "Left in charge of the family's Wappoo plantation when her father returned to Antigua in 1739, Eliza Lucas experimented with West Indian indigo seed; George Lucas sent Nicolas Cromwell, a dye maker from Montserrat, to build an indigo works, and in the fifth year of trials the plantation produced its own seed and a dye good enough to market. Six pounds of dye were sent to England, where a broker judged it as good as 'some of the best french'. Historians stress she was one of several experimenters (with Andrew Deveaux and others) and that enslaved people did the labor.",
+      "significance": "The Wappoo trials helped launch Carolina's indigo boom, though the popular 'single-handed' story is overstated.",
+      "sources": [
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Pinckney, Eliza Lucas (by Elise Pinckney; last updated 2022-08-22)",
+          "date": "2016-06-20",
+          "url": "https://www.scencyclopedia.org/sce/entries/pinckney-eliza-lucas/",
+          "quote": "George Lucas sent Nicolas Cromwell, an experienced dye maker from Montserrat, to South Carolina to construct an indigo “works” at Wappoo.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Pinckney, Eliza Lucas (by Elise Pinckney; last updated 2022-08-22)",
+          "date": "2016-06-20",
+          "url": "https://www.scencyclopedia.org/sce/entries/pinckney-eliza-lucas/",
+          "quote": "The six pounds of the finished dyestuff were sent to England “to try how tis approved there.”",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "Eliza Lucas (1722–1793), who married Charles Pinckney in 1744, was an important contributor to the success of indigo in South Carolina, but her role in this endeavor has been greatly exaggerated in recent times.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "carolina-provincial-bounty-first-exports-1747",
+      "displayDate": "May 1744 bounty; 1747 first large exports",
+      "year": 1747,
+      "era": "plantation",
+      "title": "Carolina's own bounty and wartime shortages launch indigo exports: 138,300 lb in 1747",
+      "place": "Charleston (Charles Town), South Carolina",
+      "lat": 32.7765,
+      "lng": -79.9311,
+      "summary": "In May 1744 the South Carolina legislature offered a bounty of one shilling (South Carolina currency) per pound on several new export crops including indigo, and cancelled it for indigo in April 1746 because output had grown so fast. King George's War (1739–48) had raised rice freight and insurance costs and cut Britain off from French West Indian indigo. Large-scale exports began in 1747, when 138,300 lb worth £16,803 sterling were shipped to England.",
+      "significance": "The start of the annual Carolina export series that would reach over a million pounds by 1775.",
+      "sources": [
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "the provincial government offered a cash bounty of one shilling (South Carolina currency) per pound of merchantable produce for export.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "In mid-April 1746, the South Carolina legislature cancelled the bounty on indigo only",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+          "date": "2016-06-08",
+          "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+          "quote": "In 1747, 138,300 pounds of dye, worth £16,803 sterling, were exported to England.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+          "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+          "date": "1975",
+          "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+          "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1747: 138.3 (South Carolina, 1,000 pounds)",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "parliament-indigo-bounty-1748",
+      "displayDate": "1748 (21 Geo. II c. 30); payable from 1749",
+      "year": 1748,
+      "era": "plantation",
+      "title": "Parliament pays sixpence a pound for British-colonial indigo",
+      "place": "Westminster (Parliament of Great Britain), London",
+      "lat": 51.4995,
+      "lng": -0.1248,
+      "summary": "Lobbied by South Carolina merchant and agent James Crokatt, Parliament in 1748 enacted a bounty, initially six pence sterling per pound, paid to British importers of American colonial indigo; it took effect in 1749. Indigo was already an 'enumerated' commodity that had to be shipped to Britain under the 1660 act, and nearly all Carolina indigo went there. The bounty was renewed by later continuance acts and lapsed in 1777 during the Revolution.",
+      "significance": "An early example of imperial industrial policy: a subsidy to secure a strategic textile input from colonies rather than from France or Spain.",
+      "sources": [
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "South Carolina merchant James Crokatt, who had returned to England, successfully lobbied the government to offer a bounty (initially six pence sterling per pound) to the British purchasers of American indigo.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+          "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, text notes to Series Z 432-435, pp. 1160-1161 (PDF pp. 568-569)",
+          "date": "1975",
+          "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+          "quote": "The great bulk of indigo went to Britain (which wanted it as a source of blue dye), not only because of its enumeration in the act of 1660 (12 Charles II c 18), but also because of the bounty England paid of 6 pence per pound (21 Charles II c 30).",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+          "date": "2016-06-08",
+          "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+          "quote": "In London colonial agent James Crokatt persuaded Parliament in 1749 to subsidize Carolina indigo production by placing a bounty of six pence per pound on the dye.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "enslaved-indigo-makers-carolina",
+      "displayDate": "1747–1775",
+      "year": 1755,
+      "era": "plantation",
+      "title": "Enslaved 'indigo makers' carry Carolina's dye industry",
+      "place": "South Carolina Lowcountry (Charleston area)",
+      "lat": 32.7765,
+      "lng": -79.9311,
+      "summary": "Planting, weeding, harvesting and the skilled steeping-and-beating that turned leaves into dye in South Carolina were done almost entirely by enslaved people of African descent; skilled 'indigo slaves' were valued because a year's crop depended on the indigo maker's judgment. Charles Woodmason estimated in 1755 that 50 acres needed 15 hands to grow and 25 'very able' hands to process, at about 50 lb of dye per acre. Whether Africans brought indigo expertise from West Africa is plausible but poorly documented for Carolina; a Louisiana parish museum credits enslaved West African dyers there.",
+      "significance": "The export statistics are, in effect, a measure of coerced African labor and skill.",
+      "sources": [
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+          "date": "2016-06-08",
+          "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+          "quote": "Slaves were responsible for most of South Carolina’s indigo production.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "He estimated fifty pounds per acre to be an average yield.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "It is possible, however, that African captives transported to early South Carolina might have had some experience with indigo cultivation in their native land, or had learned about it in the Caribbean before coming here.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "georgia-indigo-exports-1755",
+      "displayDate": "1755–1772",
+      "year": 1755,
+      "era": "plantation",
+      "title": "Georgia joins the indigo trade: 4,500 lb in 1755, peak 22,300 lb in 1770",
+      "place": "Savannah, Georgia",
+      "lat": 32.0809,
+      "lng": -81.0912,
+      "summary": "Georgia began exporting indigo in the 1750s, shipping 4,500 lb in 1755; its exports peaked at 22,300 lb in 1770. Georgia remained a minor producer next to South Carolina, whose exports in 1770 were 550,800 lb. Colonial-era indigo plantations operated on Georgia's barrier islands, such as the North End Plantation on Ossabaw Island.",
+      "significance": "Shows the spread (and limits) of bounty-driven indigo beyond Carolina in the Lower South.",
+      "sources": [
+        {
+          "institution": "New Georgia Encyclopedia (Georgia Humanities / University of Georgia Press)",
+          "title": "Indigo (James Bitler, Ossabaw Island Foundation)",
+          "date": "2008-01-04",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/indigo/",
+          "quote": "Georgia’s indigo exportation reached its peak in 1770, with more than 22,000 pounds.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+          "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+          "date": "1975",
+          "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+          "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1770: 573.1 (total), 550.8 (South Carolina), 22.3 (Georgia)",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "guinea-cloth-slave-trade-1765",
+      "displayDate": "15 February 1765 (EIC order); mid-18th century",
+      "year": 1765,
+      "era": "plantation",
+      "title": "Indigo-dyed Indian 'blue goods' buy captives on the West African coast",
+      "place": "East India House, London (order to Fort William, Calcutta, for African-market cloth)",
+      "lat": 51.5133,
+      "lng": -0.0822,
+      "summary": "Indian cotton cloth dyed with indigo — 'blue goods' in English, 'guinée' in French, and types such as bafts, nicanees and 'guinea stuffs' — was a key currency for buying enslaved people from African brokers. In Anglo-African trade, Indian piece goods made up about 30% of total export value in the mid-18th century, and on 15 February 1765 the English East India Company asked Fort William to send more textiles to London for African markets. In the Senegal River region Indian cloth became a regional currency in the late 18th century, and S. M. X. Golberry, visiting West Africa in the 1780s, noted that the smell of indigo authenticated blue cloth as currency.",
+      "significance": "Links Asian indigo dyeing directly to the Atlantic slave trade that supplied the labor for American indigo plantations.",
+      "sources": [
+        {
+          "institution": "London School of Economics, South Asia@LSE blog",
+          "title": "Kazuo Kobayashi, 'Indian cotton textiles in the eighteenth-century Atlantic economy'",
+          "date": "2013-06-27",
+          "url": "https://blogs.lse.ac.uk/southasia/2013/06/27/indian-cotton-textiles-in-the-eighteenth-century-atlantic-economy/",
+          "quote": "In the case of Anglo-African trade, piece goods of Indian cottons were the most important trades in exchange for African slaves, making up 30 per cent of the total export value in the mid-eighteenth century.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "London School of Economics, South Asia@LSE blog",
+          "title": "Kazuo Kobayashi, 'Indian cotton textiles in the eighteenth-century Atlantic economy'",
+          "date": "2013-06-27",
+          "url": "https://blogs.lse.ac.uk/southasia/2013/06/27/indian-cotton-textiles-in-the-eighteenth-century-atlantic-economy/",
+          "quote": "The English East India Company therefore wrote a letter to Fort William in India (15 February 1765) requesting that more textiles be sent to London for use in African markets to purchase slaves.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Dutch Textile Trade project (eds. Carrie Anderson & Marsely Kehoe)",
+          "title": "Guinea Cloth",
+          "date": "n.d.",
+          "url": "https://dutchtextiletrade.org/textiles/guinea-cloth/",
+          "quote": "Indian-made cotton cloths that were typically blue, white, blue-and-white striped, or checked.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "east-florida-new-smyrna-1768",
+      "displayDate": "1768–1777",
+      "year": 1768,
+      "era": "plantation",
+      "title": "East Florida's indigo colony at New Smyrna",
+      "place": "New Smyrna (Smyrnéa), British East Florida",
+      "lat": 29.0258,
+      "lng": -80.927,
+      "summary": "After Britain acquired Florida in 1763, indigo became East Florida's main export crop, worked largely by more than 9,000 enslaved Black laborers brought by planters from the Carolinas and Georgia. Scottish physician Andrew Turnbull recruited 1,403 Minorcan, Greek and Italian indentured colonists, who sailed from Gibraltar in April 1768 to grow indigo at New Smyrna; the colony collapsed in 1777 amid disease, drought and abuse. HSUS notes British Florida produced only 20,000–60,000 lb a year in the last five colonial years.",
+      "significance": "An attempt to extend the bounty-driven indigo economy south, with indentured Mediterranean labor alongside slavery.",
+      "sources": [
+        {
+          "institution": "Museum of Florida History (Florida Department of State)",
+          "title": "The British Period: A Shifting Economy, 1763–1783",
+          "date": "n.d.",
+          "url": "https://www.museumoffloridahistory.com/explore/exhibits/permanent-exhibits/la-florida/forever-changed-phase-2/the-british-period-a-shifting-economy-1763-1783/",
+          "quote": "In the 1760s and 1770s, indigo, which produced a blue dye, was the main crop raised in East Florida for export.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Volusia County Government",
+          "title": "The New Smyrna Colony: Origin and demise",
+          "date": "n.d.",
+          "url": "https://www.volusia.org/residents/history/volusia-stories/the-new-smyrnea-colony/origin-and-demise.stml",
+          "quote": "On April 17, 1768, Turnbull assembled his 1,403 colonists at Gibraltar and, after loading them onto eight ships, set sail for East Florida.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+          "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, text notes to Series Z 432-435, pp. 1160-1161 (PDF pp. 568-569)",
+          "date": "1975",
+          "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+          "quote": "Even during the last 5 years of the colonial period, British Florida's production ranged only between 20,000 and 60,000 pounds",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "saint-domingue-indigo-peak-1771",
+      "displayDate": "1771–1772",
+      "year": 1771,
+      "era": "plantation",
+      "title": "Saint-Domingue's indigo exports top 4 million livres",
+      "place": "Saint-Domingue (French colony, modern Haiti)",
+      "lat": 19.0,
+      "lng": -72.3,
+      "summary": "Saint-Domingue dominated 18th-century European indigo supply. Marguerite Martin's research on French trade finds production/exports rising above 4 million livres (French pounds) in 1771–1772, falling after the American war to about 1.46 million livres at the end of the Ancien Régime — close to peacetime levels of about 1.3 million a year in 1730–35 and the 1750s. In 1784–86, 1.55 million livres of indigo a year reached France from the French American islands, 98% from Saint-Domingue.",
+      "significance": "The French colony, not Carolina or Guatemala, was the Atlantic's largest indigo producer at mid-century.",
+      "sources": [
+        {
+          "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+          "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+          "date": "2019",
+          "url": "https://books.openedition.org/igpde/12899?lang=en",
+          "quote": "Saint-Domingue connaît encore une hausse de la production au début des années 1770, jusqu'à plus de 4 millions de livres en 1771-1772",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+          "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+          "date": "2019",
+          "url": "https://books.openedition.org/igpde/12899?lang=en",
+          "quote": "Entre 1784 et 1786, après l'indépendance américaine, 1,55 million de livres poids par an d'indigo sont exportées vers la France en provenance des îles françaises d'Amérique, à 98 % à partir de Saint-Domingue",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "carolina-indigo-peak-1775",
+      "displayDate": "1775",
+      "year": 1775,
+      "era": "plantation",
+      "title": "Carolina indigo exports peak at 1,122,200 lb",
+      "place": "Charleston (Charles Town), South Carolina",
+      "lat": 32.7765,
+      "lng": -79.9311,
+      "summary": "South Carolina's recorded indigo exports peaked at 1,122,200 lb in 1775, valued at £242,395 sterling (about 4s 4d per lb). Note that the Historical Statistics series flags the 1775 figure as covering 6½ months ending 24 February, so it is not a normal calendar-year total. Indigo was the colony's second export after rice and, per the South Carolina Encyclopedia, the fifth most valuable export of Britain's mainland colonies.",
+      "significance": "The high-water mark of bounty-era Carolina indigo, immediately before the Revolution cut it off from its British market.",
+      "sources": [
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+          "date": "2016-06-08",
+          "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+          "quote": "peaking in 1775 with a total of 1,122,200 pounds, valued at £242,395 sterling.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+          "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+          "date": "1975",
+          "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+          "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1775 (footnote 4: 'For 6½ months ending Feb. 24.'): 1,122.2 (South Carolina, 1,000 pounds)",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "mouzon-map-indigo-vignette-1775",
+      "displayDate": "May 1775",
+      "year": 1775,
+      "era": "plantation",
+      "title": "Mouzon's map of the Carolinas puts indigo-making in its cartouche",
+      "place": "London (published by Robert Sayer and John Bennett)",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "summary": "Henry Mouzon's 'An Accurate Map of North and South Carolina with Their Indian Frontiers' was first published in London in May 1775 by Sayer and Bennett. Its lower-left cartouche shows indigo plants and enslaved people working an indigo plantation and processing the dye, echoing Mouzon's 1773 map of St. Stephen's Parish. Copies used by Revolutionary War commanders, including Rochambeau, survive at the Library of Congress, the American Geographical Society and the Clements Library.",
+      "significance": "The single most widely reproduced contemporary image of Carolina indigo manufacture.",
+      "sources": [
+        {
+          "institution": "Library of Congress, Geography and Map Division",
+          "title": "An accurate map of North and South Carolina with their Indian frontiers ... (Henry Mouzon and others, 1775)",
+          "date": "1775",
+          "url": "https://www.loc.gov/item/74692513/",
+          "quote": "An accurate map of North and South Carolina with their Indian frontiers, shewing in a distinct manner all the mountains, rivers, swamps, marshes, bays, creeks, harbours, sandbanks and soundings on the coasts",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "South Carolina Historical Society",
+          "title": "May, 1775: Mouzon Map is Published",
+          "date": "n.d.",
+          "url": "https://schistory.org/may-1775-mouzon-map-is-published/",
+          "quote": "Illustrations of indigo plants and enslaved people working in a field on an indigo plantation are prominently featured in the cartouche at the lower left corner.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "A 1773 map of St. Stephen’s Parish, South Carolina, contains a valuable illustration that attempts to summarize the entire process of indigo manufacture in a single image.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "revolution-ends-indigo-bounty-1777",
+      "displayDate": "1775–1777",
+      "year": 1777,
+      "era": "plantation",
+      "title": "Revolution cuts Carolina indigo off from Britain; the bounty lapses",
+      "place": "Charleston (Charles Town), South Carolina",
+      "lat": 32.7765,
+      "lng": -79.9311,
+      "summary": "The Continental Congress prohibited exports to Britain (rice excepted until summer 1777), so Carolina producers tried northern and French Caribbean buyers with limited success, and the parliamentary bounty created in 1748 expired in 1777. Exports recovered partially after 1783 (Charleston alone shipped 974,100 lb in 1787 by HSUS; the South Carolina Encyclopedia gives 907,258 lb) but declined sharply in the 1790s as Britain turned to Bengal and planters moved to cotton; by 1802 indigo no longer appeared among the state's exports.",
+      "significance": "Without the imperial subsidy and market, Carolina indigo could not compete with Bengal and Central America.",
+      "sources": [
+        {
+          "institution": "Charleston County Public Library (Charleston Time Machine)",
+          "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+          "date": "2019-08-16",
+          "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+          "quote": "The long-standing bounty on American indigo, created by the British Parliament in 1748, expired in 1777.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+          "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+          "date": "2016-06-08",
+          "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+          "quote": "Production appeared to recover after the war, as 907,258 pounds of dye were exported in 1787.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+          "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+          "date": "1975",
+          "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+          "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1787 (footnote 2: Charleston only): 974.1 (South Carolina, 1,000 pounds)",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "guatemala-indigo-merchants-1778",
+      "displayDate": "1778–1785",
+      "year": 1778,
+      "era": "plantation",
+      "title": "Guatemala City merchants handle 60% of Central American indigo",
+      "place": "Nueva Guatemala de la Asunción (Guatemala City)",
+      "lat": 14.6349,
+      "lng": -90.5069,
+      "summary": "Troy Floyd, using Spanish sales-tax (alcabala) accounts, gives Central American indigo production of 1,089,636 lb in 1778 and finds that 21 Guatemala City merchants exported almost 2,500,000 lb in 1778–1785, about 60% of total production. Indigo, gathered at fairs such as Apastepeque in San Salvador, was shipped by mule (one zurrón of about 212 lb per mule) and barge to the Caribbean port of Santo Tomás for Cádiz. The indigo fair was moved to San Salvador in 1787.",
+      "significance": "Shows how the late-colonial indigo boom concentrated wealth and power in a small merchant elite in the capital.",
+      "sources": [
+        {
+          "institution": "Business History Review (Cambridge University Press)",
+          "title": "Troy S. Floyd, 'The Indigo Merchant: Promoter of Central American Economic Development, 1750-1808', Business History Review 39:4 (1965), 466-488 (footnotes visible on abstract page)",
+          "date": "1965",
+          "url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/indigo-merchant-promoter-of-central-american-economic-development-17501808/EF8B5EAEF234D558B9B19C44A9E6AB83",
+          "quote": "The twenty-one merchants listed in Table 1 exported almost 2,500,000 pounds of indigo in the eight-year period, 1778–1785. This was 60 per cent of the total production.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "PAYWALL"
+        },
+        {
+          "institution": "Business History Review (Cambridge University Press)",
+          "title": "Troy S. Floyd, 'The Indigo Merchant: Promoter of Central American Economic Development, 1750-1808', Business History Review 39:4 (1965), 466-488 (footnotes visible on abstract page)",
+          "date": "1965",
+          "url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/indigo-merchant-promoter-of-central-american-economic-development-17501808/EF8B5EAEF234D558B9B19C44A9E6AB83",
+          "quote": "A mule carried one zurrón (seroon) of indigo, which weighed about 212 pounds.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "PAYWALL"
+        }
+      ]
+    },
+    {
+      "id": "montepio-cosecheros-anil-1782",
+      "displayDate": "1782",
+      "year": 1782,
+      "era": "plantation",
+      "title": "Growers' fund (Montepío de cosecheros de añil) founded at San Vicente",
+      "place": "San Vicente (de Austria), Alcaldía Mayor of San Salvador",
+      "lat": 13.6411,
+      "lng": -88.7847,
+      "summary": "To break Guatemala City merchants' grip on credit and prices, Bourbon authorities under Matías de Gálvez founded a Sociedad y Montepío de cosecheros de añil in 1782, based at San Vicente, to advance credit to indigo growers, and moved the indigo fair from Guatemala City to San Vicente. Around this period about 90% of the Kingdom of Guatemala's harvest came from the province of San Salvador. Local conflicts followed, such as the 1783–84 dispute over hoarding of indigo seed ('mostazas') in Zacatecoluca.",
+      "significance": "A Bourbon attempt at development finance for a colonial export crop, centred on today's El Salvador.",
+      "sources": [
+        {
+          "institution": "Trashumante. Revista Americana de Historia Social (Universidad de Antioquia), via Redalyc",
+          "title": "Huemac Escalona Lüttig, 'Basura por mostaza. La pugna por el acaparamiento de la semilla de añil en el partido de Zacatecoluca ... 1781-1784', Trashumante 22 (2023), 6-27",
+          "date": "2023",
+          "url": "https://www.redalyc.org/journal/4556/455675649001/html/",
+          "quote": "Con el fin de atender eficazmente a la demanda internacional del colorante, al inicio de la década de 1780 se fundó una Sociedad y Montepío de cosecheros de añil.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Trashumante. Revista Americana de Historia Social (Universidad de Antioquia), via Redalyc",
+          "title": "Huemac Escalona Lüttig, 'Basura por mostaza ...', Trashumante 22 (2023)",
+          "date": "2023",
+          "url": "https://www.redalyc.org/journal/4556/455675649001/html/",
+          "quote": "no solo procuraron la creación del Montepío sino también trasladaron la feria del añil de la ciudad de Guatemala a la villa de San Vicente.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "bengal-indigo-reaches-england-1786",
+      "displayDate": "1786",
+      "year": 1786,
+      "era": "plantation",
+      "title": "First Bengal indigo shipments reach England: 266,000 lb",
+      "place": "Bengal (East India Company territories) → London",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "summary": "England imported 266,000 lb of indigo from Bengal in 1786, as the East India Company and newly arrived British planters began producing indigo there with West Indian methods. Bengal's exports to England grew especially from 1794, from about 1.4 million lb to 7.25 million lb by 1815. R. C. Nash argues Carolina never held a monopoly of the British market; wartime prize indigo captured from France and Spain also supplied Britain.",
+      "significance": "The hand-off from Atlantic plantation indigo to the Bengal system that dominated the 19th century.",
+      "sources": [
+        {
+          "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+          "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+          "date": "2019",
+          "url": "https://books.openedition.org/igpde/12899?lang=en",
+          "quote": "L'Angleterre importe 266 000 livres d'indigo en provenance du Bengale en 1786",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+          "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+          "date": "2019",
+          "url": "https://books.openedition.org/igpde/12899?lang=en",
+          "quote": "Les exportations vers l'Angleterre commencent à augmenter surtout à partir de 1794, passant de 1,4 million de pounds à 7,25 millions de pounds en 1815",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Economic History Review (via RePEc/IDEAS abstract)",
+          "title": "R. C. Nash, 'South Carolina indigo, European textiles, and the British Atlantic economy in the eighteenth century', Economic History Review 63:2 (2010), 362-392",
+          "date": "2010",
+          "url": "https://ideas.repec.org/a/bla/ehsrev/v63y2010i2p362-392.html",
+          "quote": "Britain's indigo market, however, boomed in wartime on the bases of prize indigo captured from France and Spain and of indigo imported from South Carolina.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "PAYWALL"
+        }
+      ]
+    },
+    {
+      "id": "saint-domingue-3150-indigoteries-1789",
+      "displayDate": "c. 1789 (state of the colony at 18 October 1789)",
+      "year": 1789,
+      "era": "plantation",
+      "title": "Saint-Domingue counts 3,150 indigoteries — and free people of color own many",
+      "place": "Saint-Domingue (French colony, modern Haiti)",
+      "lat": 19.0,
+      "lng": -72.3,
+      "summary": "Moreau de Saint-Méry's description of French Saint-Domingue as of 1789 counts 793 sugar works, 3,150 indigo works (indigoteries) and 3,117 coffee plantations; the Western Province alone had 1,804 indigoteries. Indigo's low capital needs made it a route to planter status for free people of color, especially in the southern peninsula; an indigo planter from the southern peninsula led their campaign for civil reform during the French Revolution. In older districts such as Arcahaye, indigo works (186 in 1752) gave way to sugar after irrigation.",
+      "significance": "Indigo shaped Saint-Domingue's social structure on the eve of the Haitian Revolution.",
+      "sources": [
+        {
+          "institution": "Internet Archive (digitized book)",
+          "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 1 (Philadelphia, 1797), p. 100",
+          "date": "1797",
+          "url": "https://archive.org/details/descriptiontopog00more",
+          "quote": "La Colonie française de Saint-Domingue ... contient 793 manufactures à sucre ou sucreries; 3,150 indigoteries (OCR text, long-s normalised)",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "The Americas (Cambridge University Press)",
+          "title": "John Garrigus, 'Blue and Brown: Contraband Indigo and the Rise of a Free Colored Planter Class in French Saint-Domingue', The Americas 50:2 (1993), 233-263",
+          "date": "1993",
+          "url": "https://www.cambridge.org/core/journals/americas/article/abs/blue-and-brown-contraband-indigo-and-the-rise-of-a-free-colored-planter-class-in-french-saintdomingue/5B29E445B222DD542853025A8DCBCB3F",
+          "quote": "Saint-Domingue's free people of color, led by an indigo planter from the island's southern peninsula, began a campaign for civil reform that helped destabilize colonial slave society.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "PAYWALL"
+        }
+      ]
+    },
+    {
+      "id": "louisiana-indigo-caterpillars-1793",
+      "displayDate": "1793–1795",
+      "year": 1793,
+      "era": "bengal",
+      "title": "Caterpillar plague ends Louisiana indigo; planters turn to sugar",
+      "place": "West Baton Rouge / lower Mississippi, Spanish Louisiana",
+      "lat": 30.448,
+      "lng": -91.2113,
+      "summary": "French Louisiana received indigo seed in the 1720s and indigo remained an export crop under Spanish rule, with plantations still appearing in West Baton Rouge in the late 1780s and 1790s. A caterpillar plague destroyed the crop in 1793; after Étienne de Boré's successful sugar granulation near New Orleans in 1795, planters shifted to sugar cane. The West Baton Rouge Museum credits enslaved West African indigo farmers and dyers with establishing the local industry.",
+      "significance": "The last major North American indigo frontier collapsed just as Bengal indigo was flooding the British market.",
+      "sources": [
+        {
+          "institution": "West Baton Rouge Museum (West Baton Rouge Parish)",
+          "title": "Cash Crops before Sugar in West Baton Rouge",
+          "date": "n.d.",
+          "url": "https://www.westbatonrougemuseum.org/952/Cash-Crops-before-Sugar-in-West-Baton-Ro",
+          "quote": "Indigo was fairly profitable until 1793, when a plague of caterpillars destroyed the crop.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "New Georgia Encyclopedia",
+          "title": "Indigo (James Bitler)",
+          "date": "2008-01-04",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/indigo/",
+          "quote": "In the 1720s the French government supplied French settlers in Louisiana with indigo plant seeds.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": "south-carolina-indigo-exports",
+      "label": "South Carolina indigo exports",
+      "unit": "pounds (lb avoirdupois)",
+      "geography": "South Carolina (1747-1775: colony-wide per HSUS note; 1766 and 1783-1788: Charleston only)",
+      "points": [
+        {
+          "year": 1747,
+          "value": 138300,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1747: 138.3 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 12: year ending Mar. 24 of following year"
+        },
+        {
+          "year": 1748,
+          "value": 62200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1748: 62.2 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 12: year ending Mar. 24 of following year"
+        },
+        {
+          "year": 1749,
+          "value": 138300,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1749: 138.3 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 12: year ending Mar. 24; value identical to 1747 in the printed table"
+        },
+        {
+          "year": 1750,
+          "value": 63100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1750: 63.1 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 12: year ending Mar. 24 of following year"
+        },
+        {
+          "year": 1751,
+          "value": 19900,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1751: 19.9 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 12: year ending Mar. 24 of following year"
+        },
+        {
+          "year": 1752,
+          "value": 3800,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1752: 3.8 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 11: 9½ months ending Jan. 5 of following year"
+        },
+        {
+          "year": 1753,
+          "value": 28500,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1753: 28.5 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1754,
+          "value": 129600,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1754: 129.6 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1755,
+          "value": 303500,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1755: 303.5 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1756,
+          "value": 222800,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1756: 222.8 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1757,
+          "value": 876400,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1757: 876.4 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1758,
+          "value": 563000,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1758: 563.0 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1759,
+          "value": 695700,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1759: 695.7 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1760,
+          "value": 507600,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1760: 507.6 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1761,
+          "value": 384100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1761: 384.1 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1762,
+          "value": 255300,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1762: 255.3 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1763,
+          "value": 438900,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1763: 438.9 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1764,
+          "value": 529100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1764: 529.1 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1765,
+          "value": 335800,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1765: 335.8 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1766,
+          "value": 491800,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1766: 491.8 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "Charleston-based WPA compilation (total column carries fn 2: Charleston only)"
+        },
+        {
+          "year": 1768,
+          "value": 498000,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1768: 498.0 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 8: plus 196 casks (weight not included)"
+        },
+        {
+          "year": 1769,
+          "value": 402700,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1769: 402.7 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1770,
+          "value": 550800,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1770: 550.8 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1771,
+          "value": 434200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1771: 434.2 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1772,
+          "value": 746700,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1772: 746.7 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 7: plus 302 casks and 5 boxes (weight not included)"
+        },
+        {
+          "year": 1773,
+          "value": 720600,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1773: 720.6 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 6: year ending Nov. 11"
+        },
+        {
+          "year": 1774,
+          "value": 747200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1774: 747.2 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 5: 11 months ending Oct. 6"
+        },
+        {
+          "year": 1775,
+          "value": 1122200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1775: 1,122.2 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 4: 6½ months ending Feb. 24"
+        },
+        {
+          "year": 1783,
+          "value": 289500,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1783: 289.5 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": true,
+          "note": "fn 2 & 3: Charleston only; 827 casks at 350 lb each (estimated weight)"
+        },
+        {
+          "year": 1784,
+          "value": 713900,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1784: 713.9 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 2: Charleston only"
+        },
+        {
+          "year": 1785,
+          "value": 626200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1785: 626.2 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 2: Charleston only"
+        },
+        {
+          "year": 1786,
+          "value": 757100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1786: 757.1 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 2: Charleston only"
+        },
+        {
+          "year": 1787,
+          "value": 974100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1787: 974.1 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 2: Charleston only"
+        },
+        {
+          "year": 1788,
+          "value": 833500,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1788: 833.5 (South Carolina, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 2: Charleston only"
+        }
+      ],
+      "notes": "Source table HSUS Series Z 433 (values printed in 1,000 lb; converted here x1000). 1747-1765 from L. C. Gray, History of Agriculture in the Southern U.S. (1933), p. 1024 (from British Museum King's MSS 206); 1768-1772 from Customs 16/1; 1783-1788 compiled by J. M. Price from PRO BT 6/21. Years end Jan. 4 of following year except where footnoted; several years are partial (1752: 9½ months; 1774: 11 months; 1775: 6½ months ending Feb. 24), so the 1775 'peak' is not a full calendar year. 1767 is NA (Charleston exported 530,092 lb Oct. 31, 1767–Sept. 8, 1768). Casks listed in footnotes 7-8 are excluded from the printed weights. HSUS notes other ports supplied 7.8% of the colony's exports to England in 1768-1773, so Charleston-only years understate the colony. No data 1776-1782 (war). The identical 138.3 values for 1747 and 1749 are as printed. The South Carolina Encyclopedia gives 907,258 lb for 1787 vs HSUS 974.1 thousand (Charleston)."
+    },
+    {
+      "id": "georgia-indigo-exports",
+      "label": "Georgia indigo exports",
+      "unit": "pounds (lb avoirdupois)",
+      "geography": "Georgia (Savannah; HSUS heading changed from Savannah to Georgia)",
+      "points": [
+        {
+          "year": 1755,
+          "value": 4500,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1755: 4.5 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1756,
+          "value": 9300,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1756: 9.3 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1757,
+          "value": 18200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1757: 18.2 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1758,
+          "value": 9600,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1758: 9.6 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1759,
+          "value": 600,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1759: 0.6 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1760,
+          "value": 11700,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1760: 11.7 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1761,
+          "value": 1600,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1761: 1.6 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1762,
+          "value": 9100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1762: 9.1 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1763,
+          "value": 8700,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1763: 8.7 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1764,
+          "value": 14200,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1764: 14.2 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1765,
+          "value": 16000,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1765: 16.0 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1766,
+          "value": 14400,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1766: 14.4 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1767,
+          "value": 12900,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1767: 12.9 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1768,
+          "value": 19700,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1768: 19.7 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false,
+          "note": "fn 9: plus 357 casks"
+        },
+        {
+          "year": 1769,
+          "value": 13900,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1769: 13.9 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1770,
+          "value": 22300,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1770: 22.3 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1771,
+          "value": 19900,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1771: 19.9 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        },
+        {
+          "year": 1772,
+          "value": 13100,
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 432-435, p. 1189 (PDF p. 597)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 432-435. Indigo and Silk Exported From South Carolina and Georgia: 1747 to 1788 — row 1772: 13.1 (Georgia, 1,000 pounds)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          },
+          "estimate": false
+        }
+      ],
+      "notes": "HSUS Series Z 434 (printed in 1,000 lb, converted x1000). Georgia figures (American customs official) include coastwise shipments (5.1% of Georgia's 1768-1773 total). New Georgia Encyclopedia gives 4,500 lb in 1755 and a 1770 peak of 'more than 22,000 pounds', consistent with this series."
+    },
+    {
+      "id": "central-america-indigo-output",
+      "label": "Central American (Kingdom of Guatemala) indigo output / exports, selected years and period averages",
+      "unit": "pounds (Spanish libras ≈ 0.46 kg; sources mix 'libras' and 'pounds')",
+      "geography": "Audiencia/Kingdom of Guatemala (c. 90% from the province of San Salvador by the 1780s)",
+      "points": [
+        {
+          "year": 1690,
+          "value": 500000,
+          "estimate": true,
+          "note": "'A finales del Siglo XVII' — late-17th-century order of magnitude (Browning 1998 via Erquicia); plotted at 1690 for convenience",
+          "source": {
+            "institution": "Museo Nacional de Arqueología y Etnología, Guatemala / Asociación Tikal (via Mesoweb)",
+            "title": "José Heriberto Erquicia Cruz, 'Obrajes industriales para beneficiar xiquilite en la intendencia de San Salvador del Reino de Guatemala', XXVI Simposio de Investigaciones Arqueológicas en Guatemala, 2012, pp. 375-384",
+            "date": "2013",
+            "url": "https://www.mesoweb.com/Simposio/pdf/26/Erquicia.2013.pdf",
+            "quote": "A finales del Siglo XVII, Centroamérica enviaba 500,000 libras de añil hacia Europa.",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1776,
+          "value": 700000,
+          "estimate": true,
+          "note": "Annual average of exports 1772-1780 (Fernández Molina via Martin); plotted at period midpoint. Díaz Arias & Viales cite 702,261 lb",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "passant de 700 000 pounds en moyenne par an entre 1772 et 1780 à 920 000 pounds en 1791-1800",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1778,
+          "value": 1089636,
+          "estimate": false,
+          "note": "Production ('produced figure'), from alcabala accounts, AGI Guatemala 754",
+          "source": {
+            "institution": "Business History Review (Cambridge University Press)",
+            "title": "Troy S. Floyd, 'The Indigo Merchant: Promoter of Central American Economic Development, 1750-1808', Business History Review 39:4 (1965), 466-488 (footnotes visible on abstract page)",
+            "date": "1965",
+            "url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/indigo-merchant-promoter-of-central-american-economic-development-17501808/EF8B5EAEF234D558B9B19C44A9E6AB83",
+            "quote": "Based on the produced figure of 1,089,636 Ibs. (see Table 2)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "PAYWALL"
+          }
+        },
+        {
+          "year": 1783,
+          "value": 671440,
+          "estimate": false,
+          "note": "Harvest ('producto de las cosechas'), AGI Guatemala 668, cited by D. Browning",
+          "source": {
+            "institution": "Asociación para el Fomento de los Estudios Históricos en Centroamérica (AFEHC)",
+            "title": "Tabla de la evolución de la producción de añil en Centroamérica (Christophe Belaubre)",
+            "date": "n.d.",
+            "url": "https://www.afehc-historia-centroamericana.org/index_action_fi_aff_id_2479.html",
+            "quote": "Las variaciones van de 671440 libras en 1783 a 1333185 libras en 1793.",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1786,
+          "value": 887389,
+          "estimate": true,
+          "note": "Annual average of exports 1781-1790 (Fernández Molina via Díaz Arias & Viales Hurtado); plotted at period midpoint; exact figure seen only in search-result text",
+          "source": {
+            "institution": "Editorial de la Universidad de Costa Rica (Kérwá repository)",
+            "title": "David Díaz Arias & Ronny Viales Hurtado, El impacto económico de la independencia en Centroamérica (1760-1840)",
+            "date": "2016",
+            "url": "https://www.kerwa.ucr.ac.cr/server/api/core/bitstreams/f9f03f85-c861-4eb8-9eb1-aed0d50bc420/content",
+            "quote": "growing to an average of 887,389 pounds in the period 1781-1790 (search-engine rendering; PDF not retrievable)",
+            "verificationStatus": "PENDING",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1792,
+          "value": 1333185,
+          "estimate": false,
+          "note": "Harvest; AFEHC table row says 1792 while its summary text says 1793 (source: 'Estado que manifiesta el producto de las cosechas del añil', 1793, AGI Guatemala 668)",
+          "source": {
+            "institution": "Asociación para el Fomento de los Estudios Históricos en Centroamérica (AFEHC)",
+            "title": "Tabla de la evolución de la producción de añil en Centroamérica (Christophe Belaubre)",
+            "date": "n.d.",
+            "url": "https://www.afehc-historia-centroamericana.org/index_action_fi_aff_id_2479.html",
+            "quote": "Las variaciones van de 671440 libras en 1783 a 1333185 libras en 1793.",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1796,
+          "value": 920000,
+          "estimate": true,
+          "note": "Annual average of exports 1791-1800 (Fernández Molina via Martin); plotted at period midpoint. Díaz Arias & Viales cite 921,425 lb",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "passant de 700 000 pounds en moyenne par an entre 1772 et 1780 à 920 000 pounds en 1791-1800",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1811,
+          "value": 536475,
+          "estimate": false,
+          "note": "Production; post-1800 endpoint for context",
+          "source": {
+            "institution": "Business History Review (Cambridge University Press)",
+            "title": "Troy S. Floyd, 'The Indigo Merchant: Promoter of Central American Economic Development, 1750-1808', Business History Review 39:4 (1965), 466-488 (footnotes visible on abstract page)",
+            "date": "1965",
+            "url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/indigo-merchant-promoter-of-central-american-economic-development-17501808/EF8B5EAEF234D558B9B19C44A9E6AB83",
+            "quote": "Indigo production was reported as only 536,475 lbs. in 1811.",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "PAYWALL"
+          }
+        }
+      ],
+      "notes": "MIXED DEFINITIONS: harvest/production (1778, 1783, 1792, 1811) vs exports (period averages). Do not draw as a single continuous line without flagging. Robert S. Smith, 'Indigo Production and Trade in Colonial Guatemala', HAHR 39:2 (1959) and J. A. Fernández Molina, Pintando el mundo de azul (2003) hold fuller annual series but could not be accessed (Duke/JSTOR 403). Unit: Spanish libra (~460 g) vs English lb (~454 g) — difference <2%. Floyd's 21 merchants moving ~2.5 million lb over 1778-85 = 60% implies ~4.2 million lb total (~520,000/yr), lower than the Fernández averages: definitions differ."
+    },
+    {
+      "id": "saint-domingue-indigo-to-france",
+      "label": "Saint-Domingue / French Antilles indigo shipped to France",
+      "unit": "livres poids (French pounds, 1 livre ≈ 0.4895 kg ≈ 1.079 lb)",
+      "geography": "Saint-Domingue (with other French American islands for 1784-86)",
+      "points": [
+        {
+          "year": 1732,
+          "value": 1300000,
+          "estimate": true,
+          "note": "Average per year, 1730-1735 (peacetime level); plotted at midpoint",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "assez proches des niveaux atteints en période de paix plus avant dans le siècle, que ce soit en 1730-1735 ou dans les années 1750... (1,3 million en moyenne par an)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1755,
+          "value": 1300000,
+          "estimate": true,
+          "note": "Average per year in the 1750s between the wars; plotted at midpoint",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "assez proches des niveaux atteints en période de paix plus avant dans le siècle, que ce soit en 1730-1735 ou dans les années 1750... (1,3 million en moyenne par an)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1771,
+          "value": 4000000,
+          "estimate": true,
+          "note": "'plus de 4 millions' in 1771-1772 — lower bound",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "Saint-Domingue connaît encore une hausse de la production au début des années 1770, jusqu'à plus de 4 millions de livres en 1771-1772",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1785,
+          "value": 1550000,
+          "estimate": true,
+          "note": "Average per year 1784-1786 exported to France from all French American islands (98% Saint-Domingue)",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "Entre 1784 et 1786, après l'indépendance américaine, 1,55 million de livres poids par an d'indigo sont exportées vers la France en provenance des îles françaises d'Amérique, à 98 % à partir de Saint-Domingue",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1789,
+          "value": 1460000,
+          "estimate": true,
+          "note": "'à la fin de l'Ancien Régime' — plotted at 1789",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "retomber après la guerre d'indépendance américaine à un niveau de 1,46 million de livres à la fin de l'Ancien Régime",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        }
+      ],
+      "notes": "From M. Martin (2019), based on her thesis 'Les marchés de l'indigo', pp. 218, 307, 315-316. Figures are rounded period values; the text alternates 'production' and exports to France. Convert livres to English lb by x1.079 if comparing with Carolina. Not independently checked against the French Balance du commerce."
+    },
+    {
+      "id": "arcahaye-indigoteries",
+      "label": "Indigo works (indigoteries) in the parish of L'Arcahaye, Saint-Domingue",
+      "unit": "number of indigoteries",
+      "geography": "Arcahaye parish, Western Province, Saint-Domingue (18.77 N, 72.51 W)",
+      "points": [
+        {
+          "year": 1739,
+          "value": 34,
+          "estimate": false,
+          "source": {
+            "institution": "Internet Archive (digitized book)",
+            "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 2 (Philadelphia, 1797-98), parish of L'Arcahaye",
+            "date": "1797",
+            "url": "https://archive.org/details/descriptiontopog01more",
+            "quote": "En 1739 on y voyait 34 indigoteries (OCR text, long-s normalised)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1751,
+          "value": 170,
+          "estimate": false,
+          "source": {
+            "institution": "Internet Archive (digitized book)",
+            "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 2 (Philadelphia, 1797-98), parish of L'Arcahaye",
+            "date": "1797",
+            "url": "https://archive.org/details/descriptiontopog01more",
+            "quote": "En 1751 le nombre des indigoteries était de 170 (OCR text, long-s normalised)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1752,
+          "value": 186,
+          "estimate": false,
+          "source": {
+            "institution": "Internet Archive (digitized book)",
+            "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 2 (Philadelphia, 1797-98), parish of L'Arcahaye",
+            "date": "1797",
+            "url": "https://archive.org/details/descriptiontopog01more",
+            "quote": "L'année suivante comptait 186 indigoteries (OCR text, long-s normalised)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1775,
+          "value": 23,
+          "estimate": false,
+          "source": {
+            "institution": "Internet Archive (digitized book)",
+            "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 2 (Philadelphia, 1797-98), parish of L'Arcahaye",
+            "date": "1797",
+            "url": "https://archive.org/details/descriptiontopog01more",
+            "quote": "en 1775 40 sucreries, dont 2 en blanc, 23 indigoteries (OCR text, long-s normalised)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1787,
+          "value": 44,
+          "estimate": false,
+          "source": {
+            "institution": "Internet Archive (digitized book)",
+            "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 2 (Philadelphia, 1797-98), parish of L'Arcahaye",
+            "date": "1797",
+            "url": "https://archive.org/details/descriptiontopog01more",
+            "quote": "en 1787, 45 sucreries dont 12 en blanc, 44 indigoteries (OCR text, long-s normalised)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1789,
+          "value": 49,
+          "estimate": true,
+          "note": "'Aujourd'hui' = Moreau's reference date c. 1789",
+          "source": {
+            "institution": "Internet Archive (digitized book)",
+            "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 2 (Philadelphia, 1797-98), parish of L'Arcahaye",
+            "date": "1797",
+            "url": "https://archive.org/details/descriptiontopog01more",
+            "quote": "Aujourd'hui il y a à l'Arcahaye 48 sucreries ... 49 indigoteries (OCR text, long-s normalised)",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        }
+      ],
+      "notes": "Illustrates the indigo-to-sugar transition after irrigation: sugar works in the same parish were 6 (1751), 40 (1775), 45 (1787) and 48 (c. 1789). Source is archive.org OCR of Moreau de Saint-Méry (1797-98); numbers read from clean OCR digits. The 1765 figure is OCR-garbled and omitted."
+    },
+    {
+      "id": "british-colonial-indigo-unit-value",
+      "label": "Implied export unit value of British North American indigo",
+      "unit": "shillings sterling per lb (value ÷ quantity)",
+      "geography": "South Carolina (1747, 1775); British continental colonies (1770)",
+      "points": [
+        {
+          "year": 1747,
+          "value": 2.43,
+          "estimate": false,
+          "note": "£16,803 / 138,300 lb (South Carolina exports to England)",
+          "source": {
+            "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+            "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+            "date": "2016-06-08",
+            "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+            "quote": "In 1747, 138,300 pounds of dye, worth £16,803 sterling, were exported to England.",
+            "verificationStatus": "DERIVED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1770,
+          "value": 4.5,
+          "estimate": false,
+          "note": "£131,552 / 584,672 lb (all British continental colonies, HSUS Z 294)",
+          "source": {
+            "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+            "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 294 (exports by article, 1770), p. 1184 (PDF p. 592)",
+            "date": "1975",
+            "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+            "quote": "Series Z 294. Value and Quantity of Articles Exported From British Continental Colonies, by Destination: 1770 — row Indigo (lb.): value 131,552; total 584,672; Great Britain 584,593; West Indies 83",
+            "verificationStatus": "DERIVED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1775,
+          "value": 4.32,
+          "estimate": false,
+          "note": "£242,395 / 1,122,200 lb (South Carolina; partial-year quantity per HSUS)",
+          "source": {
+            "institution": "South Carolina Encyclopedia (University of South Carolina, Institute for Southern Studies)",
+            "title": "Indigo (by Virginia Jelatis; last updated 2022-08-05)",
+            "date": "2016-06-08",
+            "url": "https://www.scencyclopedia.org/sce/entries/indigo/",
+            "quote": "peaking in 1775 with a total of 1,122,200 pounds, valued at £242,395 sterling.",
+            "verificationStatus": "DERIVED",
+            "accessType": "FREE"
+          }
+        }
+      ],
+      "notes": "DERIVED unit values, not market quotations. 12 pence = 1 shilling; 20 shillings = £1. The 6d bounty (1749-1777) was paid on top to British importers. A proper annual Charleston price series exists in A. H. Cole, Wholesale Commodity Prices in the United States 1700-1861 (1938; indigo from 1747, per HSUS), not accessed."
+    },
+    {
+      "id": "bengal-indigo-to-england",
+      "label": "Bengal indigo exported/imported to England (bridge to the Bengal era)",
+      "unit": "pounds (lb)",
+      "geography": "Bengal → England",
+      "points": [
+        {
+          "year": 1786,
+          "value": 266000,
+          "estimate": false,
+          "note": "Martin writes 'livres'; in an English-trade context read as lb",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "L'Angleterre importe 266 000 livres d'indigo en provenance du Bengale en 1786",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1794,
+          "value": 1400000,
+          "estimate": true,
+          "note": "Starting level when growth accelerated 'à partir de 1794'",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "Les exportations vers l'Angleterre commencent à augmenter surtout à partir de 1794, passant de 1,4 million de pounds à 7,25 millions de pounds en 1815",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        },
+        {
+          "year": 1815,
+          "value": 7250000,
+          "estimate": false,
+          "note": "Post-1800 endpoint for context",
+          "source": {
+            "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+            "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+            "date": "2019",
+            "url": "https://books.openedition.org/igpde/12899?lang=en",
+            "quote": "Les exportations vers l'Angleterre commencent à augmenter surtout à partir de 1794, passant de 1,4 million de pounds à 7,25 millions de pounds en 1815",
+            "verificationStatus": "CONFIRMED",
+            "accessType": "FREE"
+          }
+        }
+      ],
+      "notes": "Sparse bridge series from Martin (2019), citing P. Kumar (2012) and I. Ray (2004). A full British-imports-by-origin table for c. 1770-1800 (Carolina vs. Spanish vs. French vs. East India) was NOT found in an accessible primary source; see notes."
+    }
+  ],
+  "quant": [
+    {
+      "id": "voc-1631-indigo-cargo",
+      "label": "Indigo on seven VOC ships arriving in Holland, 1631",
+      "value": 333545,
+      "unit": "lb (Dutch pounds as given by Beckmann)",
+      "year": 1631,
+      "place": "Dutch Republic",
+      "source": {
+        "institution": "Project Gutenberg (digitized text)",
+        "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+        "date": "1846",
+        "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+        "quote": "These seven vessels, therefore, brought to Europe 333,545 pounds, which, at a low valuation, were worth five tons of gold, or 500,000 dollars.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Breakdown: Sarkhej ('Sirches'/'Chirches') 13,539 + 32,251 + 27,532; Gujarat 82,734 + 66,996; Bayana ('Bajano'/'Bejana') 50,795 + 59,698. Sums exactly to 333,545."
+    },
+    {
+      "id": "voc-1633-indigo-value",
+      "label": "Value of 4,092 'kartel' of indigo on three ships, April 1633",
+      "value": 2046000,
+      "unit": "rix-dollars",
+      "year": 1633,
+      "place": "Dutch Republic",
+      "source": {
+        "institution": "Project Gutenberg (digitized text)",
+        "title": "John Beckmann, A History of Inventions, Discoveries, and Origins, vol. II, 4th ed. (London: H. G. Bohn, 1846), chapter 'Indigo', pp. 270-280",
+        "date": "1846",
+        "url": "https://www.gutenberg.org/files/48152/48152-h/48152-h.htm",
+        "quote": "In the month of April 1633, three ships brought home 4092 kartel of indigo, which were worth 2,046,000 rix-dollars.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "jamaica-1670-indigo",
+      "label": "Jamaica indigo works and output, 1670",
+      "value": 49000,
+      "unit": "lb per year (from 49 indigo works)",
+      "year": 1670,
+      "place": "Jamaica",
+      "source": {
+        "institution": "British History Online (CSP Colonial vol. 7)",
+        "title": "America and West Indies: September 1670, 16-30, item 271",
+        "date": "1670-09-23",
+        "url": "https://www.british-history.ac.uk/cal-state-papers/colonial/america-west-indies/vol7/pp94-110",
+        "quote": "49 indigo works, producing 49,000 weight of indigo per annum, and other walks and works daily adding.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "erfurt-woad-villages-1579",
+      "label": "Villages growing woad for Erfurt, 1579",
+      "value": 49,
+      "unit": "villages",
+      "year": 1579,
+      "place": "Erfurt, Thuringia",
+      "source": {
+        "institution": "Erfurt-Lese (Erfurt local history portal)",
+        "title": "Waidhandel in Erfurt",
+        "date": "n.d.",
+        "url": "https://www.erfurt-lese.de/streifzuege/geschichtliches/waidhandel-in-erfurt/",
+        "quote": "Während im Jahr 1579 Waidbauern in 49 Dörfern Waid anbauten, waren es 1747 nur noch drei Erfurter und zwölf Gothaer Dörfer.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Also confirmed by Geschichtsmuseen Erfurt ('in 49 Erfurter Dörfern', exhibition 'Geld stinkt nicht', 2016-17): https://geschichtsmuseen.erfurt.de/gm/de/service/aktuelles/ausstellungen/archiv/125540.html",
+      "lat": 50.9848,
+      "lng": 11.0299
+    },
+    {
+      "id": "erfurt-gotha-woad-villages-1747",
+      "label": "Woad-growing villages left in 1747 (3 Erfurt + 12 Gotha)",
+      "value": 15,
+      "unit": "villages",
+      "year": 1747,
+      "place": "Erfurt and Gotha, Thuringia",
+      "source": {
+        "institution": "Erfurt-Lese (Erfurt local history portal)",
+        "title": "Waidhandel in Erfurt",
+        "date": "n.d.",
+        "url": "https://www.erfurt-lese.de/streifzuege/geschichtliches/waidhandel-in-erfurt/",
+        "quote": "Während im Jahr 1579 Waidbauern in 49 Dörfern Waid anbauten, waren es 1747 nur noch drei Erfurter und zwölf Gothaer Dörfer.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Not strictly comparable with 1579 (Erfurt only); shows collapse of Thuringian woad. Same page wrongly states that indigo dyeing was penalised in 1577 (see notes).",
+      "lat": 50.9848,
+      "lng": 11.0299
+    },
+    {
+      "id": "toulouse-pastel-bales-16c",
+      "label": "Maximum woad (pastel) bales exported from Bordeaux, 16th century",
+      "value": 200000,
+      "unit": "bales of c. 100 kg",
+      "year": 1550,
+      "place": "Bordeaux / Toulouse region",
+      "source": {
+        "institution": "Ministère de la Culture (France)",
+        "title": "Les savoir-faire liés à la teinture au pastel, en pays de Cocagne (fiche d'inventaire PCI), quoting Michel Garcia",
+        "date": "2021",
+        "url": "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/les-savoir-faire-lies-a-la-teinture-au-pastel-en-pays-de-cocagne.pdf",
+        "quote": "Au XVIe siècle, on exporte depuis Bordeaux jusqu’à 200 000 balles de coques ou cocagnes (de 100kg environ)",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Year is a placeholder for '16th century' (peak, not annual average). The same fiche quotes Rufino (1998) claiming 40,000-60,000 tonnes of agranat a year — an order of magnitude that should be treated with caution."
+    },
+    {
+      "id": "central-america-obrajes-1600",
+      "label": "Indigo obrajes on Central America's Pacific slope, 1600",
+      "value": 360,
+      "unit": "obrajes",
+      "year": 1600,
+      "place": "El Salvador, Escuintepeque, Guazapán, San Miguel/Choluteca/Nicaragua",
+      "source": {
+        "institution": "Análise Social (Instituto de Ciências Sociais, Universidade de Lisboa)",
+        "title": "Francisco Zamora Rodríguez, 'Central American Indigo. Globalization and socioeconomic effects (16th-17th centuries)', Análise Social 224 (2017), 584-607",
+        "date": "2017",
+        "url": "https://revistas.rcaap.pt/index.php/analisesocial/article/download/22446/16545/87092",
+        "quote": "200 in El Salvador, 40 in Escuintepeque, 60 in Guazapán, and 60 in San Miguel, Tecpanatitlán, la Cholulteca, and Nicaragua",
+        "verificationStatus": "DERIVED",
+        "accessType": "FREE"
+      },
+      "note": "Sum 200+40+60+60 = 360 (derived). Zamora cites Pérez Herrero (1992)."
+    },
+    {
+      "id": "guatemala-poquiteros-mid17c",
+      "label": "Small indigo producers (poquiteros), mid-17th century",
+      "value": 3000,
+      "unit": "producers, each c. 100 lb/yr",
+      "year": 1650,
+      "place": "Kingdom of Guatemala",
+      "source": {
+        "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+        "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+        "date": "2016",
+        "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+        "quote": "Había alrededor de 3,000 y cada uno obtenía anualmente cerca de 100 libras.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Implies c. 300,000 libras from poquiteros (DERIVED), said to be over half of exports."
+    },
+    {
+      "id": "san-salvador-obrajes-1750",
+      "label": "Indigo obrajes in the province of San Salvador c. 1750",
+      "value": 600,
+      "unit": "obrajes (more than)",
+      "year": 1750,
+      "place": "Province of San Salvador",
+      "source": {
+        "institution": "Museo Nacional de Arqueología y Etnología, Guatemala / Asociación Tikal (via Mesoweb)",
+        "title": "José Heriberto Erquicia Cruz, 'Obrajes industriales para beneficiar xiquilite en la intendencia de San Salvador del Reino de Guatemala', XXVI Simposio de Investigaciones Arqueológicas en Guatemala, 2012, pp. 375-384",
+        "date": "2013",
+        "url": "https://www.mesoweb.com/Simposio/pdf/26/Erquicia.2013.pdf",
+        "quote": "Hacia 1750, dicha provincia contaba con un estimado de más de 600 obrajes que servían para beneficiar el xiquilite y producir la tinta de añil",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "lat": 13.6989,
+      "lng": -89.1914
+    },
+    {
+      "id": "san-salvador-haciendas-obrajes-gálvez",
+      "label": "Haciendas and obrajes in San Salvador province (second half of 18th c., Alcalde Mayor Manuel de Gálvez report)",
+      "value": 618,
+      "unit": "obrajes on 267 haciendas",
+      "year": 1765,
+      "place": "Province of San Salvador",
+      "source": {
+        "institution": "Museo Nacional de Arqueología y Etnología, Guatemala / Asociación Tikal (via Mesoweb)",
+        "title": "José Heriberto Erquicia Cruz, 'Obrajes industriales para beneficiar xiquilite en la intendencia de San Salvador del Reino de Guatemala', XXVI Simposio de Investigaciones Arqueológicas en Guatemala, 2012, pp. 375-384",
+        "date": "2013",
+        "url": "https://www.mesoweb.com/Simposio/pdf/26/Erquicia.2013.pdf",
+        "quote": "en la provincia de San Salvador había unas 267 haciendas, las cuales contenían 618 obrajes para beneficiar añil.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Year is a placeholder for 'segunda mitad del Siglo XVIII'; the report date was not given.",
+      "lat": 13.6989,
+      "lng": -89.1914
+    },
+    {
+      "id": "indigo-shipment-1652",
+      "label": "Central American indigo shipment Cádiz → Ostend for the Spanish army, 1652",
+      "value": 21431,
+      "unit": "arrobas (2,325 crates + 127 barrels)",
+      "year": 1652,
+      "place": "Cádiz → Ostend",
+      "source": {
+        "institution": "Análise Social (Instituto de Ciências Sociais, Universidade de Lisboa)",
+        "title": "Francisco Zamora Rodríguez, 'Central American Indigo. Globalization and socioeconomic effects (16th-17th centuries)', Análise Social 224 (2017), 584-607",
+        "date": "2017",
+        "url": "https://revistas.rcaap.pt/index.php/analisesocial/article/download/22446/16545/87092",
+        "quote": "There were 2325 crates of indigo plus 127 barrels that totalled 2452 items weighing 21431 arrobas.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "21,431 arrobas x 25 libras = c. 535,775 libras (DERIVED; weight includes some grain and tobacco per the text)."
+    },
+    {
+      "id": "zurron-weight",
+      "label": "Weight of one indigo zurrón (seroon), Guatemala",
+      "value": 212,
+      "unit": "lb (Floyd); Cabezas gives c. 214 libras",
+      "year": 1780,
+      "place": "Kingdom of Guatemala",
+      "source": {
+        "institution": "Business History Review (Cambridge University Press)",
+        "title": "Troy S. Floyd, 'The Indigo Merchant: Promoter of Central American Economic Development, 1750-1808', Business History Review 39:4 (1965), 466-488 (footnotes visible on abstract page)",
+        "date": "1965",
+        "url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/indigo-merchant-promoter-of-central-american-economic-development-17501808/EF8B5EAEF234D558B9B19C44A9E6AB83",
+        "quote": "A mule carried one zurrón (seroon) of indigo, which weighed about 212 pounds.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "PAYWALL"
+      }
+    },
+    {
+      "id": "guatemala-indigo-price-1640",
+      "label": "Price of indigo in a Guatemalan merchant credit, March 1640",
+      "value": 6,
+      "unit": "reales per libra (= 0.75 peso)",
+      "year": 1640,
+      "place": "Kingdom of Guatemala / route to New Spain",
+      "source": {
+        "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+        "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+        "date": "2016",
+        "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+        "quote": "un crédito por 513 pesos, 6 reales, en 157 libras de añil que a 6 reales la libra hacían 117 pesos, 6 reales",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "enslaved-price-in-indigo-1624",
+      "label": "Price of an enslaved African in indigo, Santiago de Guatemala, 1624",
+      "value": 8.5,
+      "unit": "quintales of añil per person (85 qq for 10 people)",
+      "year": 1624,
+      "place": "Santiago de Guatemala",
+      "source": {
+        "institution": "Horacio Cabezas Carcache (self-published PDF with AGI transcription)",
+        "title": "Horacio Cabezas Carcache, Jiquilite-Añil (2016), incl. transcription of AGI 'Autos e Información ... obrajes de tinta añil' (1636)",
+        "date": "2016",
+        "url": "https://josecal.wordpress.com/wp-content/uploads/2016/08/jiquilite-ac3b1il-horacio-cabezas-2016.pdf",
+        "quote": "por el precio de 85 qq de tinta añil de la costa, equivalentes a ocho qq y medio por esclavo",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "lat": 14.5586,
+      "lng": -90.7295
+    },
+    {
+      "id": "venezuela-indigo-1791-1800",
+      "label": "Venezuelan indigo exports, annual average 1791-1800",
+      "value": 526000,
+      "unit": "libras per year (peak 915,000 in 1794)",
+      "year": 1795,
+      "place": "Captaincy General of Venezuela",
+      "source": {
+        "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+        "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+        "date": "2019",
+        "url": "https://books.openedition.org/igpde/12899?lang=en",
+        "quote": "Entre 1791 et 1800 en moyenne, 526 000 libras sont exportées par an, et jusqu'à 915 000 libras en 1794",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "saint-domingue-indigoteries-1789",
+      "label": "Indigo works (indigoteries) in French Saint-Domingue, c. 1789",
+      "value": 3150,
+      "unit": "indigoteries",
+      "year": 1789,
+      "place": "Saint-Domingue",
+      "source": {
+        "institution": "Internet Archive (digitized book)",
+        "title": "M. L. E. Moreau de Saint-Méry, Description topographique ... de la partie française de l'isle Saint-Domingue, vol. 1 (Philadelphia, 1797), p. 100",
+        "date": "1797",
+        "url": "https://archive.org/details/descriptiontopog00more",
+        "quote": "contient 793 manufactures à sucre ou sucreries; 3,150 indigoteries (OCR text, long-s normalised)",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Western Province alone: 1,804 indigoteries (Moreau, vol. 2, p. 13)."
+    },
+    {
+      "id": "british-colonies-indigo-1770",
+      "label": "Indigo exported from British continental colonies, 1770",
+      "value": 584672,
+      "unit": "lb (value £131,552; 584,593 lb to Great Britain)",
+      "year": 1770,
+      "place": "British North America",
+      "source": {
+        "institution": "U.S. Bureau of the Census (digitized by Federal Reserve Bank of St. Louis, FRASER)",
+        "title": "Historical Statistics of the United States, Colonial Times to 1970, Part 2, Series Z 294 (exports by article, 1770), p. 1184 (PDF p. 592)",
+        "date": "1975",
+        "url": "https://fraser.stlouisfed.org/files/docs/publications/histstatus/hstat1970_cen_1975_v2.pdf",
+        "quote": "Series Z 294. Value and Quantity of Articles Exported From British Continental Colonies, by Destination: 1770 — row Indigo (lb.): value 131,552; total 584,672; Great Britain 584,593; West Indies 83",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "carolina-provincial-bounty-1744",
+      "label": "South Carolina provincial bounty on indigo (May 1744-April 1746)",
+      "value": 1,
+      "unit": "shilling (South Carolina currency) per lb",
+      "year": 1744,
+      "place": "Charleston",
+      "source": {
+        "institution": "Charleston County Public Library (Charleston Time Machine)",
+        "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+        "date": "2019-08-16",
+        "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+        "quote": "the provincial government offered a cash bounty of one shilling (South Carolina currency) per pound of merchantable produce for export.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "parliament-bounty-1748",
+      "label": "Parliamentary bounty on British-colonial indigo (from 1749)",
+      "value": 6,
+      "unit": "pence sterling per lb (initial rate)",
+      "year": 1748,
+      "place": "Westminster",
+      "source": {
+        "institution": "Charleston County Public Library (Charleston Time Machine)",
+        "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+        "date": "2019-08-16",
+        "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+        "quote": "successfully lobbied the government to offer a bounty (initially six pence sterling per pound) to the British purchasers of American indigo.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Later reductions of the rate are commonly reported but were not verified here."
+    },
+    {
+      "id": "woodmason-yield-1755",
+      "label": "Carolina indigo yield per acre (Charles Woodmason's 1755 estimate)",
+      "value": 50,
+      "unit": "lb of dye per acre",
+      "year": 1755,
+      "place": "South Carolina",
+      "source": {
+        "institution": "Charleston County Public Library (Charleston Time Machine)",
+        "title": "Indigo in the Fabric of Early South Carolina (Nic Butler, Ph.D.)",
+        "date": "2019-08-16",
+        "url": "https://www.ccpl.org/charleston-time-machine/indigo-fabric-early-south-carolina",
+        "quote": "He estimated fifty pounds per acre to be an average yield.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      },
+      "note": "Same estimate: 15 hands to grow and 25 skilled hands to process 50 acres, i.e., c. 100 lb of dye per worker."
+    },
+    {
+      "id": "indian-textiles-share-africa-trade",
+      "label": "Indian cotton piece goods as share of British export value to Africa, mid-18th century",
+      "value": 30,
+      "unit": "percent",
+      "year": 1750,
+      "place": "British trade to West Africa",
+      "source": {
+        "institution": "London School of Economics, South Asia@LSE blog",
+        "title": "Kazuo Kobayashi, 'Indian cotton textiles in the eighteenth-century Atlantic economy'",
+        "date": "2013-06-27",
+        "url": "https://blogs.lse.ac.uk/southasia/2013/06/27/indian-cotton-textiles-in-the-eighteenth-century-atlantic-economy/",
+        "quote": "piece goods of Indian cottons were the most important trades in exchange for African slaves, making up 30 per cent of the total export value in the mid-eighteenth century.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "french-indigo-imports-1784-86",
+      "label": "Indigo from French American islands to France, 1784-1786 average",
+      "value": 1550000,
+      "unit": "livres poids per year (98% Saint-Domingue)",
+      "year": 1785,
+      "place": "France",
+      "source": {
+        "institution": "Institut de la gestion publique et du développement économique (IGPDE) / OpenEdition Books",
+        "title": "Marguerite Martin, 'L'administration coloniale face aux bouleversements du commerce : les Mascareignes et la recomposition des équilibres sur le marché mondial de l'indigo', in Les dynamiques économiques de la Révolution française",
+        "date": "2019",
+        "url": "https://books.openedition.org/igpde/12899?lang=en",
+        "quote": "Entre 1784 et 1786, après l'indépendance américaine, 1,55 million de livres poids par an d'indigo sont exportées vers la France en provenance des îles françaises d'Amérique, à 98 % à partir de Saint-Domingue",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    }
+  ],
+  "notes": [
+    "DEVIL'S DYE (1577): The primary text of the Reichspolizeiordnung of 9 Nov 1577 (Frankfurt Reichsdeputationstag, title 21) bans the 'Teuffelsfarb' defined as dyeing with vitriol and other corrosive cheap materials instead of woad; it does NOT mention indigo. Beckmann (18th c.) says the ban was renewed 1594 and 1603, and that indigo was first specifically banned by Saxony in 1650 and by imperial prohibition of 21 April 1654 (proposal by Ernest the Pious of Saxe-Gotha, 1652). Popular claims that 'Germany banned indigo as the devil's dye in 1577' (e.g., erfurt-lese.de) conflate the two. Recommend presenting 1577 as 'vitriol ban later applied to indigo'.",
+    "HENRI IV 1609 DEATH PENALTY: Repeated widely (including a BnF Gallica blog, which gives no date or source) but no primary text or archival citation was found. Beckmann, a careful 18th-century compiler who cites Hellot's 1740 Académie memoir, instead records a French prohibition of indigo in 1598 at the request of the Estates of Languedoc, repeated several times. Treat '1609 death penalty' as UNVERIFIED/probably folklore.",
+    "ENGLAND/ELIZABETH: The 1580/81 statute (23 Eliz. c. 9) and a 1597 bill banned LOGWOOD ('blockwood'), not indigo; Beckmann says the 1581 act is the first mention of indigo in English law, as a permitted ground ('woad, or woad and indigo together') before black dyeing. Andrew Ure's claim (quoted by Beckmann's 1846 editors) that Elizabeth banned indigo and ordered it burned appears to conflate indigo with logwood. Logwood was legalised from 1 Feb 1661 (Dodge 2025).",
+    "COLBERT 1669: Beckmann's English translation says the 1669 edict stated 'indigo should be used without woad', which is almost certainly a translation slip for 'not without woad' (i.e., indigo permitted only in combination). The 1671 Instruction générale standardised 13 blues. The 1737 liberalisation (indigo alone or mixed) is stated by Beckmann; the search-surfaced attribution of 1737 to controller-general Philibert Orry was not verified.",
+    "BOUNTY DATE: The Act is 21 Geo. II c. 30 (session 1747/48; 'Importation of Indigo Act 1747'); CCPL says enacted spring 1748, effective 1749; the South Carolina Encyclopedia says Parliament was persuaded 'in 1749'. HSUS (1975) misprints the citation as '21 Charles II c 30'. The bounty lapsed in 1777 (CCPL; Wikipedia's article on the Making of Indigo, etc. Act 1770 says it was continued to the end of the session after 25 March 1777 — PENDING). Reported reductions of the rate (to 4d) were NOT verified.",
+    "HSUS SERIES CAVEATS: 1775 = 6½ months ending 24 Feb (not a calendar year); 1774 = 11 months; 1773 = year ending 11 Nov; 1747-1751 = years ending 24 March; 1752 = 9½ months. 1766 and 1783-1788 are Charleston only (other ports = 7.8% in 1768-73). 1747 and 1749 both print 138.3. 1768 and 1772 exclude casks listed in footnotes. SCE's 1787 figure (907,258 lb) differs from HSUS 974.1 thousand (Charleston).",
+    "NGE (Georgia) says Carolina exported 'around 200,000 pounds' in 1755 and that the British bounty was offered 'immediately' after Eliza Lucas's 1744 sample; HSUS shows 303,500 lb in 1755 and the bounty dates to 1748-49. Prefer HSUS.",
+    "ELIZA LUCAS: CCPL (Nic Butler) argues her role 'has been greatly exaggerated'; contemporaries Andrew Deveaux, Charles Hill, Thomas Mellichamp and James de la Chappelle, plus enslaved workers, were essential. Present her as a key experimenter, not sole founder.",
+    "INDIGO AS CURRENCY IN CAROLINA: Claims that indigo circulated as money in colonial South Carolina appear only on popular sites (historyfacts.com etc.) with no primary citation; NOT included. Indigo as a documented medium of exchange is included for 17th-century Guatemala (Cabezas, citing notarial records via J. J. Falla).",
+    "WEST AFRICAN EXPERTISE: Direct documentary evidence that enslaved Africans brought indigo know-how to South Carolina is thin; CCPL calls it 'possible'. The West Baton Rouge Museum asserts it for Louisiana (Yoruba, Soninke etc.) without citing sources. Present as plausible, not proven, for Carolina.",
+    "GUATEMALA SERIES: Robert S. Smith (HAHR 1959) and J. A. Fernández Molina (Pintando el mundo de azul, 2003) contain annual Central American series; neither was accessible (403). Only period averages (via Martin 2019 and a search rendering of Díaz Arias & Viales 2016) and scattered years (Floyd 1965; AFEHC/Browning) are provided. AFEHC table labels the 1,333,185-libra harvest as 1792 but its text says 1793.",
+    "BRITISH IMPORTS BY ORIGIN c. 1770-1800 (priority 3): not found in an accessible primary table. Proxies provided: HSUS Z 294 (1770 colonial exports to GB: 584,593 lb), Bengal→England 1786 (266,000 lb) and from 1794 (1.4 million lb). A commonly repeated statement that ~30% of Britain's indigo came from India in 1788 rising to 95% by 1810 was seen only in search-engine summaries and is NOT included. Nash (2010) is the best scholarly source for British import shares (paywalled).",
+    "SAINT-DOMINGUE: The frequently cited counts '~1,000 indigoteries in 1713' and '3,160 in 1790' were seen only in search summaries; Moreau de Saint-Méry's own 1797 text gives 3,150 (c. 1789), used here. Moreau figures come from archive.org OCR (long-s); the key digits are clean. Delamare (2019) states Bordeaux received 1,800 tonnes of indigo in 1771; this looks implausibly high relative to Martin's figures and is NOT used.",
+    "VASCO DA GAMA: No evidence that indigo was in the 1499 return cargo (Beckmann explicitly could not find any invoice). The da Gama event is framed as the opening of the sea route; the BnF blog's statement that Indian indigo imports to Europe began only 'vers 1631' conflicts with Barbosa (1516) and Guicciardini (1560s) as reported by Beckmann.",
+    "BAYANA/SARKHEJ: World History Encyclopedia places both in 'northern India'; Sarkhej is near Ahmedabad (Gujarat, western India), Bayana near Agra. Coordinates used: Bayana 26.9075, 77.2902; Sarkhej 22.9887, 72.5020. EIC annual indigo import quantities (K. N. Chaudhuri 1965/1978) were not accessible.",
+    "TOULOUSE COLLAPSE: Dating the crisis to 1560-62 rests on Caster's 1962 monograph (end date 1561) and local accounts (university student blog; tourism pages) citing poor harvests, fraud, Wars of Religion and indigo competition. No accessible scholarly page was found stating the causes directly; treat causation as PENDING. Persée article texts (Brumont 1994; Cardon 2020 in Annales du Midi) were blocked.",
+    "COORDINATES: Wappoo plantation (32.764, -79.989) is approximate (Wappoo Creek west of Charleston). Saint-Domingue colony-level events use a central point (19.0, -72.3). The 1654 imperial prohibition is placed at Regensburg, where the Diet of 1653-54 sat; the exact place of issue was not verified. The Mouzon map event uses London (place of publication).",
+    "ERAS: per brief, 'searoutes' 1498-1649, 'plantation' 1650-1789, 'bengal' 1790+. Series include a few post-1800 context points (1811 Central America; 1815 Bengal) flagged in point notes.",
+    "LOC: loc.gov item pages returned HTTP 403 (Cloudflare) to both fetch tools; the Mouzon map LOC URL (https://www.loc.gov/item/74692513/) and title were confirmed only via search results, hence PENDING. A second LOC record exists: https://www.loc.gov/item/gm71002153/."
+  ]
+}

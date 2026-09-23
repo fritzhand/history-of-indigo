@@ -64,14 +64,14 @@
   /* Eight eras — named colours, not ramp positions. Clay for the ancient
      finds, woad's yellow flower for the medieval guild economy, sea teal
      for the ocean routes, the violet-bronze sheen of an indigo cake for the
-     plantation era, madder red for Bengal's revolt, chemical steel for the
+     plantation era, madder red for the empire century and Bengal's revolt, chemical steel for the
      synthetic shock, denim for the jeans century and leaf green for the
      return to the plant. */
   --era-origins:    #C9A46E;
   --era-medieval:   #CDBE5E;
   --era-searoutes:  #6CB2BA;
   --era-plantation: #A58BD6;
-  --era-bengal:     #E0645A;
+  --era-empire:     #E0645A;
   --era-synthetic:  #A3AAB9;
   --era-denim:      #7F9BEA;
   --era-revival:    #86C08F;
@@ -143,7 +143,7 @@
   --era-medieval:   #7F6F12;
   --era-searoutes:  #2C7680;
   --era-plantation: #6A4A9E;
-  --era-bengal:     #A61B1B;
+  --era-empire:     #A61B1B;
   --era-synthetic:  #5E6575;
   --era-denim:      #2E4FA8;
   --era-revival:    #3C7A47;
@@ -2247,3 +2247,4 @@ body.nav-open #main-nav { z-index: 970; }
 .pull-quote cite a { color: var(--v4); text-decoration: underline; }
 
 .plants-grid > *, .vat-steps > * { min-width: 0; }
+.pull-quote-orig { display: block; margin-top: 4px; font-style: normal; font-size: .82em; color: var(--text-secondary); letter-spacing: .08em; }

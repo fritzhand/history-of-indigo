@@ -104,6 +104,13 @@ function fmtYear(y, { era = true } = {}) {
   return String(y);
 }
 
+/* Short tick labels: no thousands separator, and year 1 reads "1 CE". */
+function axisYear(y) {
+  if (y < 0) return `${Math.abs(y)} BCE`;
+  if (y < 1000) return `${y} CE`;
+  return String(y);
+}
+
 function eraOfYear(year) {
   let cur = ERAS[0] ? ERAS[0].slug : '';
   for (const e of ERAS) if (year >= e.start) cur = e.slug;
@@ -287,15 +294,25 @@ function renderSourceLine(elId, source, prefix = 'Source: ') {
   el.innerHTML = prefix + sourceHtml(source) + note;
 }
 
-/* Every distinct source behind a series, printed once each. */
+/* Every institution behind a series, printed once. A run of annual volumes
+   from one archive (thirty Government of India statistics scans, say) is one
+   entry with a count, not thirty links; each point's own tooltip still names
+   its exact volume. */
 function seriesSourceLine(elId, rows, prefix = 'Sources: ') {
   const el = document.getElementById(elId);
   if (!el) return;
-  const seen = new Map();
+  const byInst = new Map();
   (rows || []).forEach(r => {
-    [].concat(r.source || []).forEach(s => { if (s && s.url && !seen.has(s.url)) seen.set(s.url, s); });
+    [].concat(r.source || []).forEach(s => {
+      if (!s || !s.url) return;
+      const k = (s.institution || s.url) + '|' + s.verificationStatus;
+      const e = byInst.get(k) || { s, urls: new Set() };
+      e.urls.add(s.url);
+      byInst.set(k, e);
+    });
   });
-  el.innerHTML = seen.size ? prefix + sourceHtml([...seen.values()]) : '';
+  el.innerHTML = byInst.size ? prefix + [...byInst.values()].map(({ s, urls }) =>
+    sourceHtml({ ...s, date: urls.size > 1 ? `${urls.size} documents` : s.date })).join(' · ') : '';
 }
 
 function series(id) {
@@ -893,9 +910,26 @@ function buildSliderTicks() {
     `<span style="left:${(posOfYear(t.year) / POS_MAX * 100).toFixed(2)}%">${esc(t.label)}</span>`).join('');
 }
 
+function buildSliderCards() {
+  const box = document.getElementById('stat-cards');
+  if (!box || box.dataset.built) return;
+  box.dataset.built = '1';
+  ((D().meta && D().meta.sliderCards) || []).forEach(c => {
+    const col = `var(--${/^v\d$/.test(c.color) ? c.color : 'era-' + c.color})`;
+    const el = document.createElement('div');
+    el.className = 'stat-card';
+    el.style.borderLeftColor = col;
+    el.innerHTML = `<div class="stat-card-value" id="${esc(c.id)}" style="color:${col}">—</div>
+      <div class="stat-card-label">${esc(c.label)}</div>
+      <div class="stat-card-asof" id="${esc(c.id)}-asof"></div>`;
+    box.appendChild(el);
+  });
+}
+
 function initSlider() {
   const slider = document.getElementById('era-slider');
   if (!slider) return;
+  buildSliderCards();
   slider.max = POS_MAX;
   const startYear = (D().meta && D().meta.sliderStartYear) || YEAR_MIN;
   slider.value = Math.round(posOfYear(startYear));
@@ -962,16 +996,22 @@ function updateSlider(pos) {
   }
 
   updateSandboxMap(year);
-  if (_spreadMarkerChart) {
-    _spreadMarkerChart.options.plugins.yearLine.pos = pos;
-    _spreadMarkerChart.update('none');
+  for (const ch of [_spreadMarkerChart, _centresChart]) {
+    if (!ch) continue;
+    ch.options.plugins.yearLine.pos = pos;
+    ch.update('none');
+  }
+  for (const ch of _yearLineCharts) {
+    ch.options.plugins.yearLine.pos = year;
+    ch.update('none');
   }
 }
 
 /* ═══════════════════════════════════════════════════════════════
    8. SANKEY ENGINE
 ═══════════════════════════════════════════════════════════════ */
-function drawSankey(svgId, { nodes, links }) {
+function drawSankey(svgId, model) {
+  const { nodes, links } = model;
   const svgEl = document.getElementById(svgId);
   if (!svgEl) return;
 
@@ -1024,7 +1064,7 @@ function drawSankey(svgId, { nodes, links }) {
   svgEl.setAttribute('width', W);
   svgEl.setAttribute('height', H);
 
-  (D().sankeyHeaders || []).slice(0, numCols).forEach((h, c) => {
+  (model.headers || []).slice(0, numCols).forEach((h, c) => {
     const t = document.createElementNS(NS, 'text');
     const x = c === numCols - 1 ? PAD.left + iW : PAD.left + c * colSpan;
     t.setAttribute('x', x);
@@ -1126,7 +1166,8 @@ const yearLinePlugin = {
   afterDatasetsDraw(chart, _args, opts) {
     if (opts == null || opts.pos == null) return;
     const x = chart.scales.x.getPixelForValue(opts.pos);
-    const { top, bottom } = chart.chartArea;
+    const { top, bottom, left, right } = chart.chartArea;
+    if (x < left - 1 || x > right + 1) return;
     const c = chart.ctx;
     c.save();
     c.strokeStyle = opts.color || T.markerActive;
@@ -1145,7 +1186,7 @@ function compressedTimeScale(overrides = {}) {
     afterBuildTicks: axis => { axis.ticks = ticksAt.map(v => ({ value: v })); },
     ...overrides
   });
-  s.ticks = { ...s.ticks, autoSkip: false, maxRotation: 0, callback: v => fmtYear(yearOfPos(v), { era: false }) };
+  s.ticks = { ...s.ticks, autoSkip: false, maxRotation: 60, callback: v => axisYear(yearOfPos(v)) };
   return s;
 }
 
@@ -1196,13 +1237,14 @@ function hashJitter(s) {
 }
 
 /* A generic cited bar or line chart over one or more series. */
-function seriesChart(canvasId, defs, { type = 'bar', yTitle = '', yLog = false, xTitle = 'Year', stacked = false, y1Title = null, sourceEl = null, sourcePrefix = 'Sources: ', yMin = 0 } = {}) {
+function seriesChart(canvasId, defs, { type = 'bar', yTitle = '', yLog = false, xTitle = 'Year', stacked = false, y1Title = null, sourceEl = null, sourcePrefix = 'Sources: ', yMin = 0, legend = null, yearLine = false } = {}) {
   const ctx = document.getElementById(canvasId);
   if (!ctx) return null;
   const sets = defs.map(d => ({ ...d, rows: series(d.series) })).filter(d => d.rows.length);
   if (!sets.length) { hideCard(ctx); return null; }
   const chart = new Chart(ctx, {
     type,
+    plugins: yearLine ? [yearLinePlugin] : [],
     data: {
       datasets: sets.map(d => {
         const col = paint(d.color);
@@ -1229,7 +1271,8 @@ function seriesChart(canvasId, defs, { type = 'bar', yTitle = '', yLog = false, 
       responsive: true, maintainAspectRatio: false,
       interaction: { mode: 'nearest', intersect: false },
       plugins: {
-        legend: { display: sets.length > 1, labels: { color:T.textDim, boxWidth:14, font:{ size:10 } } },
+        legend: { display: legend ?? sets.length > 1, labels: { color:T.textDim, boxWidth:14, font:{ size:10 } } },
+        yearLine: { pos: null, color: T.textDim },
         tooltip: { ...TIP, callbacks: {
           title: items => fmtYear(items[0].raw.x),
           label: c => {
@@ -1255,8 +1298,117 @@ function seriesChart(canvasId, defs, { type = 'bar', yTitle = '', yLog = false, 
 
 /* The chart set is declared in the data layer (D().charts), so a series
    added later appears without touching this file. */
+const _yearLineCharts = [];
 function initSeriesCharts() {
-  (D().charts || []).forEach(c => seriesChart(c.canvas, c.datasets, c.options || {}));
+  _yearLineCharts.length = 0;
+  (D().charts || []).forEach(c => {
+    const ch = seriesChart(c.canvas, c.datasets, c.options || {});
+    if (ch && c.options && c.options.yearLine) _yearLineCharts.push(ch);
+  });
+}
+
+/* Category bars: one cited value per bar, no time axis. */
+function initBarCharts() {
+  (D().barCharts || []).forEach(bc => {
+    const ctx = document.getElementById(bc.canvas);
+    if (!ctx) return;
+    const bars = bc.bars || [];
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: bars.map(b => b.label),
+        datasets: [{
+          data: bars.map(b => b.value),
+          backgroundColor: bars.map(b => hexA(paint(b.color), 0.8)),
+          borderColor: bars.map(b => paint(b.color)),
+          borderWidth: 1, borderRadius: 2, borderSkipped: false
+        }]
+      },
+      options: {
+        indexAxis: bc.horizontal ? 'y' : 'x',
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: { ...TIP, callbacks: {
+            label: c => ` ${fmtNum(c.raw)} ${bc.unit || ''}`,
+            footer: items => pointFooter(bars[items[0].dataIndex])
+          }}
+        },
+        scales: {
+          [bc.horizontal ? 'x' : 'y']: mkScale({ min: 0, title: axisTitle(bc.unit || ''), ticks: { color:T.text, callback: v => fmtNum(v) } }),
+          [bc.horizontal ? 'y' : 'x']: mkScale({ ticks: { color:T.text, font: { size: 10 } }, grid: { display: false } })
+        }
+      }
+    });
+    const el = document.getElementById(bc.sourceEl);
+    if (el) el.innerHTML = (bc.note ? esc(bc.note) + ' ' : '') + 'Source: ' + sourceHtml(bars[0] && bars[0].source);
+  });
+}
+
+/* How firm the evidence is, era by era: every source object attached to a
+   mapped event, counted by verification status. The chart is about this
+   site's citations, and says so. */
+function initEvidenceChart() {
+  const ctx = document.getElementById('chart-evidence');
+  if (!ctx) return;
+  const rows = ERAS.map(e => {
+    const c = { CONFIRMED: 0, PENDING: 0, DERIVED: 0 };
+    (D().mapEvents || []).filter(ev => ev.phase === e.slug)
+      .forEach(ev => [].concat(ev.source || []).forEach(s => { c[s.verificationStatus] = (c[s.verificationStatus] || 0) + 1; }));
+    return { e, c };
+  });
+  const ds = [['CONFIRMED', V.v5], ['PENDING', V.v7], ['DERIVED', V.v2]].map(([k, col]) => ({
+    label: k[0] + k.slice(1).toLowerCase(), data: rows.map(r => r.c[k]),
+    backgroundColor: hexA(col, 0.8), borderColor: col, borderWidth: 1, borderRadius: 2, stack: 's'
+  }));
+  new Chart(ctx, {
+    type: 'bar',
+    data: { labels: rows.map(r => r.e.label), datasets: ds },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { labels: { color:T.textDim, boxWidth:12, font:{ size:10 } } },
+        tooltip: { ...TIP, callbacks: { label: c => ` ${c.dataset.label}: ${c.raw} sources` } }
+      },
+      scales: {
+        x: mkScale({ stacked: true, min: 0, title: axisTitle('Source objects on mapped events') }),
+        y: mkScale({ stacked: true, ticks: { color:T.text, font:{ size:10 } } })
+      }
+    }
+  });
+}
+
+/* Cumulative mapped centres on the compressed axis, for the scrubber. */
+let _centresChart = null;
+function initSandboxCentresChart() {
+  const ctx = document.getElementById('chart-sandbox-centres');
+  if (!ctx) return;
+  const evs = [...(D().mapEvents || [])].sort((a, b) => a.year - b.year);
+  const pts = evs.map((e, i) => ({ x: posOfYear(e.year), y: i + 1, ev: e }));
+  _centresChart = new Chart(ctx, {
+    type: 'line',
+    plugins: [yearLinePlugin],
+    data: { datasets: [{
+      label: 'Mapped centres (cumulative)', data: pts, stepped: true, parsing: false,
+      borderColor: V.v5, backgroundColor: hexA(V.v5, 0.12), fill: true, borderWidth: 2,
+      pointRadius: 2.2, pointBackgroundColor: pts.map(p => PC[p.ev.phase]), pointBorderWidth: 0
+    }] },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        yearLine: { pos: null, color: T.textDim },
+        tooltip: { ...TIP, callbacks: {
+          title: items => items[0].raw.ev.title,
+          label: c => ` ${c.raw.ev.date} · #${c.raw.y}`
+        }}
+      },
+      scales: {
+        x: compressedTimeScale({ title: axisTitle('Compressed time') }),
+        y: mkScale({ min: 0, title: axisTitle('Cumulative events') })
+      }
+    }
+  });
 }
 
 function initEraChart() {
@@ -1537,12 +1689,16 @@ const MOON_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" str
 function buildCharts() {
   initSpreadChart();
   initSeriesCharts();
+  initBarCharts();
   initEraChart();
+  initEvidenceChart();
+  initSandboxCentresChart();
 }
 
 function rebuildCharts() {
   document.querySelectorAll('canvas').forEach(c => { const ch = Chart.getChart(c); if (ch) ch.destroy(); });
   _spreadMarkerChart = null;
+  _centresChart = null;
   buildCharts();
   const slider = document.getElementById('era-slider');
   if (slider) updateSlider(+slider.value);

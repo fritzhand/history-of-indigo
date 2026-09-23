@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<!--
+  Source for assets/og-image.png — the 1200x630 Open Graph share card.
+
+  Regenerate after editing:
+    node tools/render-card.mjs
+  which renders this file at 2x and downsamples to exactly 1200x630, the size
+  index.html declares in og:image:width / og:image:height.
+
+  Keep it self-contained: only the Google Fonts link may be remote, because the
+  renderer has no other network affordance and a missing asset would ship as a
+  hole in every unfurl.
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Indigo — Open Material Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Work+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+  body {
+    background: #F8F7F3; color: #161A26;
+    font-family: 'Work Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-variant-numeric: tabular-nums; font-feature-settings: 'tnum' 1;
+  }
+  /* One tracking scale, in em, instead of nine hand-nudged px values. */
+  .t1 { letter-spacing: .16em } .t2 { letter-spacing: .18em }
+  .t3 { letter-spacing: .20em } .t4 { letter-spacing: .22em }
+
+  .card { width: 1200px; height: 630px; padding: 46px 64px 44px; display: flex; flex-direction: column; }
+  .card > * { flex: 0 0 auto; }
+
+  .masthead { display: flex; align-items: center; justify-content: space-between; }
+  .imprint { display: flex; align-items: center; gap: 13px; }
+  .mark { width: 34px; height: 34px; flex-shrink: 0; display: block; }
+  .imprint-text { display: flex; flex-direction: column; gap: 4px; }
+  .imprint-name { font-size: 15px; font-weight: 600; text-transform: uppercase; line-height: 1; }
+  .imprint-sub  { font-size: 9.5px; font-weight: 500; text-transform: uppercase; color: #9A9488; line-height: 1; }
+  /* One line, large enough to survive a 300px unfurl. */
+  .provenance { font-size: 13px; font-weight: 600; text-transform: uppercase; color: #2B2B2B; line-height: 1; }
+  .provenance b { font-weight: 700; }
+
+  .rules { margin-top: 13px; }
+  .rule-heavy { height: 2px; background: #1A1A1A; }
+  .rule-hair  { height: 1px; background: #E4E1DA; margin-top: 4px; }
+
+  .head { margin-top: 28px; }
+  .kicker { font-size: 12px; font-weight: 600; text-transform: uppercase; color: #2E3F9E; line-height: 1; }
+  /* Optical alignment: the D's stem sits inside its side bearing, so the
+     glyph has to hang left to meet the rule. Same for the italic A below. */
+  h1 {
+    margin-top: 15px; margin-left: -10px;
+    font-family: 'Crimson Pro', Georgia, 'Times New Roman', serif;
+    font-size: 132px; font-weight: 600; line-height: .9;
+    letter-spacing: -.024em; color: #1A1A1A;
+  }
+  .deck {
+    margin-top: 8px; margin-left: 4px;
+    font-family: 'Crimson Pro', Georgia, 'Times New Roman', serif;
+    font-size: 52px; font-weight: 600; font-style: italic;
+    line-height: 1.02; letter-spacing: -.006em; color: #3C3831;
+  }
+
+  .standfirst { margin-top: 18px; max-width: 1010px; font-size: 16px; line-height: 1.55; color: #2B2B2B; }
+
+  .byline {
+    margin-top: 16px; display: flex; align-items: baseline; gap: 12px;
+    font-size: 11.5px; text-transform: uppercase; color: #6B6B6B; line-height: 1;
+  }
+  .byline .name { font-weight: 700; color: #1A1A1A; }
+  .byline .sep { color: #C9C4B8; }
+  .byline .url { color: #2E3F9E; font-weight: 500; text-transform: none; letter-spacing: .06em; }
+
+  .spacer { flex: 1 1 auto !important; min-height: 10px; }
+
+  .foot-rule { height: 1px; background: #E4E1DA; }
+  /* A grid, so the rail survives a label rewrite. */
+  .figures { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-top: 14px; }
+  .fig-item  { min-width: 0; }
+  .fig-num   { font-size: 25px; font-weight: 700; line-height: 1; letter-spacing: -.01em; white-space: nowrap; }
+  /* A fixed two-line box so the four labels share a baseline whatever they say. */
+  .fig-label { margin-top: 5px; min-height: 24px; font-size: 9.4px; font-weight: 500; text-transform: uppercase; color: #6B6B6B; line-height: 1.25; }
+  .fig-origins .fig-num { color: #8C6A33; }
+  .fig-empire  .fig-num { color: #A61B1B; }
+  .fig-synth   .fig-num { color: #5E6575; }
+  .fig-denim   .fig-num { color: #2E4FA8; }
+  /* The dip strip beside the title: the page's thesis in one picture. */
+  .dips { display: flex; gap: 3px; margin: 14px 0 0 2px; }
+  .dips span { width: 46px; height: 12px; }
+  /* A card that boasts of 146 institutions should name a few. */
+  .sources { margin-top: 11px; font-size: 9.4px; font-weight: 500; text-transform: uppercase; color: #9A9488; line-height: 1; }
+
+  /* Endpoints read as a range above the ribbon; the names below are the key. */
+  .era-span { display: flex; justify-content: space-between; align-items: baseline;
+              margin-top: 15px; font-size: 9.4px; font-weight: 600;
+              text-transform: uppercase; color: #6B6B6B; line-height: 1; }
+  .era-span b { color: #1A1A1A; font-weight: 700; }
+  .era-bar { display: flex; height: 8px; width: 100%; margin-top: 7px; }
+  .era-bar span { display: block; height: 100%; }
+  /* Names turn the ribbon from a stripe into a key. */
+  .era-names { display: flex; width: 100%; margin-top: 6px; }
+  .era-names span {
+    font-size: 7.8px; font-weight: 600; text-transform: uppercase;
+    /* The two narrowest eras get ~68px of box, so the names row runs tighter
+       than the rest of the card's tracking scale rather than colliding. */
+    letter-spacing: .10em !important;
+    color: #6B6B6B; line-height: 1; white-space: nowrap;
+    /* Without min-width:0 a flex item will not shrink below its nowrap text,
+       so the narrow eras ran into each other instead of clipping. */
+    min-width: 0; overflow: hidden; text-overflow: clip; padding-right: 7px;
+  }
+  .era-names span:last-child { padding-right: 0; text-align: right; }
+</style>
+</head>
+<body>
+  <div class="card">
+
+    <header class="masthead">
+      <div class="imprint">
+        <!-- Site mark: a cloth dipped five times, each band a shade deeper,
+             and the leaf the blue came from. -->
+        <svg class="mark" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="11" y="4"    width="17" height="4.8" rx=".8" fill="#D9E2F5"/>
+          <rect x="11" y="9.2"  width="17" height="4.8" rx=".8" fill="#A9BCE8"/>
+          <rect x="11" y="14.4" width="17" height="4.8" rx=".8" fill="#7390D6"/>
+          <rect x="11" y="19.6" width="17" height="4.8" rx=".8" fill="#4760B0"/>
+          <rect x="11" y="24.8" width="17" height="3.4" rx=".8" fill="#2C3F86"/>
+          <path d="M3.2 25.5 C 2.6 17, 6.6 11.2, 13.4 9.2 C 13.6 16.8, 9.8 23.4, 3.2 25.5 Z" fill="#3C7A47"/>
+          <path d="M3.8 24.6 C 6.6 19.6, 9.2 15.4, 12.6 10.4" stroke="#F8F7F3" stroke-width=".8" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div class="imprint-text">
+          <div class="imprint-name t3">Open Material Archive</div>
+          <div class="imprint-sub t2">Indigo &middot; c. 4000 BCE &ndash; today</div>
+        </div>
+      </div>
+      <div class="provenance t2"><b>757</b> Cited Sources</div>
+    </header>
+
+    <div class="rules">
+      <div class="rule-heavy"></div>
+      <div class="rule-hair"></div>
+    </div>
+
+    <div class="head">
+      <div class="kicker t4">Six Thousand Years &nbsp;&middot;&nbsp; Huaca Prieta to the Denim Mill</div>
+      <h1>Indigo</h1>
+      <div class="deck">A Global Commodity Autopsy</div>
+      <div class="dips"><span style="background:#D9E2F5"></span><span style="background:#A9BCE8"></span><span style="background:#7390D6"></span><span style="background:#4760B0"></span><span style="background:#2C3F86"></span><span style="background:#18234F"></span></div>
+    </div>
+
+    <p class="standfirst">
+      One molecule from half a dozen unrelated plants &mdash; through temples, guilds, sea routes, slave plantations,
+      a peasant revolt and a German laboratory to every pair of jeans &mdash; told with cited open data and archival imagery.
+    </p>
+
+    <div class="byline t2">
+      <span class="name">By Jeremy Fritzhand</span>
+      <span class="sep">&mdash;</span>
+      <span class="url">fritzhand.github.io/history-of-indigo</span>
+    </div>
+
+    <div class="spacer"></div>
+
+    <div class="foot-rule"></div>
+
+    <div class="figures">
+      <div class="fig-item fig-origins">
+        <div class="fig-num">&asymp;6,000 yrs</div>
+        <div class="fig-label t1">Oldest indigo-dyed cloth<br />Huaca Prieta, Peru</div>
+      </div>
+      <div class="fig-item fig-empire">
+        <div class="fig-num">1.7M acres</div>
+        <div class="fig-label t1">Under indigo in British India<br />1894&ndash;95 peak</div>
+      </div>
+      <div class="fig-item fig-synth">
+        <div class="fig-num">10 July 1897</div>
+        <div class="fig-label t1">BASF synthetic indigo<br />goes on sale</div>
+      </div>
+      <div class="fig-item fig-denim">
+        <div class="fig-num">3,781 L</div>
+        <div class="fig-label t1">Water per pair of 501s<br />Levi&rsquo;s life-cycle study, 2015</div>
+      </div>
+    </div>
+
+    <div class="sources t1">
+      Science Advances &middot; Historical Statistics of the U.S. &middot; Government of India statistics &middot; Indigo Commission, 1860 &middot; BASF &middot; UNESCO
+    </div>
+
+    <div class="era-span t1"><span><b>c. 4200 BCE</b> Huaca Prieta</span><span>compressed time &middot; bio-indigo <b>2018</b></span></div>
+
+    <!-- Segments are each era's share of the site's compressed time axis
+         (meta.timeKnots), not of elapsed years. -->
+    <div class="era-bar">
+      <span style="flex:250;background:#8C6A33"></span>
+      <span style="flex:200;background:#7F6F12"></span>
+      <span style="flex:157;background:#2C7680"></span>
+      <span style="flex:147;background:#6A4A9E"></span>
+      <span style="flex:112;background:#A61B1B"></span>
+      <span style="flex:51;background:#5E6575"></span>
+      <span style="flex:57;background:#2E4FA8"></span>
+      <span style="flex:26;background:#3C7A47"></span>
+    </div>
+    <div class="era-names t1">
+      <span style="flex:250">Ancient</span>
+      <span style="flex:200">Medieval</span>
+      <span style="flex:157">Sea Routes</span>
+      <span style="flex:147">Plantation</span>
+      <span style="flex:112">Empire</span>
+      <span style="flex:51">Synth.</span>
+      <span style="flex:57">Denim</span>
+      <span style="flex:26">Rev.</span>
+    </div>
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,1667 @@
+{
+  "events": [
+    {
+      "id": "huaca-prieta-indigo-cotton",
+      "displayDate": "c. 4200 BCE (about 6,200-6,000 years ago)",
+      "year": -4200,
+      "era": "origins",
+      "title": "World's oldest known indigo-dyed cloth",
+      "place": "Huaca Prieta, Chicama Valley, north coast of Peru",
+      "lat": -7.924,
+      "lng": -79.307,
+      "summary": "Cotton fabrics from the Preceramic mound of Huaca Prieta kept traces of a blue pigment that high-performance liquid chromatography identified as indigotin. The oldest indigo-bearing specimen comes from a layer bracketed by radiocarbon-dated strata, and the authors put it at about 6,200 to 6,000 years old. They attribute the dye most likely to Indigofera species native to South America (Splitstoser, Dillehay, Wouters and Claro, Science Advances, 2016).",
+      "significance": "Shows indigo dyeing was invented in the Americas roughly 1,500 years before the earliest reported Old World evidence.",
+      "sources": [
+        {
+          "institution": "Science Advances (AAAS), via PubMed Central",
+          "title": "Early pre-Hispanic use of indigo blue in Peru (Splitstoser, Dillehay, Wouters, Claro)",
+          "date": "2016-09-14",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5023320/",
+          "quote": "Because of unusual circumstances of preservation, 6000-year-old cotton fabrics from the Preceramic site of Huaca Prieta on the north coast of Peru retained traces of a blue pigment that was analyzed and positively identified as an indigoid dye (indigotin), making it the earliest known use of indigo in the world, derived most likely from Indigofera spp. native to South America.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "National Geographic",
+          "title": "The Super-Ancient Origins of Your Blue Jeans (Kristin Romey)",
+          "date": "2016-09-14",
+          "url": "https://www.nationalgeographic.com/history/article/peru-indigo-cotton-discovery-textiles-archaeology-jeans-huaca",
+          "quote": "ranged in age from 6,200 to around 1,500 years old",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Huaca Prieta (coordinates)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Huaca_Prieta",
+          "quote": "7°55′26″S 79°18′25″W",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "egypt-fifth-dynasty-blue-linen",
+      "displayDate": "c. 2400 BCE",
+      "year": -2400,
+      "era": "origins",
+      "title": "Egypt's earliest indigo-dyed linen",
+      "place": "Egypt, Old Kingdom (Fifth Dynasty); findspot not named in the sources",
+      "lat": 29.8713,
+      "lng": 31.2165,
+      "summary": "Until 2016 the oldest known indigo-dyed textiles were Egyptian linens of the Fifth Dynasty, dated to about 2400 BCE (c. 4,400 years before present). The sources consulted do not name the findspot or say whether the blue came from woad or an Indigofera species. The PROTA plant database notes that both were available to ancient Egyptians.",
+      "significance": "The earliest reported use of indigo blue in the Old World.",
+      "sources": [
+        {
+          "institution": "Science Advances (AAAS), via PubMed",
+          "title": "Early pre-Hispanic use of indigo blue in Peru",
+          "date": "2016-09-14",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27652337/",
+          "quote": "This predates by ~1500 years the earliest reported use of indigo in the Old World, from Fifth Dynasty Egypt [ca. 4400 BP (before present)].",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "National Geographic",
+          "title": "The Super-Ancient Origins of Your Blue Jeans",
+          "date": "2016-09-14",
+          "url": "https://www.nationalgeographic.com/history/article/peru-indigo-cotton-discovery-textiles-archaeology-jeans-huaca",
+          "quote": "Until this discovery, the earliest-known indigo-dyed textiles were from Egypt's Fifth Dynasty and dated to approximately 2400 B.C.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Indigofera tinctoria L. (Takawira-Nyenya & Cardon)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Indigofera_tinctoria_(PROTA)",
+          "quote": "The blue dye used for textiles of Egyptian mummies may, in some cases, come from an Indigofera species but woad ( Isatis tinctoria L.) is another indigo-blue producing plant known to ancient Egyptians.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "beycesultan-woad-nalbinding",
+      "displayDate": "c. 1915-1745 BCE",
+      "year": -1830,
+      "era": "origins",
+      "title": "Anatolia's oldest blue-dyed textile",
+      "place": "Beycesultan Höyük, Çivril Plain, Denizli Province, Türkiye",
+      "lat": 38.25,
+      "lng": 29.7,
+      "summary": "A Middle Bronze Age fragment from Beycesultan, dated to about 1915-1745 BCE, is a hemp fabric made by nålbinding (single-needle looping) and dyed with indigo from woad, according to a Koç University team. The results were published in Antiquity (DOI 10.15184/aqy.2024.194). A second hemp fragment of c. 1700-1595 BCE is a plain tabby weave.",
+      "significance": "Places woad-indigo dyeing in Anatolia in the early second millennium BCE, close to the plant's presumed south-west Asian homeland.",
+      "sources": [
+        {
+          "institution": "Koç University press release via EurekAlert! (AAAS)",
+          "title": "Earliest evidence of indigo-dyed textiles and single-needle knitting discovered in Bronze Age Anatolia",
+          "date": "2026-02-18",
+          "url": "https://www.eurekalert.org/news-releases/1117025",
+          "quote": "Even more remarkable, the hemp fabric was dyed with indigo from the woad plant, making it the oldest blue-dyed textile discovered in Bronze Age Anatolia.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Beycesultan (coordinates)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Beycesultan",
+          "quote": "38°15′00″N 29°42′00″E",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "tutankhamun-indigo-linen",
+      "displayDate": "c. 1323 BCE (burial)",
+      "year": -1323,
+      "era": "origins",
+      "title": "Indigo and madder on Tutankhamun's linen",
+      "place": "Tomb of Tutankhamun (KV62), Valley of the Kings, Luxor, Egypt",
+      "lat": 25.740389,
+      "lng": 32.601417,
+      "summary": "A 2023 study of a linen fragment from Tutankhamun's tomb, now at the Grand Egyptian Museum's conservation centre, combined gel micro-extraction with reflectance and surface-enhanced Raman spectroscopy. It identified both indigo and madder. The method detects the indigotin molecule, not the plant it came from, so the fragment cannot say whether woad or an Indigofera species was used.",
+      "significance": "Confirms indigo blue in the textiles of a New Kingdom royal burial.",
+      "sources": [
+        {
+          "institution": "Gels (MDPI), via PubMed Central",
+          "title": "Applying Gel-Supported Liquid Extraction to Tutankhamun's Textiles for the Identification of Ancient Colorants: A Case Study (Peruzzi et al.)",
+          "date": "2023-06-25",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10379361/",
+          "quote": "The combination of information deriving from FORS and SERS spectra resulted in the successful identification of both indigo and madder and, in hypothesis, of their degradation products.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "KV62 (reign dates and coordinates)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/KV62",
+          "quote": "reigned c. 1332–1323 BC",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "hallstatt-woad-textiles",
+      "displayDate": "Bronze and Iron Ages (textiles up to c. 3,500 years old)",
+      "year": -1000,
+      "era": "origins",
+      "title": "Woad blues from the Hallstatt salt mines",
+      "place": "Hallstatt salt mine, Upper Austria",
+      "lat": 47.561,
+      "lng": 13.642,
+      "summary": "Around 700 prehistoric fabric fragments, mostly wool, survive in the Hallstatt salt mines. Many are striped or checked in blue and other colours. Chromatographic analysis found indigotin, and the Natural History Museum Vienna says woad was the blue dye used in Bronze Age and Hallstatt-period Europe, sometimes applied to cloth after weaving. A 2015 study reported indigotin in 33% of the Bronze Age textiles and 58% of the Iron Age textiles analysed, while cautioning that analysis identifies the dye, not the plant.",
+      "significance": "Vat-dyeing with woad was established in central Europe by the Bronze Age, long before the medieval woad industry.",
+      "sources": [
+        {
+          "institution": "Naturhistorisches Museum Wien (Natural History Museum Vienna)",
+          "title": "Hallstatt textiles: Colors and dyeing",
+          "date": "2026",
+          "url": "https://www.nhm.at/hallstatt/en/textiles/quality_of_textiles/colors_and_dyeing",
+          "quote": "During the Bronze Age and Hallstatt Period in Europe woad would have been used.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Naturhistorisches Museum Wien (Natural History Museum Vienna)",
+          "title": "Textile research",
+          "date": "2026",
+          "url": "https://www.nhm.at/en/research/prehistory/research/textile_research",
+          "quote": "Around 700 fragments of fabric have been found in the salt mines, most of which are made of wool.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Journal of Archaeological Science: Reports (Elsevier)",
+          "title": "Searching for blue: Experiments with woad fermentation vats and an explanation of the colours through dye analysis (Hartl, Proaño Gaibor, van Bommel, Hofmann-de Keijzer)",
+          "date": "2015-06",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2352409X14000273",
+          "quote": "In 33% of the Bronze Age textiles and 58% of the Iron Age textiles analysed, indigotin, indirubin and isatin were detected by HPLC-PDA",
+          "verificationStatus": "PENDING",
+          "accessType": "PAYWALL"
+        }
+      ]
+    },
+    {
+      "id": "babylonian-dye-recipe-tablet",
+      "displayDate": "7th century BCE",
+      "year": -650,
+      "era": "origins",
+      "title": "Cuneiform recipes for blue wool",
+      "place": "Babylonia (southern Mesopotamia); tablet now in the British Museum",
+      "lat": 32.5363,
+      "lng": 44.4209,
+      "summary": "A Late Babylonian cuneiform tablet of the seventh century BCE in the British Museum (two joined fragments, BM 62788+82978; registration 1882,0918.2757) records recipes for dyeing wool. Its formulas start with pale- or dark-blue wool (uqnâtu) produced by repeated immersion in a dye bath, then over-dye it with madder to imitate the prestige colours takiltu (blue-purple) and argamannu (red-purple). The tablet does not name the blue dye plant; the chemist Zvi Koren suggests woad. One fragment was published by Erle Leichty in 1979.",
+      "significance": "One of the oldest surviving written dye recipes, showing blue vat-dyed wool made locally in Mesopotamia as a cheaper substitute for imported luxury colours.",
+      "sources": [
+        {
+          "institution": "Tradition (Rabbinical Council of America)",
+          "title": "Tekhelet: Setting the Ancient Record Straight (Zvi C. Koren), Tradition 54:1",
+          "date": "2022",
+          "url": "https://traditiononline.org/wp-content/uploads/2022/01/54.1-Koren.pdf",
+          "quote": "The British Museum has a unique seventh century BCE Late Babylonian tablet with cuneiform text containing various dyeing recipes.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "British Museum",
+          "title": "tablet, museum number 1882,0918.2757 (collection online)",
+          "date": "2026",
+          "url": "https://www.britishmuseum.org/collection/object/W_1882-0918-2757",
+          "quote": "recipes are given to produce blue and purple wool, cheap versions of foreign imports",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "xunzi-blue-from-indigo",
+      "displayDate": "3rd century BCE",
+      "year": -250,
+      "era": "origins",
+      "title": "Xunzi: 'Blue comes from indigo'",
+      "place": "Warring States China (Xunzi died at Lanling, state of Chu, in present-day Shandong)",
+      "lat": 34.86,
+      "lng": 118.07,
+      "summary": "The Confucian philosopher Xunzi (c. 300-c. 230 BCE) opens his essay 'Encouraging Learning' (Quan xue) with the line 青，取之於藍而青於藍: blue is taken from the indigo plant (lan) yet is bluer than the plant. The image assumes readers knew that a deeper blue could be extracted from indigo leaves.",
+      "significance": "One of the earliest securely datable Chinese references to indigo dye; the line became a proverb for a pupil surpassing the teacher.",
+      "sources": [
+        {
+          "institution": "Wikisource (Chinese)",
+          "title": "荀子 / 勸學篇 (Xunzi, Encouraging Learning)",
+          "date": "c. 250 BCE",
+          "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
+          "quote": "靑，取之於藍而靑於藍",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Encyclopaedia Britannica",
+          "title": "Xunzi",
+          "date": "2026",
+          "url": "https://www.britannica.com/biography/Xunzi",
+          "quote": "born c. 300, Zhao kingdom, China—died c. 230 bce, Lanling, Chu kingdom, China",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "caesar-britons-vitrum",
+      "displayDate": "54 BCE",
+      "year": -54,
+      "era": "origins",
+      "title": "Caesar: Britons stain themselves blue",
+      "place": "Britain (Cantium, modern Kent, England)",
+      "lat": 51.2802,
+      "lng": 1.0789,
+      "summary": "Describing Britain at the time of his second expedition (54 BCE), Julius Caesar wrote in the Gallic War (5.14): 'Omnes vero se Britanni vitro inficiunt, quod caeruleum efficit colorem' (all the Britons stain themselves with vitrum, which produces a blue colour). Vitrum has traditionally been translated as woad, but it usually means glass. Scholars still debate whether a plant dye or a copper- or iron-based pigment was meant, and analyses of the Lindow bog bodies have not settled the question.",
+      "significance": "The most-cited classical text linking woad to Europe, though its meaning is contested.",
+      "sources": [
+        {
+          "institution": "The Latin Library",
+          "title": "Caesar, Commentarii de Bello Gallico, Book 5",
+          "date": "c. 50 BCE",
+          "url": "https://www.thelatinlibrary.com/caesar/gall5.shtml",
+          "quote": "Omnes vero se Britanni vitro inficiunt, quod caeruleum efficit colorem, atque hoc horridiores sunt in pugna aspectu",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Encyclopaedia Britannica",
+          "title": "Cassivellaunus",
+          "date": "2026",
+          "url": "https://www.britannica.com/biography/Cassivellaunus",
+          "quote": "Cassivellaunus (flourished 1st century bc) was a powerful British chieftain who was defeated by Julius Caesar during his second raiding expedition into Britain (54 bc).",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Studia Historica. Historia Antigua (Ediciones Universidad de Salamanca)",
+          "title": "Britons in Blue: A Contextual Analysis of Corporeal Painting in Great Britain, from the Iron Age to the Early Middle Ages (Daniela Dantas)",
+          "date": "2023-11-27",
+          "url": "https://revistas.usal.es/uno/index.php/0213-2052/article/download/31320/29338/118535",
+          "quote": "When body painting amid the Britons is considered, two chief materials are suggested: woad ( I. Tinctoria ) and copper-based pigments.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "periplus-barbarikon-indigo",
+      "displayDate": "mid-1st century CE",
+      "year": 50,
+      "era": "origins",
+      "title": "Indigo shipped from the Indus delta",
+      "place": "Barbarikon, Indus delta, near modern Karachi, Pakistan (exact site uncertain)",
+      "lat": 24.75,
+      "lng": 67.52,
+      "summary": "The Periplus of the Erythraean Sea, a Greek merchant's guide to Red Sea and Indian Ocean ports written in the mid-first century CE, lists indigo among the exports of Barbarikon at the mouth of the Indus (section 39). It appears alongside costus, bdellium, nard, turquoise, lapis lazuli, cotton cloth and silk yarn.",
+      "significance": "Documents indigo as an Indian export commodity in Roman-era Indian Ocean trade.",
+      "sources": [
+        {
+          "institution": "Wikisource",
+          "title": "The Periplus of the Erythraean Sea (trans. W. H. Schoff, 1912), section 39",
+          "date": "1912",
+          "url": "https://en.wikisource.org/wiki/The_Periplus_of_the_Erythraean_Sea",
+          "quote": "On the other hand there are exported costus, bdellium, lycium, nard, turquoise, lapis lazuli, Seric skins, cotton cloth, silk yarn, and indigo.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Ashmolean Museum, University of Oxford (Yousef Jameel Centre, Eastern Art Online)",
+          "title": "Indian Ocean textile trade: India to Egypt",
+          "date": "1997",
+          "url": "https://jameelcentre.ashmolean.org/collection/7/10236/10333",
+          "quote": "The Periplus was certainly written in the middle of the first century CE.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "pliny-indicum-price",
+      "displayDate": "77 CE",
+      "year": 77,
+      "era": "origins",
+      "title": "Pliny prices Indian indigo at 20 denarii a pound",
+      "place": "Rome, Italy",
+      "lat": 41.8925,
+      "lng": 12.4853,
+      "summary": "In his Natural History (completed 77 CE), Pliny the Elder calls indicum 'a production of India' that looks black as a powder but gives a mix of purple and blue in water. He warns that it was adulterated, including with chalk coloured with woad, and states: 'The price of indicum is twenty denarii per pound.' About a century earlier, Vitruvius (writing after 27 BCE) had noted that painters short of indigo dyed chalk with woad to imitate it.",
+      "significance": "One of the earliest recorded prices for indigo, showing it reached Rome as a costly imported pigment with woad as the cheap local substitute.",
+      "sources": [
+        {
+          "institution": "Perseus Digital Library, Tufts University",
+          "title": "Pliny the Elder, Natural History 35.27 (Bostock & Riley trans., 1855; = 35.46 in Loeb numbering)",
+          "date": "1855",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=35:chapter=27",
+          "quote": "The price of indicum is twenty denarii per pound.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Encyclopaedia Britannica",
+          "title": "Pliny the Elder",
+          "date": "2026",
+          "url": "https://www.britannica.com/biography/Pliny-the-Elder",
+          "quote": "The Natural History, divided into 37 libri, or 'books,' was completed, except for finishing touches, in 77 ce.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Project Gutenberg",
+          "title": "Vitruvius, The Ten Books on Architecture 7.14.2 (trans. M. H. Morgan, 1914)",
+          "date": "1914",
+          "url": "https://www.gutenberg.org/files/20239/20239-h/20239-h.htm",
+          "quote": "Again, for want of indigo, they dye Selinusian or anularian chalk with woad, which the Greeks call ἱσἁτις, and make an imitation of indigo.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Encyclopaedia Britannica",
+          "title": "Vitruvius",
+          "date": "2026",
+          "url": "https://www.britannica.com/biography/Vitruvius",
+          "quote": "it is likely that the first Augustus is meant and that the treatise was conceived after 27 bc",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "maya-blue-calakmul",
+      "displayDate": "Late Preclassic period (roughly the last centuries BCE)",
+      "year": -100,
+      "era": "origins",
+      "title": "Earliest Maya Blue, at Calakmul",
+      "place": "Calakmul, Campeche, Mexico",
+      "lat": 18.1053917,
+      "lng": -89.8108278,
+      "summary": "Maya Blue is a durable pigment made by binding indigo to the clay mineral palygorskite. Physicochemical analysis identified it on a painted frieze of Late Preclassic date at Calakmul, the earliest known occurrence (Vázquez de Ágredos Pascual, Doménech-Carbó and Doménech-Carbó, Journal of Cultural Heritage, 2011). The year given here is a representative midpoint of the period, not a date for the frieze.",
+      "significance": "Shows Mesoamerican indigo had become the basis of an advanced pigment technology by the end of the first millennium BCE.",
+      "sources": [
+        {
+          "institution": "Open Access Journal of Archaeology & Anthropology (Iris Publishers)",
+          "title": "The Clays of the Yucatan Peninsula as A Key-Material in the Archaeometric Studies of the Mayan Blue Pigment (Guasch Ferré et al.)",
+          "date": "2023-07-18",
+          "url": "https://irispublishers.com/oajaa/fulltext/the-clays-of-the-yucatan-peninsula-as-a-key-material.ID.000594.php",
+          "quote": "Maya blue colour technology dates back to the Late Preclassic in the Maya area, as demonstrated by its physicochemical identification on the frieze of Substructure I at Calakmul [16].",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Journal of Cultural Heritage (Elsevier), via Academia.edu",
+          "title": "Characterization of Maya Blue pigment in pre-classic and classic monumental architecture of the ancient pre-Columbian city of Calakmul (Campeche, Mexico) (Vázquez de Ágredos Pascual et al.)",
+          "date": "2011-04",
+          "url": "https://www.academia.edu/32214858/Characterization_of_Maya_Blue_pigment_in_pre_classic_and_classic_monumental_architecture_of_the_ancient_pre_Columbian_city_of_Calakmul_Campeche_Mexico",
+          "quote": "late pre-classic architecture (c.300BC–300AD) at Calakmul",
+          "verificationStatus": "PENDING",
+          "accessType": "REGISTRATION"
+        }
+      ]
+    },
+    {
+      "id": "diocletian-price-edict-indigo",
+      "displayDate": "301 CE",
+      "year": 301,
+      "era": "origins",
+      "title": "Diocletian's price edict caps indigo at 750 denarii a pound",
+      "place": "Roman Empire (copies survive from the eastern provinces); Diocletian's capital Nicomedia shown",
+      "lat": 40.7654,
+      "lng": 29.9408,
+      "summary": "Diocletian's Edict on Maximum Prices, issued between 20 November and 10 December 301 CE to check inflation, allows at most 750 denarii for a pound of an item translated as 'Indigo (?)' in its section on drugs, paints and dyes. That is close to the 800 denarii allowed for a pound of pepper. The edict also caps a hide dyed indigo at 400 denarii. The translator marks the identification of the indigo entry as uncertain.",
+      "significance": "A rare fixed price point showing indigo as a high-value import in late Roman markets.",
+      "sources": [
+        {
+          "institution": "Antony Kropff (thirdcentury.nl), hosted by the University of Bergen",
+          "title": "An English translation of the Edict on Maximum Prices, also known as the Price Edict of Diocletian (v2.1), chapter XXXVI and VIII.5",
+          "date": "2016-04-27",
+          "url": "https://kark.uib.no/antikk/dias/priceedict.pdf",
+          "quote": "Indigo (?) 1 lb 750",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "qimin-yaoshu-indigo-paste",
+      "displayDate": "c. 544 CE",
+      "year": 544,
+      "era": "medieval",
+      "title": "China's step-by-step recipe for indigo paste",
+      "place": "Northern China (Eastern Wei); author Jia Sixie was from Shouguang, Shandong",
+      "lat": 36.88,
+      "lng": 118.74,
+      "summary": "Chapter 53, 'Growing indigo', of Jia Sixie's farming manual Qimin yaoshu (completed around 544 CE) gives a full method. In the seventh month the cut plants are steeped under water in a lined pit, then the liquor is moved to jars. Lime is added at 1 dou 5 sheng per 10-shi jar and the mixture is beaten, and the settled sediment is kept as indigo paste (lan dian). The text adds that ten mu of indigo are worth a qing (100 mu) of grain land, and that growers who dye cloth themselves double their profit again.",
+      "significance": "An early and detailed account of the lime-precipitation method of making indigo, with an explicit statement that indigo was far more lucrative per unit of land than grain.",
+      "sources": [
+        {
+          "institution": "Wikisource (Chinese)",
+          "title": "齊民要術 / 卷第五, 種藍第五十三 (Qimin yaoshu, vol. 5, ch. 53)",
+          "date": "c. 544",
+          "url": "https://zh.wikisource.org/zh-hant/%E9%BD%8A%E6%B0%91%E8%A6%81%E8%A1%93/%E5%8D%B7%E7%AC%AC%E4%BA%94",
+          "quote": "種藍十畝，敵穀田一頃。能自染青者，其利又倍矣。",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Qimin Yaoshu (date of completion)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Qimin_Yaoshu",
+          "quote": "The book is believed to have been completed in the second year of Wu Ding of Eastern Wei, 544 CE, while another account gives the completion between 533 and 544 CE.",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "shosoin-knotweed-indigo",
+      "displayDate": "8th century (textiles linked to 752 CE)",
+      "year": 752,
+      "era": "medieval",
+      "title": "Knotweed indigo in the Shōsōin treasures",
+      "place": "Shōsōin repository, Tōdai-ji, Nara, Japan",
+      "lat": 34.69194,
+      "lng": 135.83861,
+      "summary": "Non-destructive spectroscopy of 8th-century textiles in the Shōsōin, including a sleeveless coat used in a Buddhist ceremony in 752 CE, distinguished five dyes. Among them was 'ai blue (knotweed)', indigo from the Japanese indigo plant. Most of the repository's contents were dedicated to the Great Buddha of Tōdai-ji by Empress Kōmyō in 756.",
+      "significance": "Scientific confirmation that knotweed indigo (Persicaria tinctoria), not Indigofera, was used in Nara-period Japan.",
+      "sources": [
+        {
+          "institution": "Analytical Chemistry (ACS), via PubMed; Office of the Shosoin Treasure House",
+          "title": "Dye analysis of Shosoin textiles using excitation-emission matrix fluorescence and ultraviolet-visible reflectance spectroscopic techniques (Nakamura, Tanaka, Ogata, Naruse)",
+          "date": "2009-07-15",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19507884/",
+          "quote": "UV-vis spectrometry also distinguished kariyasu yellow, ai blue (knotweed), akane red, and shikon purple (murasaki); the characteristic peaks of these dyes were detected by a second derivatization.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Shōsōin",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Shōsōin",
+          "quote": "Empress Kōmyō dedicated over 600 items to the Great Buddha at Tōdai-ji to express her love for her lost husband, Emperor Shōmu, who had died 49 days earlier.",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "capitulare-de-villis-woad",
+      "displayDate": "c. 800 CE",
+      "year": 800,
+      "era": "medieval",
+      "title": "Charlemagne's estates must supply woad",
+      "place": "Carolingian royal estates (court at Aachen, Germany)",
+      "lat": 50.7747,
+      "lng": 6.0839,
+      "summary": "The Capitulare de villis, Charlemagne's ordinance on running the royal estates, orders stewards to deliver materials for the women's textile workshops. Chapter 43 lists 'linen, wool, woad, vermilion, madder', along with wool combs, teasels and soap. A local-history source dates the text to 795; the Fordham translation gives only the 9th century.",
+      "significance": "Shows woad was a routine, managed input of estate textile production in Carolingian Europe.",
+      "sources": [
+        {
+          "institution": "Fordham University, Internet Medieval Sourcebook",
+          "title": "Capitulary De Villis (trans. J. H. Robinson)",
+          "date": "c. 800",
+          "url": "https://sourcebooks.fordham.edu/source/carol-devillis.asp",
+          "quote": "For our women's work they are to give at the proper time, as has been ordered, the materials-that is, the linen, wool, woad, vermilion, madder, wool combs, teasers, soap, grease, vessels, and the other objects which are necessary.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Erfurt-Lese (local history)",
+          "title": "Waidanbau und -verarbeitung in und um Erfurt",
+          "date": "2026",
+          "url": "https://www.erfurt-lese.de/streifzuege/geschichtliches/waidanbau-und-verarbeitung-in-und-um-erfurt/",
+          "quote": "Bereits im Jahr 795 wird in der Landgüterordnung Karls des Großen Waid in Verbindung mit Flachs und Wolle genannt",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "oseberg-woad-seeds",
+      "displayDate": "834 CE",
+      "year": 834,
+      "era": "medieval",
+      "title": "Woad seeds in the Oseberg ship burial",
+      "place": "Oseberg mound, Slagen, near Tønsberg, Norway",
+      "lat": 59.3097,
+      "lng": 10.4531,
+      "summary": "The Oseberg ship burial, dated by tree rings to 834, contained a box of woad seeds among its grave goods. The Norwegian national encyclopedia takes this as evidence that woad was grown in Viking-age Norway. The grave also held woollen textiles, imported silks and pictorial tapestries.",
+      "significance": "Evidence that woad cultivation, and blue dyeing with it, had spread to Scandinavia by the Viking Age.",
+      "sources": [
+        {
+          "institution": "Store norske leksikon",
+          "title": "vaid",
+          "date": "2026-08-13",
+          "url": "https://snl.no/vaid",
+          "quote": "I Osebergskipet ble det funnet en eske med vaidfrø, så planten må ha vært dyrket i Norge i vikingtiden.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Oseberg ship (burial date)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Oseberg_ship",
+          "quote": "Dendrochronological analysis of timbers in the grave chamber dates the burial to the autumn of 834.",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Encyclopaedia Britannica",
+          "title": "Oseberg ship",
+          "date": "2026",
+          "url": "https://www.britannica.com/topic/Oseberg-ship",
+          "quote": "The textiles include imported silks, woolen fabrics, embroideries, and ornamental tapestries depicting animals, people, trees, houses, carts, and geometric patterns.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "york-coppergate-dyers",
+      "displayDate": "9th-10th centuries CE",
+      "year": 925,
+      "era": "medieval",
+      "title": "Viking-age dyers at York's Coppergate",
+      "place": "16-22 Coppergate, York, England",
+      "lat": 53.9575,
+      "lng": -1.0806,
+      "summary": "Excavations at 16-22 Coppergate recovered 1,147 textile-production artefacts together with raw fibres and dyestuffs. Dyeing is well represented in the 9th-10th centuries and fades from the site during the 11th. Plant remains from the site include woad (Isatis tinctoria): an archaeobotanical report on mid-to-late 11th-century deposits says woad pod fragments 'may indicate continued dyeing activity'.",
+      "significance": "Shows woad dyeing as an urban craft in Anglo-Scandinavian England.",
+      "sources": [
+        {
+          "institution": "York Archaeological Trust",
+          "title": "Textile Production at 16-22 Coppergate (Penelope Walton Rogers), The Archaeology of York 17/11",
+          "date": "1997",
+          "url": "https://www.collections.yorkarchaeologicaltrust.co.uk/s/collections/item/74500",
+          "quote": "Dyeing is well represented in the 9th–l0th centuries, but seems to disappear from the site during the course of the 11th century.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Environmental Archaeology Unit, University of York",
+          "title": "Plant and invertebrate remains from Anglo-Scandinavian deposits at 16-22 Coppergate, York: Technical Report Part 5 (EAU report 99/63)",
+          "date": "1999",
+          "url": "https://www.york.ac.uk/inst/chumpal/EAU-reps/eau99-63.pdf",
+          "quote": "included Isatis tinctoria, which is perhaps less likely than the others to have been reworked and may indicate continued dyeing activity at the site at this period",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Journal of Archaeological Science (Elsevier)",
+          "title": "Use of vegetative remains in the identification of dyeplants from waterlogged 9th–10th century AD deposits at York (P. Tomlinson), vol. 12, pp. 269-283",
+          "date": "1985-07",
+          "url": "https://www.sciencedirect.com/science/article/pii/0305440385900330",
+          "quote": "Use of vegetative remains in the identification of dyeplants from waterlogged 9th–10th century AD deposits at York",
+          "verificationStatus": "PENDING",
+          "accessType": "PAYWALL"
+        }
+      ]
+    },
+    {
+      "id": "geniza-indigo-trade",
+      "displayDate": "977-978 CE (with letters to c. 1057)",
+      "year": 978,
+      "era": "medieval",
+      "title": "Indigo in the Cairo Geniza: Fustat to Qayrawan",
+      "place": "Qayrawan (Kairouan), Tunisia; goods shipped from Fustat (Old Cairo), Egypt",
+      "lat": 35.6781,
+      "lng": 10.0963,
+      "summary": "A Hebrew court record from Qayrawan dated 4738 AM (977-978 CE), preserved in the Cairo Geniza (Cambridge, T-S 12.468), concerns a shipment of indigo sent from Fustat that belonged to a dead merchant. Other Geniza documents include an account headed 'what was sold from the Indian indigo (al-nīl al-hindī)'. A letter of about 1057 complains that merchants from Alexandria were flooding the market with indigo.",
+      "significance": "Shows indigo as a routine commodity in the 10th-11th-century Jewish and Islamic Mediterranean trade that linked Egypt, North Africa and India.",
+      "sources": [
+        {
+          "institution": "Princeton Geniza Project, Princeton University",
+          "title": "Legal document: T-S 12.468 (PGPID 1669)",
+          "date": "2026",
+          "url": "https://geniza.princeton.edu/en/documents/1669/",
+          "quote": "Avraham b. Kabīr asks for approval about a shipment of indigo to Qayrawan for the person who previously had the indigo in Fustat, Qimoy b. al-Ḥasan.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Princeton Geniza Project, Princeton University",
+          "title": "Letter: ENA NS 22.15 (PGPID 5713)",
+          "date": "2026",
+          "url": "https://geniza.princeton.edu/en/documents/5713/",
+          "quote": "Regarding the difficulties to sell indigo, which the writer received probably from Fustat, because the merchants from Alexandria are flooding the market with indigo.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Princeton Geniza Project, Princeton University",
+          "title": "Document search results for 'indigo' (includes T-S AS 176.225)",
+          "date": "2026-09-23",
+          "url": "https://geniza.princeton.edu/en/documents/?q=indigo&sort=relevance",
+          "quote": "Headed \"what was sold from the Indian indigo (al-nīl al-hindī).\"",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "gujarat-indigo-cottons-egypt",
+      "displayDate": "from c. 1010 CE (earliest radiocarbon date)",
+      "year": 1010,
+      "era": "medieval",
+      "title": "Gujarati indigo-resist cottons reach Egypt",
+      "place": "Found in Egypt (Fustat and the Red Sea port of Quseir al-Qadim); made in Gujarat, India",
+      "lat": 30.0059,
+      "lng": 31.2317,
+      "summary": "The Ashmolean Museum's Newberry collection holds Indian block-printed, resist- and mordant-dyed cottons found in Egypt. Radiocarbon tests in 1994-95 gave dates as early as 1010 CE (plus or minus 55 years), and every blue textile analysed showed traces of indigotin. Designs link the cloths to Gujarat, and 53 Indian textiles were excavated at the Red Sea port of Quseir al-Qadim.",
+      "significance": "Physical evidence of Indian indigo-dyed cotton traded to the Islamic Mediterranean from the early 11th century.",
+      "sources": [
+        {
+          "institution": "Ashmolean Museum, University of Oxford (Yousef Jameel Centre, Eastern Art Online)",
+          "title": "Indian Block-Printed Textiles in Egypt: The Newberry Collection (Ruth Barnes)",
+          "date": "1997",
+          "url": "https://jameelcentre.ashmolean.org/collection/7/10236/10319",
+          "quote": "Those blue textiles that were analysed all showed traces of indigotin",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "tellem-indigo-textiles",
+      "displayDate": "11th-12th centuries CE",
+      "year": 1050,
+      "era": "medieval",
+      "title": "West Africa's oldest indigo textiles",
+      "place": "Tellem burial caves, Bandiagara Escarpment, Mali",
+      "lat": 14.333,
+      "lng": -3.417,
+      "summary": "Cotton textiles from Tellem burial caves in the Bandiagara cliff are the oldest known from sub-Saharan Africa. Some date to the 11th or 12th century and already show stripes, checks and tie-dye patterns in indigo from Indigofera or Philenoptera species. The Metropolitan Museum reports that about 500 textiles from 13 cave burial contexts were carbon-14 dated, the earliest to the eleventh century.",
+      "significance": "The earliest firm evidence of West Africa's indigo-dyed cotton tradition.",
+      "sources": [
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Indigofera arrecta Hochst. ex A.Rich. (Lemmens & Cardon)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Indigofera_arrecta_(PROTA)",
+          "quote": "Some of them date back to the 11 th or 12 th centuries and already include stripes, checks and tie-and-dye patterns done with indigo from Indigofera or Philenoptera species.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "The Metropolitan Museum of Art",
+          "title": "Textile Fragment, Tellem civilization",
+          "date": "2026",
+          "url": "https://www.metmuseum.org/art/collection/search/736487",
+          "quote": "Some five hundred textiles found in just thirteen Bandiagara cave burial contexts have been dated using carbon-14 testing. The earliest among these are eleventh-century fragments from Cave C.",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Philenoptera cyanescens (Cardon & Jansen)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Philenoptera_cyanescens_(PROTA)",
+          "quote": "All aerial parts of Philenoptera cyanescens yield an indigo dye used in West Africa at least since the 11 th century.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "benjamin-tudela-jewish-dyers",
+      "displayDate": "c. 1166-1171 CE",
+      "year": 1170,
+      "era": "medieval",
+      "title": "Benjamin of Tudela's Jewish dyers",
+      "place": "Jerusalem",
+      "lat": 31.7767,
+      "lng": 35.2345,
+      "summary": "The Navarrese traveller Benjamin of Tudela, whose journey his editor dates to between 1166 and 1171, recorded Jewish dyers in southern Italy and the Levant: about ten at Brindisi and one or two at Ludd, Bethlehem, Jaffa and other towns. In Jerusalem he found 'a dyeing-house, for which the Jews pay a small rent annually to the king, on condition that besides the Jews no other dyers be allowed in Jerusalem.' He does not say which dyestuffs they used.",
+      "significance": "Records the prominence of Jewish communities in the medieval Mediterranean dyeing trade, in which indigo was a staple.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg",
+          "title": "The Itinerary of Benjamin of Tudela (trans. and ed. M. N. Adler, 1907)",
+          "date": "1907",
+          "url": "https://www.gutenberg.org/files/14981/14981-h/14981-h.htm",
+          "quote": "It contains a dyeing-house, for which the Jews pay a small rent annually to the king, on condition that besides the Jews no other dyers be allowed in Jerusalem.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "chichen-itza-maya-blue-ritual",
+      "displayDate": "c. 600-1200 CE (Chichén Itzá's florescence; Maya Blue used c. 300-1500 CE)",
+      "year": 1000,
+      "era": "medieval",
+      "title": "Maya Blue made in ritual at the Sacred Cenote",
+      "place": "Sacred Cenote, Chichén Itzá, Yucatán, Mexico",
+      "lat": 20.687708,
+      "lng": -88.567694,
+      "summary": "Researchers from Wheaton College and the Field Museum (Antiquity, 2008) concluded that at Chichén Itzá, Maya Blue was made during rituals beside the Sacred Cenote by burning copal incense, palygorskite and probably indigo leaves together. They linked this to the thick layer of blue sediment found when the cenote was dredged in the early 20th century. Their release says Maya Blue was used across Mesoamerica from about 300 to 1500 CE.",
+      "significance": "Shows indigo in Mesoamerica was a ritual and sacred material, not only a textile dye.",
+      "sources": [
+        {
+          "institution": "Wheaton College and The Field Museum, via ScienceDaily",
+          "title": "Centuries-old Maya Blue Mystery Finally Solved",
+          "date": "2008-02-26",
+          "url": "https://www.sciencedaily.com/releases/2008/02/080226162953.htm",
+          "quote": "burning a mixture of copal incense, palygorskite and probably the leaves of the indigo plant",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Chichen Itza (chronology)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Chichen_Itza",
+          "quote": "Chichen Itza was a major focal point in the Northern Maya Lowlands from the Late Classic (c. 600–900 AD) through the Terminal Classic (c. 800–900 AD) and into the early portion of the Postclassic period (c. 900–1200 AD).",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "amiens-woad-cathedral",
+      "displayDate": "1220 onwards (cathedral begun 1220)",
+      "year": 1220,
+      "era": "medieval",
+      "title": "Woad money builds Amiens Cathedral",
+      "place": "Amiens Cathedral, Picardy, France",
+      "lat": 49.8947,
+      "lng": 2.3022,
+      "summary": "Woad, called waide or guède in Picardy, is recorded in the Somme from 1105, and its trade made Amiens rich. The cathedral's own site says the woad trade 'helped finance a large part of the work' on the building begun in 1220. A sculpture on the south side shows two woad merchants beside a sack of woad.",
+      "significance": "Shows how medieval woad profits paid for civic and religious monuments in northern Europe.",
+      "sources": [
+        {
+          "institution": "Tours et trésor de la cathédrale d'Amiens (official site)",
+          "title": "History of the monument",
+          "date": "2026",
+          "url": "https://www.cathedrale-amiens.fr/en/discover/history-of-the-monument",
+          "quote": "The waide, as it was known in Picardy (the woad, Isatis tinctoria), a blue dye plant that produced the royal blue, helped finance a large part of the work thanks to its flourishing trade.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Villes et Pays d'art et d'histoire, Hauts-de-France",
+          "title": "La Waide ou bleu d'Amiens",
+          "date": "2026",
+          "url": "https://vpah-hauts-de-france.fr/ressources/la-waide-ou-bleu-damiens/",
+          "quote": "La culture de la waide, plus connue sous le nom de guède, est attestée dans le département de la Somme dès 1105.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "zhao-rugua-gujarat-indigo",
+      "displayDate": "c. 1225 CE",
+      "year": 1225,
+      "era": "medieval",
+      "title": "Chinese trade official records Gujarat's indigo exports",
+      "place": "Gujarat, India (described from Quanzhou, China); Cambay/Khambhat shown",
+      "lat": 22.3181,
+      "lng": 72.6189,
+      "summary": "Zhao Rugua (Chau Ju-kua), supervisor of maritime trade at Quanzhou, finished his Zhu fan zhi (Records of Foreign Peoples) around 1225. Of Gujarat he wrote that its products 'comprise great quantities of indigo, red kino, myrobolans and foreign cotton stuffs of every colour', and that these goods were shipped every year to the Arab lands (Ta shï) for sale.",
+      "significance": "Independent Chinese evidence that Gujarat was a major exporter of indigo to the Islamic world before European involvement.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg",
+          "title": "The Travels of Marco Polo, vol. 2 (Yule-Cordier ed.; Cordier, Notes and Addenda), quoting Chau Ju-kua p. 92",
+          "date": "1920",
+          "url": "https://www.gutenberg.org/files/12410/12410-h/12410-h.htm",
+          "quote": "The native products comprise great quantities of indigo, red kino, myrobolans and foreign cotton stuffs of every colour. Every year these goods are transported to the Ta shï countries for sale.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Zhao Rugua (date of Zhu fan zhi)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Zhao_Rugua",
+          "quote": "he wrote the book, which he finished around 1225",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "marco-polo-coilum-indigo",
+      "displayDate": "c. 1293 (voyage of c. 1291-1295; recorded 1298-99)",
+      "year": 1293,
+      "era": "medieval",
+      "title": "Marco Polo describes indigo-making at Quilon",
+      "place": "Coilum (Kollam/Quilon), Kerala, India",
+      "lat": 8.893194,
+      "lng": 76.614111,
+      "summary": "Marco Polo reported that Coilum had 'abundance of very fine indigo', made by steeping a herb in great vessels of water until it decomposed, then letting the liquid set in the hot sun. The indigo was cut into pieces of four ounces each for export to Europe. He also noted indigo in Gujarat and 'in great abundance' at Cambay. His editor Henry Yule judged that the account 'does describe the chief features of the manufacture of Indigo by fermentation'.",
+      "significance": "The first detailed European eyewitness description of indigo production in India.",
+      "sources": [
+        {
+          "institution": "Project Gutenberg",
+          "title": "The Travels of Marco Polo, vol. 2, Book 3 ch. 22 'Of the Kingdom of Coilum' (Yule-Cordier 3rd ed.)",
+          "date": "1903",
+          "url": "https://www.gutenberg.org/files/12410/12410-h/12410-h.htm",
+          "quote": "They have also abundance of very fine indigo.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "The Travels of Marco Polo (dates)",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo",
+          "quote": "They left China in late 1290 or early 1291",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "erfurt-woad-towns-university",
+      "displayDate": "13th-16th centuries (university opened 1392)",
+      "year": 1392,
+      "era": "medieval",
+      "title": "Thuringia's woad towns and Erfurt's university",
+      "place": "Erfurt, Thuringia, Germany",
+      "lat": 50.9787,
+      "lng": 11.0328,
+      "summary": "Between the 13th and 16th centuries woad shaped Thuringia's economy more than any other crop. A contiguous growing zone formed between Erfurt, Langensalza, Gotha, Arnstadt and Weimar. Erfurt, with Gotha, Arnstadt, Langensalza and Tennstedt, formed the five Thuringian 'woad towns' that processed and traded the crop. A local history source says woad wealth is 'presumably' what let Erfurt's citizens pay for founding their university, which opened in 1392.",
+      "significance": "The clearest German example of woad money building urban institutions.",
+      "sources": [
+        {
+          "institution": "Erfurt-Lese (local history)",
+          "title": "Waidanbau und -verarbeitung in und um Erfurt",
+          "date": "2026",
+          "url": "https://www.erfurt-lese.de/streifzuege/geschichtliches/waidanbau-und-verarbeitung-in-und-um-erfurt/",
+          "quote": "Zwischen dem 13. und 16. Jahrhundert prägte der Färberwaid (Isatis trinctoria L.) wie keine andere Kulturpflanze das Wirtschaftsleben Thüringens.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Erfurt-Lese (local history; Anette Huber-Kemmesies)",
+          "title": "Waidhandel in Erfurt",
+          "date": "2026",
+          "url": "https://www.erfurt-lese.de/streifzuege/geschichtliches/waidhandel-in-erfurt/",
+          "quote": "Vermutlich ist es auch dem Waid zu verdanken gewesen, dass die Erfurter Bürger die Kosten für die Gründung der Universität im Jahre 1392 selbst tragen konnten.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia (German)",
+          "title": "Waidstädte",
+          "date": "2026",
+          "url": "https://de.wikipedia.org/wiki/Waidstädte",
+          "quote": "Die 140 nachweisbaren Waidmühlsteine in Thüringens Dörfern belegen die Anbaustätten",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "toulouse-pastel-golden-age",
+      "displayDate": "1463 (start of the 1463-1562 golden age)",
+      "year": 1463,
+      "era": "medieval",
+      "title": "Toulouse's 'land of cocagne' woad boom begins",
+      "place": "Toulouse and the Lauragais, Languedoc, France",
+      "lat": 43.6045,
+      "lng": 1.4442,
+      "summary": "Toulouse's exports of pastel (woad) grew from the mid-14th century on English demand. The trade's golden age ran from 1463 to 1562. The Lauragais became Europe's leading woad district, nicknamed the 'pays de cocagne' after the cocagnes (balls of crushed woad leaves), and Toulouse became the hub of the trade. Most of the boom falls after 1497.",
+      "significance": "Europe's largest woad economy on the eve of the sea route to India, which would eventually undercut it with imported indigo.",
+      "sources": [
+        {
+          "institution": "Annales du Midi (via Persée)",
+          "title": "La commercialisation du pastel toulousain (1350-1600) (Francis Brumont), vol. 106, no. 205, pp. 25-40",
+          "date": "1994",
+          "url": "https://www.persee.fr/doc/anami_0003-4398_1994_num_106_205_2396",
+          "quote": "Au milieu du XIVe siècle, devant la demande croissante en provenance d'Angleterre, les exportations de pastel toulousain se développent",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Haute-Garonne Tourisme (departmental tourism board)",
+          "title": "Pastel - panneau route du pastel (Port-Lauragais)",
+          "date": "2026",
+          "url": "https://www.hautegaronnetourisme.com/espace-decouverte-port-lauragais/pastel-route-panneau/",
+          "quote": "L'âge d'or du pastel se situe entre 1463 et 1562.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "kano-kofar-mata-dye-pits",
+      "displayDate": "1498 (traditional founding date)",
+      "year": 1498,
+      "era": "medieval",
+      "title": "Kano's Kofar Mata dye pits (traditional date)",
+      "place": "Kofar Mata, old city of Kano, Nigeria",
+      "lat": 12.0,
+      "lng": 8.51,
+      "summary": "A Google Arts & Culture story by the Centenary Project says the Kofar Mata indigo dye pits in Kano were established in 1498, near the city's central mosque and the historic Kofar Mata gate, and that there are over 100 pits. The date comes from tradition rather than excavation; Wikipedia says only that the pits' origins are commonly traced back more than 500 years. It falls one year after this slice's 1497 cut-off.",
+      "significance": "Africa's best-known surviving indigo dye pits tie Hausa textile production of the late 15th century to the present.",
+      "sources": [
+        {
+          "institution": "Google Arts & Culture (The Centenary Project / Pan-Atlantic University)",
+          "title": "500 Years of Tie and Dye Production",
+          "date": "2026",
+          "url": "https://artsandculture.google.com/story/500-years-of-tie-and-dye-production-pan-atlantic-university/7wVRhbHix5iuLA?hl=en",
+          "quote": "The Kano dye pits in Kofar Mata were established in 1498",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Wikipedia",
+          "title": "Kofar Mata Dye Pits",
+          "date": "2026",
+          "url": "https://en.wikipedia.org/wiki/Kofar_Mata_Dye_Pits",
+          "quote": "The origins of the Kofar Mata Dye Pits are commonly traced back more than 500 years",
+          "verificationStatus": "PENDING",
+          "accessType": "FREE"
+        }
+      ]
+    }
+  ],
+  "quant": [
+    {
+      "id": "pliny-indicum-price-77",
+      "label": "Price of indicum (indigo) in Rome, per Pliny",
+      "value": 20,
+      "unit": "denarii per Roman pound",
+      "year": 77,
+      "note": "Natural History 35.27 (Bostock) = 35.46 (Loeb). Not directly comparable with the 301 CE edict price because of 3rd-century currency debasement.",
+      "source": {
+        "institution": "Perseus Digital Library, Tufts University",
+        "title": "Pliny the Elder, Natural History 35.27 (Bostock & Riley trans.)",
+        "date": "1855",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=35:chapter=27",
+        "quote": "The price of indicum is twenty denarii per pound.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "diocletian-indigo-max-price-301",
+      "label": "Maximum price of 'Indigo (?)', Diocletian's Price Edict",
+      "value": 750,
+      "unit": "denarii per Roman pound (legal maximum)",
+      "year": 301,
+      "note": "Chapter XXXVI (drugs, paints, dyes); Lauffer no. 120 / Crawford & Reynolds no. 73. The translator marks the identification with '(?)'.",
+      "source": {
+        "institution": "Antony Kropff, hosted by the University of Bergen",
+        "title": "An English translation of the Edict on Maximum Prices (v2.1)",
+        "date": "2016-04-27",
+        "url": "https://kark.uib.no/antikk/dias/priceedict.pdf",
+        "quote": "Indigo (?) 1 lb 750",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "diocletian-pepper-max-price-301",
+      "label": "Maximum price of pepper, Diocletian's Price Edict (for comparison)",
+      "value": 800,
+      "unit": "denarii per Roman pound (legal maximum)",
+      "year": 301,
+      "note": "Listed in the same chapter as indigo.",
+      "source": {
+        "institution": "Antony Kropff, hosted by the University of Bergen",
+        "title": "An English translation of the Edict on Maximum Prices (v2.1)",
+        "date": "2016-04-27",
+        "url": "https://kark.uib.no/antikk/dias/priceedict.pdf",
+        "quote": "Pepper 1 lb 800",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "diocletian-indigo-to-pepper-ratio-301",
+      "label": "Indigo price as a share of pepper price, Diocletian's Price Edict",
+      "value": 0.94,
+      "unit": "ratio (750 / 800)",
+      "year": 301,
+      "note": "Computed from the two capped prices above.",
+      "source": {
+        "institution": "Antony Kropff, hosted by the University of Bergen",
+        "title": "An English translation of the Edict on Maximum Prices (v2.1)",
+        "date": "2016-04-27",
+        "url": "https://kark.uib.no/antikk/dias/priceedict.pdf",
+        "quote": "Indigo (?) 1 lb 750",
+        "verificationStatus": "DERIVED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "diocletian-indigo-dyed-hide-301",
+      "label": "Maximum price of a hide dyed indigo, Diocletian's Price Edict",
+      "value": 400,
+      "unit": "denarii per hide (legal maximum)",
+      "year": 301,
+      "note": "Chapter VIII.5; compare Phoenician hide at 100 and Babylonian hide (first quality) at 500.",
+      "source": {
+        "institution": "Antony Kropff, hosted by the University of Bergen",
+        "title": "An English translation of the Edict on Maximum Prices (v2.1)",
+        "date": "2016-04-27",
+        "url": "https://kark.uib.no/antikk/dias/priceedict.pdf",
+        "quote": "Hide dyed indigo 400",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "huaca-prieta-gap-years",
+      "label": "Lead of Huaca Prieta indigo over earliest Old World (Egyptian) indigo",
+      "value": 1500,
+      "unit": "years (approx.)",
+      "year": -4200,
+      "note": "Huaca Prieta c. 6,000 years old versus Fifth Dynasty Egypt c. 4,400 BP.",
+      "source": {
+        "institution": "Science Advances (AAAS), via PubMed",
+        "title": "Early pre-Hispanic use of indigo blue in Peru",
+        "date": "2016-09-14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27652337/",
+        "quote": "This predates by ~1500 years the earliest reported use of indigo in the Old World, from Fifth Dynasty Egypt [ca. 4400 BP (before present)].",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "qimin-yaoshu-indigo-vs-grain-land",
+      "label": "Grain land equal in value to 10 mu of indigo (Qimin yaoshu)",
+      "value": 100,
+      "unit": "mu (1 qing) of grain land per 10 mu of indigo",
+      "year": 544,
+      "note": "Implies indigo was worth about 10 times grain per unit area; the text adds the profit doubles again if the grower dyes cloth. 1 qing = 100 mu (standard conversion).",
+      "source": {
+        "institution": "Wikisource (Chinese)",
+        "title": "齊民要術 / 卷第五, 種藍第五十三",
+        "date": "c. 544",
+        "url": "https://zh.wikisource.org/zh-hant/%E9%BD%8A%E6%B0%91%E8%A6%81%E8%A1%93/%E5%8D%B7%E7%AC%AC%E4%BA%94",
+        "quote": "種藍十畝，敵穀田一頃。能自染青者，其利又倍矣。",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "qimin-yaoshu-lime-dose",
+      "label": "Lime added per jar of indigo liquor (Qimin yaoshu)",
+      "value": 1.5,
+      "unit": "percent by volume (1 dou 5 sheng of lime per 10-shi jar)",
+      "year": 544,
+      "note": "Computed with 1 shi = 10 dou and 1 dou = 10 sheng, so 1.5 dou per 100 dou. The original gives the volumes, not a percentage.",
+      "source": {
+        "institution": "Wikisource (Chinese)",
+        "title": "齊民要術 / 卷第五, 種藍第五十三",
+        "date": "c. 544",
+        "url": "https://zh.wikisource.org/zh-hant/%E9%BD%8A%E6%B0%91%E8%A6%81%E8%A1%93/%E5%8D%B7%E7%AC%AC%E4%BA%94",
+        "quote": "率十石甕，著石灰一斗五升",
+        "verificationStatus": "DERIVED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "hallstatt-fabric-fragments",
+      "label": "Prehistoric fabric fragments recovered from the Hallstatt salt mines",
+      "value": 700,
+      "unit": "fragments (approx.)",
+      "year": -1000,
+      "note": "Bronze and Iron Age; mostly wool.",
+      "source": {
+        "institution": "Naturhistorisches Museum Wien",
+        "title": "Textile research",
+        "date": "2026",
+        "url": "https://www.nhm.at/en/research/prehistory/research/textile_research",
+        "quote": "Around 700 fragments of fabric have been found in the salt mines, most of which are made of wool.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "hallstatt-indigotin-share-bronze-age",
+      "label": "Share of analysed Bronze Age Hallstatt textiles containing indigotin",
+      "value": 33,
+      "unit": "percent",
+      "year": -1200,
+      "note": "Seen in the search-result abstract; the full article (paywalled) was not read. The year is representative only.",
+      "source": {
+        "institution": "Journal of Archaeological Science: Reports (Elsevier)",
+        "title": "Searching for blue: Experiments with woad fermentation vats and an explanation of the colours through dye analysis",
+        "date": "2015-06",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352409X14000273",
+        "quote": "In 33% of the Bronze Age textiles and 58% of the Iron Age textiles analysed, indigotin, indirubin and isatin were detected by HPLC-PDA",
+        "verificationStatus": "PENDING",
+        "accessType": "PAYWALL"
+      }
+    },
+    {
+      "id": "hallstatt-indigotin-share-iron-age",
+      "label": "Share of analysed Iron Age Hallstatt textiles containing indigotin",
+      "value": 58,
+      "unit": "percent",
+      "year": -600,
+      "note": "As above; the year is representative only.",
+      "source": {
+        "institution": "Journal of Archaeological Science: Reports (Elsevier)",
+        "title": "Searching for blue: Experiments with woad fermentation vats and an explanation of the colours through dye analysis",
+        "date": "2015-06",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352409X14000273",
+        "quote": "In 33% of the Bronze Age textiles and 58% of the Iron Age textiles analysed, indigotin, indirubin and isatin were detected by HPLC-PDA",
+        "verificationStatus": "PENDING",
+        "accessType": "PAYWALL"
+      }
+    },
+    {
+      "id": "coppergate-textile-artefacts",
+      "label": "Textile-production artefacts recovered at 16-22 Coppergate, York",
+      "value": 1147,
+      "unit": "artefacts",
+      "year": 925,
+      "note": "1,006 of them date to the 9th-13th centuries; about two-thirds of those are Anglo-Scandinavian.",
+      "source": {
+        "institution": "York Archaeological Trust",
+        "title": "Textile Production at 16-22 Coppergate (Walton Rogers 1997)",
+        "date": "1997",
+        "url": "https://www.collections.yorkarchaeologicaltrust.co.uk/s/collections/item/74500",
+        "quote": "A total of 1,147 artefacts connected with textile production were recovered",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "geniza-indigo-documents",
+      "label": "Princeton Geniza Project documents returned for the keyword 'indigo'",
+      "value": 93,
+      "unit": "documents (search hits, 23 Sep 2026)",
+      "year": 1050,
+      "note": "The general search returns 'matching or similar' results, so this is an upper-bound count of Geniza documents mentioning indigo, roughly 10th-13th centuries. The year is representative only.",
+      "source": {
+        "institution": "Princeton Geniza Project, Princeton University",
+        "title": "Document search: indigo",
+        "date": "2026-09-23",
+        "url": "https://geniza.princeton.edu/en/documents/?q=indigo&sort=relevance",
+        "quote": "93 results",
+        "verificationStatus": "DERIVED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "geniza-978-indigo-shipment-weight",
+      "label": "Weight of the indigo shipment in the Qayrawan court record T-S 12.468",
+      "value": "1 qintar + 20 litra",
+      "unit": "qintar and litra (ratl), in two sacks",
+      "year": 978,
+      "note": "Researcher's reading of Moshe Gil's Hebrew transcription ('משקלם קנטאר ועשרים ליטרא'). The same text calls the goods 'אסטיס דמתקרי ניל שאמי' (isatis called Syrian nīl), which suggests woad-type 'Syrian indigo' rather than Indian indigo. Needs specialist confirmation.",
+      "source": {
+        "institution": "Princeton Geniza Project, Princeton University",
+        "title": "Legal document: T-S 12.468 (PGPID 1669), transcription by Moshe Gil",
+        "date": "2026",
+        "url": "https://geniza.princeton.edu/en/documents/1669/",
+        "quote": "הוא אסטיס דמתקרי ניל שאמי שני נודות [דמ]תקרין גראבין משקלם קנטאר ועשרים ליטרא",
+        "verificationStatus": "DERIVED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "ashmolean-earliest-c14-indian-textile",
+      "label": "Earliest radiocarbon date among Indian block-printed textiles found in Egypt (Ashmolean)",
+      "value": "1010 ± 55",
+      "unit": "CE (radiocarbon date)",
+      "year": 1010,
+      "note": "Samples tested in 1994-95.",
+      "source": {
+        "institution": "Ashmolean Museum, University of Oxford",
+        "title": "Indian Block-Printed Textiles in Egypt: The Newberry Collection (Ruth Barnes)",
+        "date": "1997",
+        "url": "https://jameelcentre.ashmolean.org/collection/7/10236/10319",
+        "quote": "1010 CE +/- 55",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "quseir-indian-textiles",
+      "label": "Indian textiles excavated at Quseir al-Qadim (Red Sea port)",
+      "value": 53,
+      "unit": "textiles",
+      "year": 1250,
+      "note": "Count as given on the Ashmolean page; the page does not date these finds, so the year is representative only.",
+      "source": {
+        "institution": "Ashmolean Museum, University of Oxford",
+        "title": "Indian Block-Printed Textiles in Egypt: The Newberry Collection (Ruth Barnes)",
+        "date": "1997",
+        "url": "https://jameelcentre.ashmolean.org/collection/7/10236/10319",
+        "quote": "53 Indian textiles",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "tellem-textiles-dated",
+      "label": "Tellem textiles from Bandiagara cave burials dated by carbon-14",
+      "value": 500,
+      "unit": "textiles (approx.) from 13 burial contexts",
+      "year": 1050,
+      "note": "Span 11th-18th centuries; the earliest are 11th century. The Met page could not be fetched (HTTP 429), so the quote is from a search result.",
+      "source": {
+        "institution": "The Metropolitan Museum of Art",
+        "title": "Textile Fragment, Tellem civilization",
+        "date": "2026",
+        "url": "https://www.metmuseum.org/art/collection/search/736487",
+        "quote": "Some five hundred textiles found in just thirteen Bandiagara cave burial contexts have been dated using carbon-14 testing.",
+        "verificationStatus": "PENDING",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "benjamin-brindisi-dyers",
+      "label": "Jewish dyers at Brindisi recorded by Benjamin of Tudela",
+      "value": 10,
+      "unit": "persons (approx.)",
+      "year": 1170,
+      "note": "Adler's index lists Jewish dyers at 9 localities (Beit Nuba, Bethlehem, Brindisi, among the Druses, Jaffa, Jerusalem, Jezreel, Karjatin, Ludd).",
+      "source": {
+        "institution": "Project Gutenberg",
+        "title": "The Itinerary of Benjamin of Tudela (Adler, 1907)",
+        "date": "1907",
+        "url": "https://www.gutenberg.org/files/14981/14981-h/14981-h.htm",
+        "quote": "About ten Jews, who are dyers, reside here.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "benjamin-dyer-localities",
+      "label": "Localities where Benjamin of Tudela records Jewish dyers",
+      "value": 9,
+      "unit": "localities",
+      "year": 1170,
+      "note": "Counted from the index entry 'Dyers' in Adler's edition.",
+      "source": {
+        "institution": "Project Gutenberg",
+        "title": "The Itinerary of Benjamin of Tudela (Adler, 1907), index",
+        "date": "1907",
+        "url": "https://www.gutenberg.org/files/14981/14981-h/14981-h.htm",
+        "quote": "Dyers, at Beit Nubi, 43 ; Bethlehem, 40 ; Brindisi, 15 ; among the Druses, 29 ; at Jaffa, 43 ; Jerusalem, 34 , 35 ; Jezreel, 44 ; KarjatĪn, 49 ; Ludd, 32 .",
+        "verificationStatus": "DERIVED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "marco-polo-indigo-piece-weight",
+      "label": "Size of indigo pieces exported from Coilum (Quilon), per Marco Polo",
+      "value": 4,
+      "unit": "ounces per piece",
+      "year": 1293,
+      "note": "Bracketed passage in Yule's composite text, drawn from Ramusio's version.",
+      "source": {
+        "institution": "Project Gutenberg",
+        "title": "The Travels of Marco Polo, vol. 2 (Yule-Cordier)",
+        "date": "1903",
+        "url": "https://www.gutenberg.org/files/12410/12410-h/12410-h.htm",
+        "quote": "[They then divide it into pieces of four ounces each, and in that form it is exported to our parts.]",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "sacred-cenote-blue-layer",
+      "label": "Thickness of blue sediment at the bottom of the Sacred Cenote, Chichén Itzá",
+      "value": 14,
+      "unit": "feet (about 4.3 m)",
+      "year": 1000,
+      "note": "Wikipedia, citing Thompson's 1909 dive, gives about 5 m (16 ft); sources disagree. The year is representative of the deposit, not a date for it.",
+      "source": {
+        "institution": "Wheaton College and The Field Museum, via ScienceDaily",
+        "title": "Centuries-old Maya Blue Mystery Finally Solved",
+        "date": "2008-02-26",
+        "url": "https://www.sciencedaily.com/releases/2008/02/080226162953.htm",
+        "quote": "14-foot layer of blue precipitate found at the bottom of the Sacred Cenote (a natural well) at Chichén Itzá",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "thuringia-woad-millstones",
+      "label": "Documented woad millstones in Thuringian villages",
+      "value": 140,
+      "unit": "millstones",
+      "year": 1450,
+      "note": "Physical traces of the 13th-16th century woad industry; the count's date and method are not given. Year representative only.",
+      "source": {
+        "institution": "Wikipedia (German)",
+        "title": "Waidstädte",
+        "date": "2026",
+        "url": "https://de.wikipedia.org/wiki/Waidstädte",
+        "quote": "Die 140 nachweisbaren Waidmühlsteine in Thüringens Dörfern belegen die Anbaustätten",
+        "verificationStatus": "PENDING",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "erfurt-woad-villages-1579",
+      "label": "Villages growing woad for Erfurt, 1579 (post-period context)",
+      "value": 49,
+      "unit": "villages",
+      "year": 1579,
+      "note": "After this slice's 1497 cut-off; by 1747 only 3 Erfurt and 12 Gotha villages remained.",
+      "source": {
+        "institution": "Erfurt-Lese (local history)",
+        "title": "Waidhandel in Erfurt",
+        "date": "2026",
+        "url": "https://www.erfurt-lese.de/streifzuege/geschichtliches/waidhandel-in-erfurt/",
+        "quote": "Während im Jahr 1579 Waidbauern in 49 Dörfern Waid anbauten, waren es 1747 nur noch drei Erfurter und zwölf Gothaer Dörfer.",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "toulouse-pastel-annual-tonnage",
+      "label": "Pastel (woad) delivered or exported from Toulouse per year in the golden age",
+      "value": 40000,
+      "unit": "tonnes per year (tourism-board figure)",
+      "year": 1500,
+      "note": "Stated by the Haute-Garonne tourism board without a scholarly citation; treat with caution (unclear whether it means dried cocagne balls or processed dye). Golden age 1463-1562.",
+      "source": {
+        "institution": "Haute-Garonne Tourisme",
+        "title": "Pastel - panneau route du pastel",
+        "date": "2026",
+        "url": "https://www.hautegaronnetourisme.com/espace-decouverte-port-lauragais/pastel-route-panneau/",
+        "quote": "40 000 tonnes par an",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    },
+    {
+      "id": "kano-dye-pits-count",
+      "label": "Dye pits at Kofar Mata, Kano",
+      "value": 100,
+      "unit": "pits (over)",
+      "year": 1498,
+      "note": "Present-day count; the founding date is traditional.",
+      "source": {
+        "institution": "Google Arts & Culture (The Centenary Project)",
+        "title": "500 Years of Tie and Dye Production",
+        "date": "2026",
+        "url": "https://artsandculture.google.com/story/500-years-of-tie-and-dye-production-pan-atlantic-university/7wVRhbHix5iuLA?hl=en",
+        "quote": "There are over 100 dye pits at Kofar Mata",
+        "verificationStatus": "CONFIRMED",
+        "accessType": "FREE"
+      }
+    }
+  ],
+  "plants": [
+    {
+      "id": "indigofera-tinctoria",
+      "scientificName": "Indigofera tinctoria L.",
+      "commonNames": [
+        "true indigo",
+        "Indian indigo"
+      ],
+      "family": "Fabaceae (Leguminosae)",
+      "nativeRange": "Uncertain; possibly India.",
+      "cultivatedRange": "Now pantropical after centuries of cultivation and naturalization: most of Africa, Asia from Arabia to South-East Asia, Australia; introduced to tropical America.",
+      "historicalRole": "The main Old World source of traded 'Indian' indigo (Pliny's indicum; Gujarat and Quilon exports in Zhao Rugua and Marco Polo).",
+      "indigoContent": "Dupré et al. (2025) put its extraction yield at five times that of woad (1% against 0.2%). In a 2024 Austrian field trial, indigotin extraction yield was 0.3 g per kg of fresh plant, and the extracted indigo was 23% indigotin. PROTA reports 10-13 t/ha of green material per harvest in India; dye yield not known.",
+      "sources": [
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Indigofera tinctoria L. (Takawira-Nyenya & Cardon)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Indigofera_tinctoria_(PROTA)",
+          "quote": "The origin of Indigofera tinctoria is not known; it possibly originates from India.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), full text read via Europe PMC (PMC12348740)",
+          "title": "Isatis tinctoria L.—From Botanical Description to Seed-Extracted Compounds and Their Applications: An Overview (Dupré et al.)",
+          "date": "2025-07-25",
+          "url": "https://www.mdpi.com/2223-7747/14/15/2304/html",
+          "quote": "Quantitatively, tropical Indigofera tinctoria had a five times better yield extraction (0.2% against 1%), which increased again with synthetic methods",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), via PubMed Central",
+          "title": "'Purplish Blue' or 'Greenish Grey'? Indigo Qualities and Extraction Yields from Six Species (Hartl, Polleichtner, Novak)",
+          "date": "2024-03-22",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11013892/",
+          "quote": "Persicaria tinctoria and Indigofera arrecta (0.6 and 0.8 g/kg) showed much higher indigotin extraction yields than Indigofera suffruticosa and Indigofera tinctoria (0.1 and 0.3 g/kg).",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "indigofera-suffruticosa",
+      "scientificName": "Indigofera suffruticosa Mill.",
+      "commonNames": [
+        "anil",
+        "Guatemalan indigo",
+        "West Indian indigo"
+      ],
+      "family": "Fabaceae (Leguminosae)",
+      "nativeRange": "Subtropical and tropical America, from the southern United States and the Caribbean through Mexico and Central America to Paraguay and northern Argentina.",
+      "cultivatedRange": "Widely introduced; now pantropical.",
+      "historicalRole": "Candidate American indigo source for Mesoamerican Maya Blue (with palygorskite clay); Huaca Prieta's indigo is attributed only to 'Indigofera spp. native to South America'.",
+      "indigoContent": "In the 2024 Austrian trial, indigotin extraction yield was 0.1 g per kg of fresh plant, and the extracted indigo was 10% indigotin (lowest of the species tested).",
+      "sources": [
+        {
+          "institution": "University of Applied Arts Vienna, 'A World of Blue' project",
+          "title": "Plant profile: Indigofera suffructicosa",
+          "date": "2021-06-22",
+          "url": "https://indigo.uni-ak.ac.at/plant-profile-indigofera-suffructicosa/",
+          "quote": "native to subtropical and tropical America, including the southern United States, the Caribbean, Mexico, Central America, and South America as far south as Paraguay and northern Argentina.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), via PubMed Central",
+          "title": "'Purplish Blue' or 'Greenish Grey'? Indigo Qualities and Extraction Yields from Six Species",
+          "date": "2024-03-22",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11013892/",
+          "quote": "Its amount was double and five times as much, respectively, as those of the two other Indigofera species ( Indigofera tinctoria : 23%, Indigofera suffruticosa : 10% indigotin).",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "indigofera-arrecta",
+      "scientificName": "Indigofera arrecta Hochst. ex A.Rich.",
+      "commonNames": [
+        "Natal indigo"
+      ],
+      "family": "Fabaceae (Leguminosae)",
+      "nativeRange": "Africa: almost throughout tropical Africa, northern and eastern South Africa, Swaziland, and southern Arabia.",
+      "cultivatedRange": "Widely planted in India and south-eastern Asia.",
+      "historicalRole": "An African indigo species; one of the possible sources, with Philenoptera, of West African medieval indigo such as the Tellem textiles.",
+      "indigoContent": "PROTA calls its dye yield the highest of any Indigofera, with 135-325 kg/ha of indigo cake a year recorded in India. In the 2024 Austrian trial it gave 0.8 g indigotin per kg of fresh plant and indigo of 55% indigotin.",
+      "sources": [
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Indigofera arrecta Hochst. ex A.Rich. (Lemmens & Cardon)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Indigofera_arrecta_(PROTA)",
+          "quote": "Annual yields of 22–100 t green matter per ha have been reported in India; the recorded output of indigo cake is 135–325 kg/ha per year.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), via PubMed Central",
+          "title": "'Purplish Blue' or 'Greenish Grey'? Indigo Qualities and Extraction Yields from Six Species",
+          "date": "2024-03-22",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11013892/",
+          "quote": "The highest content was achieved with Indigofera arrecta indigo (55% indigotin).",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "isatis-tinctoria",
+      "scientificName": "Isatis tinctoria L.",
+      "commonNames": [
+        "woad",
+        "pastel (French)",
+        "Waid (German)",
+        "guède / waide (Picardy)",
+        "vaid (Norwegian)"
+      ],
+      "family": "Brassicaceae",
+      "nativeRange": "Disputed: Central Asia (by genetic analyses), or south-eastern Russia to south-west Asia and perhaps parts of south-eastern Europe. Norway's national encyclopedia says the steppes of the eastern Mediterranean and North Africa.",
+      "cultivatedRange": "Widely cultivated in Europe (Germany, France, England, Italy) from the 12th to the 17th century; in prehistoric Europe from the Neolithic, Bronze and Iron Ages; in Bronze Age Anatolia.",
+      "historicalRole": "Europe's and western Asia's blue dye plant from prehistory until imported Indigofera indigo displaced it (16th-17th centuries).",
+      "indigoContent": "Dupré et al. (2025): about 0.2% extraction yield against about 1% for tropical Indigofera tinctoria, i.e. roughly one fifth. The popular claim that woad yields 'one thirtieth' of Indigofera appears only in unsourced blogs and is not verified.",
+      "sources": [
+        {
+          "institution": "Plants (MDPI), via Europe PMC (PMC7154893)",
+          "title": "Isatis tinctoria L. (Woad): A Review of its Botany, Ethnobotanical Uses, Phytochemistry, Biological Activities, and Biotechnological Studies (Speranza et al.)",
+          "date": "2020",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7154893/",
+          "quote": "This species is thought to be native of Central Asia, as confirmed by genetic analyses [ 4 , 5 ], even though other authors report it as native to South-eastern Russia to South-west Asia and, perhaps, to some parts of South-eastern Europe",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), full text read via Europe PMC (PMC12348740)",
+          "title": "Isatis tinctoria L.—From Botanical Description to Seed-Extracted Compounds and Their Applications: An Overview (Dupré et al.)",
+          "date": "2025-07-25",
+          "url": "https://www.mdpi.com/2223-7747/14/15/2304/html",
+          "quote": "Quantitatively, tropical Indigofera tinctoria had a five times better yield extraction (0.2% against 1%), which increased again with synthetic methods",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Store norske leksikon",
+          "title": "vaid",
+          "date": "2026-08-13",
+          "url": "https://snl.no/vaid",
+          "quote": "Vaid hører egentlig hjemme på steppene i de østlige middelhavsland og i Nord-Afrika.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Cambridge University Botanic Garden",
+          "title": "Dye trail: Isatis tinctoria (Woad)",
+          "date": "2026",
+          "url": "https://www.botanic.cam.ac.uk/learning/trails/dyestrail/isatistinctoria/",
+          "quote": "Seeds have been found in caves in France dating back to the Neolithic period.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "persicaria-tinctoria",
+      "scientificName": "Persicaria tinctoria (Aiton) H.Gross (syn. Polygonum tinctorium)",
+      "commonNames": [
+        "Japanese indigo",
+        "Chinese indigo",
+        "dyer's knotweed",
+        "ai (Japanese)",
+        "liao lan (Chinese)"
+      ],
+      "family": "Polygonaceae",
+      "nativeRange": "Widespread in China and Indo-China (Flora of China).",
+      "cultivatedRange": "Widely cultivated in China and Japan; occasionally naturalized elsewhere; introduced to Europe, Russia and Ukraine in the 18th-19th centuries.",
+      "historicalRole": "The 'ai blue (knotweed)' identified in 8th-century Shōsōin textiles; one of the Chinese lan plants.",
+      "indigoContent": "In the 2024 Austrian trial: 0.6 g indigotin per kg of fresh plant, and extracted indigo of 44% indigotin.",
+      "sources": [
+        {
+          "institution": "Flora of China (Missouri Botanical Garden & Harvard University Herbaria), eFloras",
+          "title": "Polygonum tinctorium, FOC vol. 5",
+          "date": "2003",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006738",
+          "quote": "Widespread in China [Indo-China; cultivated and occasionally naturalized elsewhere]. This species is used medicinally and for dyeing.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), via PubMed Central",
+          "title": "'Purplish Blue' or 'Greenish Grey'? Indigo Qualities and Extraction Yields from Six Species",
+          "date": "2024-03-22",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11013892/",
+          "quote": "Persicaria tinctoria , a major indigo-yielding species of East and Southeast Asia, was introduced to Europe, Russia and Ukraine in the 18th and 19th centuries [ 25 ].",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "strobilanthes-cusia",
+      "scientificName": "Strobilanthes cusia (Nees) Kuntze",
+      "commonNames": [
+        "Assam indigo",
+        "ban lan (Chinese)"
+      ],
+      "family": "Acanthaceae",
+      "nativeRange": "Southern China (Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hunan, Sichuan, Taiwan, SE Xizang, Yunnan, Zhejiang) plus Bangladesh, Bhutan, India, Laos, Myanmar, Thailand and Vietnam. Flora of China notes it may be cultivated rather than native in part of this range.",
+      "cultivatedRange": "East, South and Southeast Asia.",
+      "historicalRole": "A major indigo source of the eastern Himalaya and South-East and East Asia ('Assam indigo').",
+      "indigoContent": "In 2024 field extractions in China, its indigotin extraction yield was up to five times greater than the other species tested.",
+      "sources": [
+        {
+          "institution": "Flora of China (Missouri Botanical Garden & Harvard University Herbaria), eFloras",
+          "title": "Strobilanthes cusia, FOC vol. 19",
+          "date": "2011",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022031",
+          "quote": "In at least part of its stated range Strobilanthes cusia may be cultivated rather than native. This is a medicinal and dye plant and is the source of \"Assam indigo.\"",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "Plants (MDPI), via PubMed Central",
+          "title": "'Purplish Blue' or 'Greenish Grey'? Indigo Qualities and Extraction Yields from Six Species",
+          "date": "2024-03-22",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11013892/",
+          "quote": "Due to the high indigo extraction yield combined with a high indigotin content, the indigotin extraction yield of Strobilanthes cusia was up to five times greater than that of the other species",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    },
+    {
+      "id": "philenoptera-cyanescens",
+      "scientificName": "Philenoptera cyanescens (Schumach. & Thonn.) Roberty (syn. Lonchocarpus cyanescens)",
+      "commonNames": [
+        "gara",
+        "West African wild indigo",
+        "Yoruba indigo"
+      ],
+      "family": "Fabaceae (Leguminosae)",
+      "nativeRange": "Western Africa, from Senegal to Cameroon and Equatorial Guinea (Bioko).",
+      "cultivatedRange": "Cultivated especially in Sierra Leone and Ghana; occasionally elsewhere in the tropics.",
+      "historicalRole": "Used for indigo in West Africa since at least the 11th century. It is a possible source for the Tellem textiles; residues cannot distinguish it from Indigofera.",
+      "indigoContent": "Leaves contain 0.1-0.3% indoxyl precursors; the dyestuff contains up to 43% indigotin.",
+      "sources": [
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Philenoptera cyanescens (Cardon & Jansen)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Philenoptera_cyanescens_(PROTA)",
+          "quote": "The leaves contain 0.1–0.3% of precursors of indoxyl and can yield an indigo dyestuff which contains up to 43% indigotin.",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        },
+        {
+          "institution": "PROTA (Plant Resources of Tropical Africa), Wageningen / Pl@ntUse",
+          "title": "Philenoptera cyanescens (Cardon & Jansen)",
+          "date": "2005",
+          "url": "https://plantuse.plantnet.org/en/Philenoptera_cyanescens_(PROTA)",
+          "quote": "Philenoptera cyanescens is widespread in western Africa, from Senegal to Cameroon and Equatorial Guinea (Bioko).",
+          "verificationStatus": "CONFIRMED",
+          "accessType": "FREE"
+        }
+      ]
+    }
+  ],
+  "notes": "CONVENTIONS: 'year' is a representative integer (negative = BCE). era is 'origins' for before 500 CE and 'medieval' for 500-1497. verificationStatus is CONFIRMED when the fetched page states the claim; PENDING when the source is right but was not read in full (paywall, HTTP 403/429, or seen only as a search snippet) or when the only source is Wikipedia; DERIVED when the researcher computed, counted or translated the value. All pages were accessed 2026-09-23. Wikipedia 'date' fields give the access year.\n\nLOCATION PRECISION. Actual site (verified coordinates): huaca-prieta, beycesultan, tutankhamun (KV62), hallstatt (salt mine), oseberg (mound), shosoin, calakmul, chichen-itza (Sacred Cenote), marco-polo (Kollam), tellem (Bandiagara Escarpment centroid). Approximate city or site coordinates from general knowledge: york-coppergate, amiens, erfurt, toulouse, jerusalem, qayrawan, fustat, kano (Kofar Mata placed at old-city Kano, about 12.00N 8.51E; not verified). Representative only, because the source gives no findspot or the event is a text: egypt-fifth-dynasty (Saqqara), babylonian tablet (Babylon), xunzi (Lanling, approximate), caesar (Canterbury for Cantium), periplus (Banbhore, one proposed site of Barbarikon), pliny (Rome), diocletian edict (Nicomedia), qimin-yaoshu (Shouguang), capitulare (Aachen), zhao-rugua (Khambhat/Cambay).\n\nKEY CAVEATS AND DISPUTES.\n(1) Huaca Prieta: Splitstoser et al. put the oldest indigo cloth at about 6,200-6,000 years old, inferred from strata bracketed at 6882-6657 and 5848-5585 cal BP. The year -4200 is representative.\n(2) Egypt, Fifth Dynasty (c. 2400 BCE): cited only as 'earliest reported' in the Science Advances and National Geographic pieces. No findspot or primary report was located, and whether the blue is woad or Indigofera is unknown; PROTA says both were known in Egypt.\n(3) Tutankhamun: spectroscopy (and HPLC generally) identifies indigotin, not the plant source.\n(4) Babylonian dye tablet (BM 62788+82978, 1882,0918.2757): the British Museum page returned 403, so its wording is from a search snippet (PENDING). Koren (2022) calls the tablet 'Late Babylonian' and dates it to the seventh century BCE. The blue dyestuff is not named in the tablet; 'probably woad' is Koren's editorial insertion. The published edition of one fragment is Leichty 1979 (AOAT 203), not read.\n(5) Caesar, Gallic War 5.14, 'vitro inficiunt': vitrum usually means glass. Pyatt et al. (1991, 'Non isatis sed vitrum') argued for copper or iron pigments from Lindow Man analyses; Carr (2005) argued for woad tattooing. Dantas (2023) and Hoecherl consider it unresolved.\n(6) Pliny: the Bostock/Perseus chapter is 35.27, which is 35.46 in Loeb section numbering (the brief's 'NH 35.46'). The 20 denarii/lb (77 CE) and Diocletian's 750 denarii/lb (301 CE) cannot be compared directly because of 3rd-century inflation and debasement. The edict's indigo entry is marked '(?)' by the translator.\n(7) Maya Blue dates conflict. The Wheaton/Field Museum release says it was used c. 300-1500 CE, but Calakmul analyses place the earliest use in the Late Preclassic. The Calakmul paper (J. Cultural Heritage 2011, doi 10.1016/j.culher.2009.12.002) was not read; the 'c. 300 BC-300 AD' gloss is from a search snippet. The Sacred Cenote blue layer is 14 ft in the release but about 5 m (16 ft) in Wikipedia. Bonampak murals were not researched.\n(8) Hallstatt: the 33% and 58% indigotin shares come from a paywalled abstract (PENDING); the NHM Vienna pages confirm woad in general. Hochdorf and Hohmichele 'woad-dyed textiles' appear in Wikipedia with [citation needed] and could not be verified, so they are dropped. Heuneburg woad-seed impressions (Wikipedia ref) are also unverified.\n(9) Neolithic woad seeds, Adaouste/l'Audoste cave (Bouches-du-Rhône): only a general statement from Cambridge University Botanic Garden ('Seeds have been found in caves in France dating back to the Neolithic period') and an uncited Wikipedia line. No date was found, so there is no event. The relevant paper, Zech-Matterne & Leconte 2010 (Veget. Hist. Archaeobot. 19:137-142, doi 10.1007/s00334-009-0229-3), could not be read.\n(10) Dropped for lack of evidence: Çatalhöyük indigo (nothing found); Indus Valley / Mohenjo-daro indigo or dye vats (no verified evidence of indigo; PROTA's 'oldest Sanskrit records' line is too vague to date).\n(11) Oseberg: the woad seed box is attested by Store norske leksikon. The primary report, Holmboe 1927 in Osebergfundet vol. 5, was not read. Britannica dates the ship itself to about 820; tree rings date the burial to 834.\n(12) York: Tomlinson 1985 (J. Arch. Sci. 12:269-283) identified dyeplants at Coppergate but is paywalled and was not read. The EAU report quoted refers to mid-to-late 11th-century deposits. The Wikipedia claim of a 10th-century 'dye shop with woad and madder' was not verified.\n(13) Geniza: the 978 record (T-S 12.468) describes the goods in Hebrew as 'isatis called Syrian nil' (researcher's reading), so this 'indigo' may be a woad-type product. PGP descriptions rely on Moshe Gil's editions. Goitein's broader discussions of the indigo trade were not consulted.\n(14) Benjamin of Tudela names Jewish dyers but never the dyestuffs; linking them to indigo is contextual.\n(15) Frederick II and Sicily: Yule's note (Gutenberg) says 'Indigo had been introduced into Sicily by the Jews during the time of Frederick II'. The specific claim that Jews from Garbum/Jerba were invited to Palermo in 1239-40 to grow indigo and henna appeared only in search snippets (source unidentified), so no event was created.\n(16) Other medieval trade leads, in Yule's notes but not independently verified: Pegolotti's merchant handbook names the finest indigo 'Indaco Baccadeo' (from Baghdad), and Barcelona tariffs list 'Indigo de Bagadel'. 13th-century London Painters' Guild bylaws (Liber Horn) forbade painting on gold or silver with 'inde de Baldas'.\n(17) Erfurt: the University of Erfurt received its papal charter in 1379 and opened in 1392. The idea that woad paid for it is hedged ('Vermutlich', presumably) by the local-history source. The '3 tons of gold a year' and '300 woad villages' figures seen in search results are unsourced and omitted. The 49 villages (1579) figure is post-period context.\n(18) Toulouse: the golden age (1463-1562) falls mostly after 1497. The 40,000 tonnes/year figure is a tourism-board claim with no scholarly citation; Brumont 1994 (Annales du Midi) would hold the real export series but its full text could not be retrieved. The Hôtel d'Assézat (1555) is post-period and not verified here.\n(19) Kano Kofar Mata 1498 is a traditional date; the founder name 'Muhammad Dabosa' in some web sources is unverified. It is one year outside the slice and included only because the brief asked for it.\n(20) Woad vs Indigofera yield: the only peer-reviewed ratio found is Dupré et al. 2025, about 0.2% vs 1% extraction yield (five times). The widely repeated 'woad yields one-thirtieth' claim was found only on blogs and is not verified. Modern yields vary widely with method (Hartl et al. 2024).\n(21) China: the Xia xiaozheng line '五月啟灌藍蓼' (quoted in Qimin yaoshu ch. 53) may be earlier than Xunzi, but its date is uncertain, so no event was made. The claim of Chinese indigo 'c. 3000 BCE' (JSTOR Daily) is unsourced and omitted, and no early Chinese textile dye analysis (e.g. Mawangdui) was verified. ctext.org states that it does not authorise automated access, so Chinese texts were read on Wikisource instead.\n(22) Japan: only the Nara-period Shōsōin evidence is included; Heian sources such as the Engishiki dye recipes were not researched.\n(23) Access failures: the British Museum, ScienceDirect, Academia.edu, MDPI (403), the Met (429), Kew POWO and UNESCO could not be fetched. The MDPI article by Dupré et al. was read in full through the Europe PMC REST API (PMC12348740)."
+}
