@@ -50,6 +50,24 @@ function cleanSource(s, extra = {}) {
   return o;
 }
 
+/* One record often quotes the same document twice (two sentences from one
+   paper). Merge those into one source object per document, keeping every
+   quote, so the page links each document once and the audit counts
+   documents per record rather than sentences. */
+function mergeSources(list) {
+  const out = [], byKey = new Map();
+  for (const s of list.filter(Boolean)) {
+    const k = `${s.url}|${s.title || ''}|${s.verificationStatus}`;
+    const prev = byKey.get(k);
+    if (!prev) { const c = { ...s }; byKey.set(k, c); out.push(c); continue; }
+    if (s.quote && prev.quote !== s.quote && !String(prev.quote || '').includes(s.quote)) {
+      prev.quote = prev.quote ? `${prev.quote} … ${s.quote}` : s.quote;
+    }
+    if (s.note && !String(prev.note || '').includes(s.note)) prev.note = prev.note ? `${prev.note} ${s.note}` : s.note;
+  }
+  return out;
+}
+
 /* ── indexes ─────────────────────────────────────────────── */
 const events = new Map(), seriesIdx = new Map(), quant = new Map();
 for (const [slice, data] of Object.entries(research)) {
@@ -102,7 +120,7 @@ const H = {
   event: id => need(events, id, 'event'),
   eventSources: (id, idx) => {
     const all = (need(events, id, 'event').sources || []).map(x => cleanSource(x));
-    return idx == null ? all : [].concat(idx).map(i => all[i]).filter(Boolean);
+    return mergeSources(idx == null ? all : [].concat(idx).map(i => all[i]).filter(Boolean));
   },
   quant: id => need(quant, id, 'quant'),
   quantSources: (id, idx) => {
@@ -147,8 +165,8 @@ const mapEvents = E.events.map(sel => {
   const ev = H.event(o.id);
   const year = o.year ?? ev.year;
   const lat = o.lat ?? ev.lat, lng = o.lng ?? ev.lng;
-  const sources = (ev.sources || []).map(s => cleanSource(s)).filter(Boolean)
-    .filter((_, i) => !(o.dropSources || []).includes(i));
+  const sources = mergeSources((ev.sources || []).map(s => cleanSource(s)).filter(Boolean)
+    .filter((_, i) => !(o.dropSources || []).includes(i)));
   return {
     id: o.id,
     date: o.date ?? ev.displayDate,
@@ -198,9 +216,14 @@ for (const [id, def] of Object.entries(E.series)) {
 const images = ((research.media || {}).images || []).filter(a => !(E.mediaDrop || []).includes(a.id));
 const mediaAssets = images.map(a => {
   const o = (E.mediaOverrides || {})[a.id] || {};
+  /* Images are placed by the era they depict (the picture researcher's
+     call, recorded in the research file); the research used "bengal" for
+     the era this site calls "empire". Thumbnails are mirrored locally in
+     assets/media/ when present, so the page does not depend on hotlinks. */
+  const local = `assets/media/${a.id}.jpg`;
   const m = {
     id: a.id,
-    era: o.era ?? (a.year ? eraOf(o.sortYear ?? a.sortYear ?? parseInt(String(a.year).replace(/[^0-9-]/g, ''), 10)) : a.era),
+    era: o.era ?? ({ bengal: 'empire' }[a.era] || a.era),
     year: o.year ?? a.year,
     title: o.title ?? a.title,
     caption: o.caption ?? a.caption,
@@ -209,7 +232,7 @@ const mediaAssets = images.map(a => {
     license: a.license,
     creditLine: o.creditLine ?? a.creditLine,
     sourceUrl: a.sourceUrl,
-    thumbUrl: o.thumbUrl ?? a.localThumb ?? a.thumbUrl,
+    thumbUrl: o.thumbUrl ?? (fs.existsSync(path.join(root, local)) ? local : a.thumbUrl),
     fullUrl: a.fullUrl,
     upstreamArchive: a.upstreamArchive,
     upstreamUrl: a.upstreamUrl,
@@ -217,7 +240,6 @@ const mediaAssets = images.map(a => {
     rightsEvidence: a.rightsEvidence,
     verificationStatus: a.verified ? 'CONFIRMED' : 'PENDING',
   };
-  if (o.era) m.era = o.era;
   for (const k of Object.keys(m)) if (m[k] == null || m[k] === '' || Number.isNaN(m[k])) delete m[k];
   return m;
 });
@@ -240,7 +262,7 @@ const scrollSteps = E.scrollSteps.map(st => {
     flyTo: st.flyTo ?? [ev.lat, ev.lng], zoom: st.zoom ?? 4 };
 });
 
-const plants = E.plants.map(p => ({ ...p, media: p.media && mediaIds.has(p.media) ? p.media : undefined }))
+const plants = E.plants.map(p => ({ ...p, source: mergeSources([].concat(p.source || [])), media: p.media && mediaIds.has(p.media) ? p.media : undefined }))
   .map(p => { if (!p.media) delete p.media; return p; });
 
 const data = {

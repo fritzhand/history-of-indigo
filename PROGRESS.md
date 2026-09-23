@@ -25,7 +25,7 @@ gaps are listed in `ARCHIVAL_RESEARCH_PROMPT_INDIGO.md`.
 | Trade charts | **done** | Atlantic, India, synthetic crossover, Japan, modern output, water per pair |
 | Sankeys | **done** | 1631 VOC fleet (itemised), 1896–97 India (province → market, remainders DERIVED), today's shares (DERIVED) |
 | Human cost & region matrix | **done** | Ten labour rows and thirteen regions, each cited |
-| Picture archive | see `CONTENT_LICENSE.md` | Rights-cleared images only, mirrored with provenance |
+| Picture archive | **done** | 50 images (17 public domain, 16 CC0, 15 CC BY-SA, 2 CC BY) from The Met, Cleveland, Wellcome and Wikimedia Commons; every license read on its record and quoted in `rightsEvidence`; thumbnails mirrored in `assets/media/` |
 | Source audit | **done** | Live tally in the page |
 | Share card & metadata | **done** | `tools/og-card.html` → `assets/og-image.png`; `tools/check-meta.mjs` passes |
 
@@ -35,9 +35,12 @@ Counted by `node tools/validate-data.mjs` (and live on the page):
 
 | Verification status | Source objects |
 |---|---|
-| CONFIRMED | 587 |
+| CONFIRMED | 536 |
 | PENDING | 24 |
 | DERIVED | 146 |
+
+Source objects are merged per document within a record, so a record that
+quotes one paper twice counts that paper once.
 
 DERIVED is large by design: every unit conversion (livres, maunds and
 hundredweights to tonnes), every price index and every editorial remainder
