@@ -47,10 +47,12 @@ const MAX_HOSTS_IN_FLIGHT = 6;  // distinct hosts probed at once
 
 /* Hosts that answer automated clients with a challenge. A 403 from these is
    reported as "blocked", not "dead" — verify in a browser before removing. */
-const CHALLENGE_HOSTS = new Set(['www.loc.gov', 'tile.loc.gov', 'www.jstor.org', 'www.science.org', 'www.sciencedirect.com', 'onlinelibrary.wiley.com', 'www.tandfonline.com', 'www.cambridge.org', 'www.britannica.com']);
+const CHALLENGE_HOSTS = new Set(['www.loc.gov', 'tile.loc.gov', 'www.jstor.org', 'www.science.org', 'www.sciencedirect.com',
+  'onlinelibrary.wiley.com', 'www.tandfonline.com', 'www.cambridge.org', 'www.britannica.com', 'www.britishmuseum.org',
+  'www.levistrauss.com', 'stg.levistrauss.levis.com', 'www.mdpi.com', 'www.academia.edu', 'www.collections.yorkarchaeologicaltrust.co.uk']);
 
 /* Hosts where a 429 means "you are auditing too fast", not "this link is dead". */
-const THROTTLE_HOSTS = new Set(['upload.wikimedia.org', 'commons.wikimedia.org']);
+const THROTTLE_HOSTS = new Set(['upload.wikimedia.org', 'commons.wikimedia.org', 'www.metmuseum.org']);
 
 /* ── URL extraction with balanced parens ───────────────────────────── */
 function extractUrls(text) {

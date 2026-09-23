@@ -10266,7 +10266,7 @@ window.indigoData = {
           institution: "Editorial remainder calculation",
           title: "Other provinces and other markets",
           date: "2026-09-23",
-          url: "https://github.com/fritzhand/history-of-indigo/blob/main/tools/editorial.mjs",
+          url: "https://github.com/fritzhand/history-of-indigo/blob/HEAD/tools/editorial.mjs",
           note: "DERIVED. Other provinces = 169,523 − 109,000 − 44,000; other markets = 169,523 − 89,938. The UK figure is for calendar 1896 and the Indian total for fiscal 1896–97, so the split is approximate.",
           verificationStatus: "DERIVED",
           accessType: "FREE"
@@ -10313,7 +10313,7 @@ window.indigoData = {
           institution: "Editorial share model",
           title: "Rounded shares",
           date: "2026-09-23",
-          url: "https://github.com/fritzhand/history-of-indigo/blob/main/tools/editorial.mjs",
+          url: "https://github.com/fritzhand/history-of-indigo/blob/HEAD/tools/editorial.mjs",
           note: "DERIVED. Plant indigo ≈1% (Fibershed, itself hedged \"said to\"); denim \"more than 95%\" (C&EN 2011), drawn at 95. Output range from the published estimates in the Today section.",
           verificationStatus: "DERIVED",
           accessType: "FREE"

@@ -46,6 +46,17 @@ DERIVED is large by design: every unit conversion (livres, maunds and
 hundredweights to tonnes), every price index and every editorial remainder
 is marked DERIVED even when its input is CONFIRMED.
 
+## Link audit (2026-09-23)
+
+`tools/check-links.mjs` over `js/data.js`: 308 URLs, 250 answer, 36 are
+rate-limited or bot-gated (Wikimedia originals, Britannica, Wiley,
+ScienceDirect, LOC) and resolve in a browser. The rest needing attention are
+bot blocks on Levi Strauss & Co., the British Museum, MDPI and Academia, a
+429 burst from The Met, two slow hosts (lescij.org, eguizhou.gov.cn) and an
+expired certificate on the University of Costa Rica repository (kerwa.ucr.ac.cr).
+The one genuinely dead link, to this repository's own `main` branch, now
+points at `HEAD`.
+
 ## Corrections the research pass made to the popular story
 
 - The 1577 imperial "devil's dye" ban targeted a vitriol-based colour, not
